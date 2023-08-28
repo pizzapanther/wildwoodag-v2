@@ -1,0 +1,11 @@
+--2023-08-28 11:37:50--  https://sfo3.digitaloceanspaces.com/wildwoodchurch/original_images/512x512bb.jpg
+Resolving sfo3.digitaloceanspaces.com (sfo3.digitaloceanspaces.com)... 138.68.34.161
+Connecting to sfo3.digitaloceanspaces.com (sfo3.digitaloceanspaces.com)|138.68.34.161|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 23195 (23K) [image/jpeg]
+Saving to: ‘512x512bb.jpg’
+
+     0K .......... .......... ..                              100%  169M=0s
+
+2023-08-28 11:37:51 (169 MB/s) - ‘512x512bb.jpg’ saved [23195/23195]
+

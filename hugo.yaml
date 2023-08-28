@@ -94,22 +94,22 @@ $manuMain:
     weight: 20
     identifier: about
     params:
-      icon: eva eva-heart
+      icon: eva eva-info
     url: /about/
-  - &mainMenuLinks
-    name: Links
+  - &mainMenuCal
+    name: Events
     weight: 30
-    identifier: links
+    identifier: events
     params:
-      icon: eva eva-people
-    url: /links/
-  - &mainMenuArchives
-    name: Archives
+      icon: eva eva-calendar
+    url: /events/
+  - &mainMenuWatch
+    name: Watch
     weight: 40
-    identifier: archives
+    identifier: watch
     params:
-      icon: eva eva-bar-chart
-    url: /archives/
+      icon: eva eva-tv
+    url: /watch/
   - &mainMenuTags
     name: Tags
     weight: 50
@@ -152,8 +152,8 @@ menu:
   main:
     - *mainMenuHome
     - *mainMenuAbout
-    - *mainMenuLinks
-    - *mainMenuArchives
+    - *mainMenuCal
+    - *mainMenuWatch
     - *mainMenuTwitter
     - *mainMenuGitHub
     - *mainMenuSearch

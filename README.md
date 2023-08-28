@@ -1,5 +1,9 @@
 # Wildwood Assembly Version 2
 
+Hugo CMS static site that is compiled for web, android, and iOS.
+
+Hugo Theme: [Luna](https://github.com/Ice-Hazymoon/hugo-theme-luna)
+
 ## Palette
 
 https://paletton.com/#uid=35B0I0ki6se88KxdiyBmdn+qlju
