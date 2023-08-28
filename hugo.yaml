@@ -203,7 +203,7 @@ params:
   # 评论系统
   # Comment system
   comments:
-    enabled: true
+    enabled: false
     provider: "giscus" # custom | giscus
     giscus: &giscus
       repo: "Ice-Hazymoon/hugo-theme-luna"
