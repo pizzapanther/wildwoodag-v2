@@ -272,11 +272,11 @@ params:
     enabled: true
     # 网站创建时间
     # Site creation time
-    creatTime: 2016/12/12
+    creatTime: 2023/09/01
   
   #  网站创建年份
   # Site creation year
-  since: "2016"
+  since: "2023"
 
   # 显示文章过时提醒
   # show warning when outdated info detected
