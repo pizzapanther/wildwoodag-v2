@@ -20,17 +20,22 @@ In addition to their pastoral duties, Kelly is an active mid-wife and leader at 
 
 ## Ministry Leaders
 
-### Men's Minitstry: Randy Knapp
-
-<img alt="Randy Knapp" src="/img/randy.jpg" style="width: 164px;">
-
-Randy is an expert carpenter and bass singer for the Wildwood worship team. His years of experience leads the Wildwood men with insightful thoughts and comedical twists.
-
-### Women's Ministry: Shannon Bailey
-
-<img alt="Randy Knapp" src="/img/shannon.jpg" style="width: 164px;">
-
-Shannon is an elementary school teacher and licensed Biblical therapist in addition to serving on the Wildwood worship team.
+<div class="columns">
+  <div>
+    <h4 class="tc">Men's Minitstry:<br>Randy Knapp</h4>
+    <img class="tc-block" alt="Randy Knapp" src="/img/randy.jpg" style="width: 164px;">
+    <p class="j">
+      Randy is an expert carpenter and bass singer for the Wildwood worship team. His years of experience leads the Wildwood men with insightful thoughts and comedical twists.
+    </p>
+  </div>
+  <div>
+    <h4 class="tc">Women's Ministry:<br>Shannon Bailey</h4>
+    <img class="tc-block" alt="Randy Knapp" src="/img/shannon.jpg" style="width: 164px;">
+    <p class="j">
+      Shannon is an elementary school teacher and licensed Biblical therapist in addition to serving on the Wildwood worship team.
+    </p>
+  </div>
+</div>
 
 <hr>
 

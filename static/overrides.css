@@ -2,3 +2,37 @@ nav a .md\:hidden {
   display: block;
   z-index: 1;
 }
+
+/* custom css */
+
+.tc {
+  text-align: center;
+}
+
+.tc-block {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+p.j {
+  text-align: justify;
+}
+
+.columns {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.columns > div {
+  width: 300px;
+  margin: 10px 20px;
+}
+
+.columns > div:first-child {
+  margin-left: 0;
+}
+
+.columns > div:last-child {
+  margin-right: 0;
+}
