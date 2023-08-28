@@ -94,7 +94,7 @@ $manuMain:
     weight: 20
     identifier: about
     params:
-      icon: eva eva-info
+      icon: eva eva-question-mark-circle
     url: /about/
   - &mainMenuCal
     name: Events
@@ -110,6 +110,13 @@ $manuMain:
     params:
       icon: eva eva-tv
     url: /watch/
+  - &mainMenuDonate
+    name: Donate
+    weight: 50
+    identifier: donate
+    params:
+      icon: eva eva-heart
+    url: /donate/
   - &mainMenuTags
     name: Tags
     weight: 50
@@ -138,6 +145,13 @@ $manuMain:
     params:
       icon: eva eva-github
     url: /github/
+  - &mainMenuContact
+    name: Contact
+    weight: 80
+    identifier: contact
+    params:
+      icon: eva eva-phone-call
+    url: /contact/
   - &mainMenuSearch
     name: Search
     weight: 999
@@ -154,8 +168,8 @@ menu:
     - *mainMenuAbout
     - *mainMenuCal
     - *mainMenuWatch
-    - *mainMenuTwitter
-    - *mainMenuGitHub
+    - *mainMenuDonate
+    - *mainMenuContact
     - *mainMenuSearch
   # 副导航 / sub-navigation
   # sub:
