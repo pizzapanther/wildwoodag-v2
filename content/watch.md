@@ -1,12 +1,17 @@
 ---
-title: "Watch"
-date: 2023-08-28T00:00:00+00:00
-layout: "page"
-type: page
-comments: false
+title: "Online Video and Streaming"
+menu:
+  main:
+    name: Watch
+    weight: -70
+    params:
+      icon: watch
 ---
-
-# Online Video and Streaming
+<style>
+  .article-time {
+    display: none;
+  }
+</style>
 
 <div class="columns">
   <div>

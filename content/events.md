@@ -1,12 +1,17 @@
 ---
 title: "Calendar of Events"
-date: 2023-08-28T00:00:00+00:00
-layout: "page"
-type: page
-comments: false
+menu:
+  main:
+    name: Events
+    weight: -80
+    params:
+      icon: calendar-event
 ---
-
-# Calendar of Events
+<style>
+  .article-time {
+    display: none;
+  }
+</style>
 
 [View Full Calendar](https://calendar.google.com/calendar/embed?src=62da059a43acfa2924e50e6aaa43e3aed3728f7eda51af7d7a43f0313404e09c%40group.calendar.google.com&amp;ctz=America%2FChicago)
 <br><br>

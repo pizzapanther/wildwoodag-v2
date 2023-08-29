@@ -1,12 +1,12 @@
 ---
-title: "About"
-date: 2023-08-28T00:00:00+00:00
-layout: "page"
-type: page
-comments: false
+title: "About Wildwood Assembly"
+menu:
+  main:
+    name: About
+    weight: -90
+    params:
+      icon: question-mark
 ---
-
-# About Wildwood Assembly
 
 ## Our Pastors
 

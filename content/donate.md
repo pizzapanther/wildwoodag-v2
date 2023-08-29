@@ -1,12 +1,17 @@
 ---
-title: "Donate"
-date: 2023-08-28T00:00:00+00:00
-layout: "page"
-type: page
-comments: false
+title: Donations
+menu:
+  main:
+    name: Donate
+    weight: -60
+    params:
+      icon: give
 ---
-
-# Donations
+<style>
+  .article-time {
+    display: none;
+  }
+</style>
 
 ## Donate with Tithe.ly Online
 <img alt="Growth" src="/img/grow-donate.jpg" style="width: 40%; float: right; margin: 0 10px 20px 10px;">
