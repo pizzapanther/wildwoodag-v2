@@ -14,7 +14,7 @@ menu:
 </style>
 
 <div class="columns">
-  <div>
+  <div class="tc">
     <h4 class="tc">Live Streaming</h4>
     <img class="tc-block" alt="Live Stream" src="/img/live-stream.jpeg" style="width: 150px;">
     <p>
@@ -25,13 +25,15 @@ menu:
       Wednesday: 7:00 PM
     </p>
   </div>
-  <div>
+  <div class="tc">
     <h4 class="tc">Rumble Channel</h4>
     <img class="tc-block" alt="Rumble" src="/img/rumble.jpg" style="width: 150px;">
     <p>
       View past videos of our sermons and Bible studies on our Rumble Channel.
       <br><br>
-      <a href="https://rumble.com/c/wildwoodag" target="_blank">View Videos</a>
+      <div class="article-category" style="display: block">
+        <a href="https://rumble.com/c/wildwoodag" target="_blank">View Videos</a>
+      </div>
     </p>
   </div>
 </div>

@@ -10,7 +10,7 @@ menu:
 
 ## Our Pastors
 
-<img alt="Pastor Mark and Kelly" src="/img/pastors.jpg" style="width: 220px; float: right; margin: 5px 10px;">
+<img alt="Pastor Mark and Kelly" src="/img/pastors.jpg" style="width: 50%; float: right; margin: 5px 10px;">
 
 Mark and Kelly Baumgartner were former missionaries to Africa before returning to the states to begin a ministry to churches in transition. During that time, Mark and Kelly were called to not only help with the Church in the Wildwood's transition but also become the church's permanent Pastors. In September 2021, the Baumgartners were voted in as pastors to Church in the Wildwood.
 
@@ -21,14 +21,14 @@ In addition to their pastoral duties, Kelly is an active mid-wife and leader at 
 ## Ministry Leaders
 
 <div class="columns">
-  <div>
+  <div class="tc">
     <h4 class="tc">Men's Minitstry:<br>Randy Knapp</h4>
     <img class="tc-block" alt="Randy Knapp" src="/img/randy.jpg" style="width: 164px;">
     <p class="j">
       Randy is an expert carpenter and bass singer for the Wildwood worship team. His years of experience leads the Wildwood men with insightful thoughts and comedical twists.
     </p>
   </div>
-  <div>
+  <div class="tc">
     <h4 class="tc">Women's Ministry:<br>Shannon Bailey</h4>
     <img class="tc-block" alt="Randy Knapp" src="/img/shannon.jpg" style="width: 164px;">
     <p class="j">
