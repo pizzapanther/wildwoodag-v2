@@ -2,7 +2,12 @@
 
 Hugo CMS static site that is compiled for web, android, and iOS.
 
-Hugo Theme: [Luna](https://github.com/Ice-Hazymoon/hugo-theme-luna)
+Hugo Theme: [Stack](https://github.com/CaiJimmy/hugo-theme-stack)
+
+## Deployment
+
+- Commit and Push to github
+
 
 ## Palette
 

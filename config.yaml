@@ -1,4 +1,4 @@
-baseurl: https://example.com
+baseurl: https://beta.wildwoodag.church
 languageCode: en-us
 theme: hugo-theme-stack
 paginate: 5
