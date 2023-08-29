@@ -8,9 +8,9 @@ menu:
       icon: watch
 ---
 <style>
-  .article-time {
-    display: none;
-  }
+.article-time {
+  display: none;
+}
 </style>
 
 <div class="columns">
@@ -18,7 +18,7 @@ menu:
     <h4 class="tc">Live Streaming</h4>
     <img class="tc-block" alt="Live Stream" src="/img/live-stream.jpeg" style="width: 150px;">
     <p>
-      View live video online with any device at <a href="https://wildwoodag.online.church/" target="_blank">wildwoodag.online.church</a>.
+      View live video online with any device at <a href="https://wildwoodag.online.church/" target="_blank" style="font-weight: bold;">wildwoodag.online.church</a>.
       <br><br>
       <strong>Service Streams:</strong><br>
       Sunday: 10:30 AM<br>

@@ -12,13 +12,56 @@ menu:
 .article-details {
     display: none;
 }
+
+.article-image {
+    position: relative;
+}
+
+
+.banner {
+  background-color: rgba(255, 255, 255, 0.7);
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  white-space: pre-wrap;
+  font-size: 3em;
+  color: #000;
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+  justify-content: center;
+  padding: 0 20px;
+  text-shadow: 2px 2px 5px #A6B939;
+  white-space: nowrap;
+}
+
+@media (max-width: 550px) {
+    .banner {
+        font-size: 2em;
+    }
+}
+
+.banner > div:first-child {
+    font-weight: bold;
+}
 </style>
 
-<div>
-    <div>Wildwood Assembly</div>
-    <div>Welcome Home</div>
-</div>
+<template id="banner-tpl">
+    <div class="banner">
+        <div>Wildwood Assembly</div>
+        <div>Welcome Home</div>
+    </div>
+</template>
 
+<script>
+function showContent() {
+  let temp = document.getElementById("banner-tpl");
+  let clon = temp.content.cloneNode(true);
+  document.querySelector(".article-image").prepend(clon);
+}
+
+showContent();
+</script>
 <img alt="Cross" src="/img/cross.jpg" style="width: 40%; float: right; border-radius: 10px;">
 
 ## Location
