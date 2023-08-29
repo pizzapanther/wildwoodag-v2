@@ -187,24 +187,24 @@ params:
 menu:
     main: []
 
-    # social:
-    #     - identifier: instagram
-    #       name: Instagram
-    #       url: https://www.instagram.com/wildwoodassemblycanyonlake/
-    #       params:
-    #           icon: instagram
+    social:
+        - identifier: instagram
+          name: Instagram
+          url: https://www.instagram.com/wildwoodassemblycanyonlake/
+          params:
+              icon: instagram
 
-    #     - identifier: nextdoor
-    #       name: Nextdoor
-    #       url: https://nextdoor.com/pages/wildwood-assembly-a-family-church-canyon-lake-tx/
-    #       params:
-    #           icon: nextdoor
+        - identifier: nextdoor
+          name: Nextdoor
+          url: https://nextdoor.com/pages/wildwood-assembly-a-family-church-canyon-lake-tx/
+          params:
+              icon: nextdoor
 
-    #     - identifier: mewe
-    #       name: MeWe
-    #       url: https://mewe.com/i/wildwoodassembly
-    #       params:
-    #           icon: mewe
+        - identifier: mewe
+          name: MeWe
+          url: https://mewe.com/i/wildwoodassembly
+          params:
+              icon: mewe
 
 related:
     includeNewer: true

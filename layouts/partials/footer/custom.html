@@ -1,0 +1,14 @@
+<script>
+function move_social() {
+  let temp = document.querySelector(".social-menu");
+  let clon = temp.cloneNode(true);
+  temp.remove();
+  clon.style.display = 'flex';
+
+  document.querySelector(".site-footer").prepend(clon);
+}
+
+window.addEventListener("load", (event) => {
+  move_social();
+});
+</script>
