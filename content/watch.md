@@ -18,8 +18,10 @@ menu:
     <h4 class="tc">Live Streaming</h4>
     <img class="tc-block" alt="Live Stream" src="/img/live-stream.jpeg" style="width: 150px;">
     <p>
-      View live video online with any device at <a href="https://wildwoodag.online.church/" target="_blank" style="font-weight: bold;">wildwoodag.online.church</a>.
-      <br><br>
+      View live video online with any device at
+      <div class="article-category" style="display: block">
+        <a href="https://wildwoodag.online.church/" target="_blank" style="font-weight: bold;">wildwoodag.online.church</a>
+      </div><br>
       <strong>Service Streams:</strong><br>
       Sunday: 10:30 AM<br>
       Wednesday: 7:00 PM
