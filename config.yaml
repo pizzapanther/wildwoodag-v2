@@ -1,7 +1,7 @@
 baseurl: https://beta.wildwoodag.church
 languageCode: en-us
 theme: hugo-theme-stack
-paginate: 5
+paginate: 20
 title: Wildwood Assembly
 copyright: Wildwood Assembly
 

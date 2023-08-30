@@ -3,6 +3,18 @@
     {{ $notHidden := where .Site.RegularPages "Params.hidden" "!=" true }}
     {{ $filtered := ($pages | intersect $notHidden) }}
     {{ $pag := .Paginate ($filtered) }}
+    <article>
+        <header class="article-title">
+            <h1 style="margin: 0 0 5px 0;">
+                Pastor's Pen
+                {{ if eq $pag.PageNumber 1 }}
+                {{ else }}
+                <span style="font-size: 0.5em;"> &nbsp;- &nbsp;Page: {{ $pag.PageNumber }}</span>
+                {{ end }}
+            </h1>
+            <h2 style="font-size: 1em; margin: 0;"><em>By Pastor Mark Baumgartner</em></h2>
+        </header>
+    </article>
 
     <section class="article-list">
         {{ range $index, $element := $pag.Pages }}
