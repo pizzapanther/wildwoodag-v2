@@ -10,5 +10,5 @@ tags:
   - gratitude
 ---
 
-<p data-block-key="csn6b">Psalm 100:1-5 NKJV</p><p data-block-key="co46c">1) Make a joyful shout to the Lord, all you lands! 2) Serve the Lord with gladness;​ Come before His presence with singing.​ 3) Know that the Lord, He is God; It is He who has made us, and not we ourselves;​We are His people and the sheep of His pasture. 4) Enter into His gates with thanksgiving, And into His courts with praise. Be thankful to Him, and bless His name. 5) For the Lord is good; His mercy is everlasting, And His truth endures to all generations.</p><p data-block-key="13q7r">Today, after service and our meal, we will have an old-fashioned sing along: you don&#x27;t want to miss it. Everyone is welcome! </p>
+<p>Psalm 100:1-5 NKJV</p><p>1) Make a joyful shout to the Lord, all you lands! 2) Serve the Lord with gladness;​ Come before His presence with singing.​ 3) Know that the Lord, He is God; It is He who has made us, and not we ourselves;​We are His people and the sheep of His pasture. 4) Enter into His gates with thanksgiving, And into His courts with praise. Be thankful to Him, and bless His name. 5) For the Lord is good; His mercy is everlasting, And His truth endures to all generations.</p><p>Today, after service and our meal, we will have an old-fashioned sing along: you don&#x27;t want to miss it. Everyone is welcome! </p>
 
