@@ -1,2 +1,11 @@
+<script>
+if (window.Capacitor) {
+  if (window.Capacitor.isNativePlatform()) {
+    const script = document.createElement('script');
+    script.src = '/app.js';
+    document.head.appendChild(script);
+  }
+}
+</script>
 <link rel="manifest" href="/icons/site.webmanifest">
 <link rel="stylesheet" href="/overrides.css" />

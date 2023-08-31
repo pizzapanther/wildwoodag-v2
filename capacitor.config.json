@@ -4,5 +4,10 @@
   "webDir": "public",
   "server": {
     "androidScheme": "https"
+  },
+  "plugins": {
+    "CapacitorUpdater": {
+      "autoUpdate": true
+    }
   }
 }

@@ -48,7 +48,7 @@ menu:
 
 <template id="banner-tpl">
     <div class="banner">
-        <div>Wildwood Assembly</div>
+        <div>New Wildwood Assembly</div>
         <div>Welcome Home</div>
     </div>
 </template>
