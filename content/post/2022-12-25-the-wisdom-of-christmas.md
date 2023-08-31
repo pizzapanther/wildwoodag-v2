@@ -1,6 +1,7 @@
 ---
 title: The Wisdom of Christmas
 date: 2022-12-25
+slug: wisdom-2
 image: /pimg/2022-12-25-the-wisdom-of-christmas.jpg
 categories:
   - Christmas
