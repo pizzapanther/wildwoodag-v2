@@ -9,5 +9,11 @@ tags:
   - fasting
 ---
 
-<p>…the fast that I have chosen: to loose the bonds of wicked, to undo the heavy burdens, to let the oppressed go free, and that you break every yoke…<br/><b>Isaiah 58:6</b></p><p></p><p>Seasons of prayer and fasting can be physically and spiritually productive and life changing! Just read the verse about all that is accomplished: loose bonds, ease burdens, free the oppressed, break the yoke… Wow!</p>
+…the fast that I have chosen: to loose the bonds of wicked, to undo the heavy burdens, to let the oppressed go free, and that you break every yoke…<br/><b>Isaiah 58:6</b>
+
+
+
+Seasons of prayer and fasting can be physically and spiritually productive and life changing! Just read the verse about all that is accomplished: loose bonds, ease burdens, free the oppressed, break the yoke… Wow!
+
+
 
