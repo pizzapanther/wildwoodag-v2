@@ -8,6 +8,20 @@ Hugo Theme: [Stack](https://github.com/CaiJimmy/hugo-theme-stack)
 
 - Commit and Push to github
 
+## Build Native
+
+```
+hugo -b /
+python3 prepare_native_app.py
+cap sync
+
+cap open android
+
+# or
+
+cap open ios
+```
+
 
 ## Palette
 

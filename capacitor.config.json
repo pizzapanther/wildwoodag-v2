@@ -1,0 +1,8 @@
+{
+  "appId": "com.wildwoodag.chuch",
+  "appName": "Wildwood Assembly",
+  "webDir": "public",
+  "server": {
+    "androidScheme": "https"
+  }
+}
