@@ -1,4 +1,4 @@
-package com.wildwoodag.chuch;
+package com.wildwoodag.church;
 
 import com.getcapacitor.BridgeActivity;
 
