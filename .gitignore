@@ -133,3 +133,5 @@ dist
 public
 .hugo_build.lock
 resources/
+.pdm-python
+__pycache__

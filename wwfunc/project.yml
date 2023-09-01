@@ -17,3 +17,13 @@ packages:
           environment: {}
           annotations: {}
           limits: {}
+        - name: embedcheck
+          binary: false
+          main: ""
+          runtime: python:3.11
+          web: true
+          webSecure: false
+          parameters: {}
+          environment: {}
+          annotations: {}
+          limits: {}

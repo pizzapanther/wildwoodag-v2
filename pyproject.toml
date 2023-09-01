@@ -1,0 +1,20 @@
+[project]
+name = ""
+version = ""
+description = ""
+authors = [
+    {name = "Paul Bailey", email = "paul@neutron.studio"},
+]
+dependencies = [
+    "google-auth>=2.22.0",
+    "google-auth-httplib2>=0.1.0",
+    "google-api-python-client>=2.97.0",
+    "google-auth-oauthlib>=1.0.0",
+]
+requires-python = ">=3.10"
+readme = "README.md"
+license = {text = "MIT"}
+
+[tool.pdm.scripts]
+_.env_file = ".env"
+func = "python run_func.py"
