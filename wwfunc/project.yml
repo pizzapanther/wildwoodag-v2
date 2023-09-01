@@ -24,6 +24,8 @@ packages:
           web: true
           webSecure: false
           parameters: {}
-          environment: {}
+          environment:
+            OAUTH_TOKEN: '${OAUTH_TOKEN}'
+            OAUTH_SECRET: '${OAUTH_SECRET}'
           annotations: {}
           limits: {}
