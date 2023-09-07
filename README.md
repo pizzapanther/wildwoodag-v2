@@ -18,6 +18,10 @@ Hugo Theme: [Stack](https://github.com/CaiJimmy/hugo-theme-stack)
 
 ## App Zip Update
 
+Tag on Github with `v1.X.X`
+
+**Manually**:
+
 ```
 ./build-zip.sh 1.X.X
 ```
