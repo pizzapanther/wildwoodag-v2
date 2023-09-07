@@ -16,6 +16,12 @@ Hugo Theme: [Stack](https://github.com/CaiJimmy/hugo-theme-stack)
 ./build.sh ios
 ```
 
+## Files to Version Update
+
+- `package.json`
+- `android/app/build.gradle` under `defaultConfig.versionName`
+- `ios/App/App.xcodeproj/project.pbxproj` under `CURRENT_PROJECT_VERSION`
+
 ## App Zip Update
 
 git tag v1.X.X
