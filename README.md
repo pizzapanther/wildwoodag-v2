@@ -22,8 +22,6 @@ Hugo Theme: [Stack](https://github.com/CaiJimmy/hugo-theme-stack)
 ./build-zip.sh 1.X.X
 ```
 
-Upload zip to Github Release
-
 ## Embed Code
 
 Channel ID `UCmo8zL1ZhvT4vYNzhSAuAEw`
