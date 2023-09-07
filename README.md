@@ -19,10 +19,7 @@ Hugo Theme: [Stack](https://github.com/CaiJimmy/hugo-theme-stack)
 ## App Zip Update
 
 ```
-hugo -b /
-python3 prepare_native_app.py
-rm -rf public/pimg/
-capgo bundle zip --bundle X.X.X
+./build-zip.sh 1.X.X
 ```
 
 Upload zip to Github Release
