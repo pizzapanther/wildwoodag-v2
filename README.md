@@ -4,7 +4,7 @@ Hugo CMS static site that is compiled for web, android, and iOS.
 
 Hugo Theme: [Stack](https://github.com/CaiJimmy/hugo-theme-stack)
 
-## Deployment
+## Web Deployment
 
 - Commit and Push to github
 
@@ -15,6 +15,17 @@ Hugo Theme: [Stack](https://github.com/CaiJimmy/hugo-theme-stack)
 
 ./build.sh ios
 ```
+
+## App Zip Update
+
+```
+hugo -b /
+python3 prepare_native_app.py
+rm -rf public/pimg/
+capgo bundle zip --bundle X.X.X
+```
+
+Upload zip to Github Release
 
 ## Embed Code
 
