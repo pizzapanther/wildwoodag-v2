@@ -10,4 +10,4 @@ fi
 hugo -b /
 python3 prepare_native_app.py
 rm -rf public/pimg/
-capgo bundle zip --bundle $tag
+./node_modules/.bin/capgo bundle zip --bundle $tag
