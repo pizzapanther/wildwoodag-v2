@@ -132,6 +132,6 @@ dist
 *.zip
 public
 .hugo_build.lock
-resources/
+resources/_gen
 .pdm-python
 __pycache__
