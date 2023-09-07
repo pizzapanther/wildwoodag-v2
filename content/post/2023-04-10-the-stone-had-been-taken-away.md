@@ -1,7 +1,7 @@
 ---
 title: The Stone Had Been Taken Away
 date: 2023-04-10
-image: /pimg/2023-04-10-the-stone-had-been-taken-away.jpg
+image: https://www.wildwoodag.church/pimg/2023-04-10-the-stone-had-been-taken-away.jpg
 categories:
   - Christ
 tags:

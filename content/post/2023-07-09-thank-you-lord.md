@@ -1,7 +1,7 @@
 ---
 title: Thank you Lord!
 date: 2023-07-09
-image: /pimg/2023-07-09-thank-you-lord.jpg
+image: https://www.wildwoodag.church/pimg/2023-07-09-thank-you-lord.jpg
 categories:
   - Gratitude
 tags:

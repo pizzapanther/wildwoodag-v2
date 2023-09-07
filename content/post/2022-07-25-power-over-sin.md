@@ -1,7 +1,7 @@
 ---
 title: Power Over Sin
 date: 2022-07-25
-image: /pimg/2022-07-25-power-over-sin.jpg
+image: https://www.wildwoodag.church/pimg/2022-07-25-power-over-sin.jpg
 categories:
   - Sin
 tags:

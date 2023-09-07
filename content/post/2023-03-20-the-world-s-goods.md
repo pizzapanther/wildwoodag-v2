@@ -1,7 +1,7 @@
 ---
 title: The World's Goods
 date: 2023-03-20
-image: /pimg/2023-03-20-the-world-s-goods.jpg
+image: https://www.wildwoodag.church/pimg/2023-03-20-the-world-s-goods.jpg
 categories:
   - Christian Living
 tags:

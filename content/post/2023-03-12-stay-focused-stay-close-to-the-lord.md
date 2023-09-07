@@ -1,7 +1,7 @@
 ---
 title: Stay Focused, Stay Close to the Lord
 date: 2023-03-12
-image: /pimg/2023-03-12-stay-focused-stay-close-to-the-lord.jpg
+image: https://www.wildwoodag.church/pimg/2023-03-12-stay-focused-stay-close-to-the-lord.jpg
 categories:
   - Christian Living
 tags:

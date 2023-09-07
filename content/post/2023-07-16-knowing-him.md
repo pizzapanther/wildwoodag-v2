@@ -2,7 +2,7 @@
 title: Knowing Him
 slug: knowing-him-2
 date: 2023-07-16
-image: /pimg/2023-07-16-knowing-him.jpeg
+image: https://www.wildwoodag.church/pimg/2023-07-16-knowing-him.jpeg
 categories:
   - Christ
 tags:

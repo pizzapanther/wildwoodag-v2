@@ -1,7 +1,7 @@
 ---
 title: Listening is a Skill
 date: 2022-05-01
-image: /pimg/2022-05-01-listening-is-a-skill.jpg
+image: https://www.wildwoodag.church/pimg/2022-05-01-listening-is-a-skill.jpg
 categories:
   - Growth
 tags:

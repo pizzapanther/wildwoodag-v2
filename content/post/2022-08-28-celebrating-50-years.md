@@ -1,7 +1,7 @@
 ---
 title: Celebrating 50 Years
 date: 2022-08-28
-image: /pimg/2022-08-28-celebrating-50-years.jpeg
+image: https://www.wildwoodag.church/pimg/2022-08-28-celebrating-50-years.jpeg
 categories:
   - Events
 tags:

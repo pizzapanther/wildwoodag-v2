@@ -1,7 +1,7 @@
 ---
 title: But The Greatest of These is Love
 date: 2022-03-13
-image: /pimg/2022-03-13-but-the-greatest-of-these-is-love.jpeg
+image: https://www.wildwoodag.church/pimg/2022-03-13-but-the-greatest-of-these-is-love.jpeg
 categories:
   - Love
 tags:

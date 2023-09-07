@@ -1,7 +1,7 @@
 ---
 title: Less of Me and More of You
 date: 2022-06-05
-image: /pimg/2022-06-05-less-of-me-and-more-of-you.jpg
+image: https://www.wildwoodag.church/pimg/2022-06-05-less-of-me-and-more-of-you.jpg
 categories:
   - Humility
 tags:

@@ -1,7 +1,7 @@
 ---
 title: Honor Your Father and Mother
 date: 2022-05-08
-image: /pimg/2022-05-08-honor-your-father-and-mother.png
+image: https://www.wildwoodag.church/pimg/2022-05-08-honor-your-father-and-mother.png
 categories:
   - Gratitude
 tags:

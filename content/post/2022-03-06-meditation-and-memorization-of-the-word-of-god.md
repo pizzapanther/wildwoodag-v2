@@ -1,7 +1,7 @@
 ---
 title: Meditation and Memorization of the Word of God
 date: 2022-03-06
-image: /pimg/2022-03-06-meditation-and-memorization-of-the-word-of-god.jpeg
+image: https://www.wildwoodag.church/pimg/2022-03-06-meditation-and-memorization-of-the-word-of-god.jpeg
 categories:
   - Word of God
 tags:

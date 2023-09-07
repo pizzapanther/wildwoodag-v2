@@ -1,7 +1,7 @@
 ---
 title: Trespass Offering
 date: 2023-03-26
-image: /pimg/2023-03-26-trespass-offering.webp
+image: https://www.wildwoodag.church/pimg/2023-03-26-trespass-offering.webp
 categories:
   - Christian Living
 tags:

@@ -1,7 +1,7 @@
 ---
 title: Improve Your Serve
 date: 2022-07-31
-image: /pimg/2022-07-31-improve-your-serve.png
+image: https://www.wildwoodag.church/pimg/2022-07-31-improve-your-serve.png
 categories:
   - Growth
 tags:

@@ -1,7 +1,7 @@
 ---
 title: Holy Things of God
 date: 2023-02-19
-image: /pimg/2023-02-19-holy-things-of-god.jpg
+image: https://www.wildwoodag.church/pimg/2023-02-19-holy-things-of-god.jpg
 categories:
   - Seeking God
 tags:

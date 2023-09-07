@@ -1,7 +1,7 @@
 ---
 title: Sunday is on the Way
 date: 2022-04-10
-image: /pimg/2022-04-10-sunday-is-on-the-way.jpeg
+image: https://www.wildwoodag.church/pimg/2022-04-10-sunday-is-on-the-way.jpeg
 categories:
   - Christ
 tags:

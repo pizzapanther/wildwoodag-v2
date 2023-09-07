@@ -1,7 +1,7 @@
 ---
 title: Where Hour Treasure is, There is Your heart
 date: 2022-05-23
-image: /pimg/2022-05-23-where-hour-treasure-is-there-is-your-heart.jpeg
+image: https://www.wildwoodag.church/pimg/2022-05-23-where-hour-treasure-is-there-is-your-heart.jpeg
 categories:
   - Sin
 tags:

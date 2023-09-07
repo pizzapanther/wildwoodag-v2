@@ -1,7 +1,7 @@
 ---
 title: God The Provider
 date: 2022-03-20
-image: /pimg/2022-03-20-god-the-provider.jpg
+image: https://www.wildwoodag.church/pimg/2022-03-20-god-the-provider.jpg
 categories:
   - God Provides
 tags:

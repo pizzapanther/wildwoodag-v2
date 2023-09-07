@@ -1,7 +1,7 @@
 ---
 title: Envy's Disastrous Children
 date: 2022-06-12
-image: /pimg/2022-06-12-envy-s-disastrous-children.jpg
+image: https://www.wildwoodag.church/pimg/2022-06-12-envy-s-disastrous-children.jpg
 categories:
   - Sin
 tags:

@@ -1,7 +1,7 @@
 ---
 title: Emulating God the Father
 date: 2022-06-19
-image: /pimg/2022-06-19-emulating-god-the-father.jpg
+image: https://www.wildwoodag.church/pimg/2022-06-19-emulating-god-the-father.jpg
 categories:
   - God the Father
 tags:

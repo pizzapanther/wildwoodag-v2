@@ -1,7 +1,7 @@
 ---
 title: Character of the New Man
 date: 2022-02-13
-image: /pimg/2022-02-13-character-of-the-new-man.png
+image: https://www.wildwoodag.church/pimg/2022-02-13-character-of-the-new-man.png
 categories:
   - New Life
 tags:

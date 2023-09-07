@@ -1,7 +1,7 @@
 ---
 title: Waiting in Prayer
 date: 2022-12-04
-image: /pimg/2022-12-04-waiting-in-prayer.jpeg
+image: https://www.wildwoodag.church/pimg/2022-12-04-waiting-in-prayer.jpeg
 categories:
   - Prayer
 tags:

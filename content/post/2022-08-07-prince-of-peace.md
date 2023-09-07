@@ -1,7 +1,7 @@
 ---
 title: Prince of Peace
 date: 2022-08-07
-image: /pimg/2022-08-07-prince-of-peace.jpeg
+image: https://www.wildwoodag.church/pimg/2022-08-07-prince-of-peace.jpeg
 categories:
   - Peace
 tags:

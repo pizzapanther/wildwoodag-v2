@@ -42,6 +42,15 @@ fetch_status();
 </script>
 ```
 
+## Digital Ocean Functions
+
+```
+doctl auth init --context wildwood
+doctl auth switch --context wildwood
+```
+
+Deploy: `doctl serverless deploy wwfunc --remote-build`
+
 ## Palette
 
 https://paletton.com/#uid=35B0I0ki6se88KxdiyBmdn+qlju

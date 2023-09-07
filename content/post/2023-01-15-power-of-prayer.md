@@ -1,7 +1,7 @@
 ---
 title: Power of Prayer
 date: 2023-01-15
-image: /pimg/2023-01-15-power-of-prayer.jpg
+image: https://www.wildwoodag.church/pimg/2023-01-15-power-of-prayer.jpg
 categories:
   - Prayer
 tags:

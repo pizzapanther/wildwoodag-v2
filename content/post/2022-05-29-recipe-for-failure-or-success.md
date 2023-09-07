@@ -1,7 +1,7 @@
 ---
 title: Recipe for Failure or Success
 date: 2022-05-29
-image: /pimg/2022-05-29-recipe-for-failure-or-success.jpg
+image: https://www.wildwoodag.church/pimg/2022-05-29-recipe-for-failure-or-success.jpg
 categories:
   - Success
 tags:

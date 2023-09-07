@@ -1,7 +1,7 @@
 ---
 title: Curve Ball
 date: 2022-07-10
-image: /pimg/2022-07-10-curve-ball.webp
+image: https://www.wildwoodag.church/pimg/2022-07-10-curve-ball.webp
 categories:
   - Growth
 tags:

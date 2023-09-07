@@ -1,7 +1,7 @@
 ---
 title: Vacation Bible School Starting Today!
 date: 2022-07-17
-image: /pimg/2022-07-17-vacation-bible-school-starting-today.png
+image: https://www.wildwoodag.church/pimg/2022-07-17-vacation-bible-school-starting-today.png
 categories:
   - Events
 tags:

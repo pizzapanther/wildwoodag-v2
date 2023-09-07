@@ -1,7 +1,7 @@
 ---
 title: Spiritual Inheritance
 date: 2022-05-15
-image: /pimg/2022-05-15-spiritual-inheritance.png
+image: https://www.wildwoodag.church/pimg/2022-05-15-spiritual-inheritance.png
 categories:
   - Legacy
 tags:

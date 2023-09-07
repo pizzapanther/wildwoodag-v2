@@ -1,7 +1,7 @@
 ---
 title: Stewardship
 date: 2022-09-18
-image: /pimg/2022-09-18-stewardship.jpg
+image: https://www.wildwoodag.church/pimg/2022-09-18-stewardship.jpg
 categories:
   - Growth
 tags:

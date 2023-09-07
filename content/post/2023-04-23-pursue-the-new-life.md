@@ -1,7 +1,7 @@
 ---
 title: Pursue the New Life
 date: 2023-04-23
-image: /pimg/2023-04-23-pursue-the-new-life.jpg
+image: https://www.wildwoodag.church/pimg/2023-04-23-pursue-the-new-life.jpg
 categories:
   - New Life
 tags:

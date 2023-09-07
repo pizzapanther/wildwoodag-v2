@@ -1,7 +1,7 @@
 ---
 title: Upward Call of God
 date: 2023-01-30
-image: /pimg/2023-01-30-upward-call-of-god.png
+image: https://www.wildwoodag.church/pimg/2023-01-30-upward-call-of-god.png
 categories:
   - Growth
 tags:

@@ -1,7 +1,7 @@
 ---
 title: Follow Me as I Follow Christ
 date: 2022-08-14
-image: /pimg/2022-08-14-follow-me-as-i-follow-christ.jpg
+image: https://www.wildwoodag.church/pimg/2022-08-14-follow-me-as-i-follow-christ.jpg
 categories:
   - Christ
 tags:

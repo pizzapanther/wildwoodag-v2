@@ -1,7 +1,7 @@
 ---
 title: Effective, Fervent Prayer
 date: 2022-04-24
-image: /pimg/2022-04-24-effective-fervent-prayer.jpg
+image: https://www.wildwoodag.church/pimg/2022-04-24-effective-fervent-prayer.jpg
 categories:
   - Prayer
 tags:

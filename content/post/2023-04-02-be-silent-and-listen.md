@@ -1,7 +1,7 @@
 ---
 title: Be Silent and Listen
 date: 2023-04-02
-image: /pimg/2023-04-02-be-silent-and-listen.jpg
+image: https://www.wildwoodag.church/pimg/2023-04-02-be-silent-and-listen.jpg
 categories:
   - Growth
 tags:

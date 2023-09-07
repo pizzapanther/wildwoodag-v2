@@ -1,7 +1,7 @@
 ---
 title: Knowing Him
 date: 2022-10-14
-image: /pimg/2022-10-14-knowing-him.jpg
+image: https://www.wildwoodag.church/pimg/2022-10-14-knowing-him.jpg
 categories:
   - Christ
 tags:

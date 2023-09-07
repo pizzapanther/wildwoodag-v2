@@ -1,7 +1,7 @@
 ---
 title: Seasons of Prayer and Fasting
 date: 2022-02-20
-image: /pimg/2022-02-20-seasons-of-prayer-and-fasting.jpeg
+image: https://www.wildwoodag.church/pimg/2022-02-20-seasons-of-prayer-and-fasting.jpeg
 categories:
   - Prayer
 tags:

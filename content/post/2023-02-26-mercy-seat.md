@@ -1,7 +1,7 @@
 ---
 title: Mercy Seat
 date: 2023-02-26
-image: /pimg/2023-02-26-mercy-seat.jpg
+image: https://www.wildwoodag.church/pimg/2023-02-26-mercy-seat.jpg
 categories:
   - Christ
 tags:

@@ -1,7 +1,7 @@
 ---
 title: The Empty Tomb Says It All
 date: 2022-04-17
-image: /pimg/2022-04-17-the-empty-tomb-says-it-all.jpeg
+image: https://www.wildwoodag.church/pimg/2022-04-17-the-empty-tomb-says-it-all.jpeg
 categories:
   - Christ
 tags:

@@ -1,7 +1,7 @@
 ---
 title: Don’t go without Him!
 date: 2023-03-05
-image: /pimg/2023-03-05-dont-go-without-him.jpeg
+image: https://www.wildwoodag.church/pimg/2023-03-05-dont-go-without-him.jpeg
 categories:
   - Christian Living
 tags:

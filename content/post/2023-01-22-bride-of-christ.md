@@ -1,7 +1,7 @@
 ---
 title: Bride of Christ
 date: 2023-01-22
-image: /pimg/2023-01-22-bride-of-christ.jpg
+image: https://www.wildwoodag.church/pimg/2023-01-22-bride-of-christ.jpg
 categories:
   - Christ
 tags:

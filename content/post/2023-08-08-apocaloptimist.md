@@ -1,7 +1,7 @@
 ---
 title: Apocaloptimist
 date: 2023-08-08
-image: /pimg/2023-08-08-apocaloptimist.jpg
+image: https://www.wildwoodag.church/pimg/2023-08-08-apocaloptimist.jpg
 categories:
   - New Life
 tags:

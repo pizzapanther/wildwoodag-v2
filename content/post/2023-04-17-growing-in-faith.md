@@ -1,7 +1,7 @@
 ---
 title: Growing in Faith
 date: 2023-04-17
-image: /pimg/2023-04-17-growing-in-faith.jpg
+image: https://www.wildwoodag.church/pimg/2023-04-17-growing-in-faith.jpg
 categories:
   - Growth
 tags:

@@ -1,7 +1,7 @@
 ---
 title: Crumbs in the Carpet
 date: 2022-11-28
-image: /pimg/2022-11-28-crumbs-in-the-carpet.jpg
+image: https://www.wildwoodag.church/pimg/2022-11-28-crumbs-in-the-carpet.jpg
 categories:
   - Seeking God
 tags:

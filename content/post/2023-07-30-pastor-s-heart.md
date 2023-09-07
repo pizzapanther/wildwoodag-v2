@@ -1,7 +1,7 @@
 ---
 title: Pastor's Heart
 date: 2023-07-30
-image: /pimg/2023-07-30-pastor-s-heart.png
+image: https://www.wildwoodag.church/pimg/2023-07-30-pastor-s-heart.png
 categories:
   - Love
 tags:

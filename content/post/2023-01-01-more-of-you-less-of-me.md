@@ -1,7 +1,7 @@
 ---
 title: More of You, Less of Me
 date: 2023-01-01
-image: /pimg/2023-01-01-more-of-you-less-of-me.jpg
+image: https://www.wildwoodag.church/pimg/2023-01-01-more-of-you-less-of-me.jpg
 categories:
   - Growth
 tags:

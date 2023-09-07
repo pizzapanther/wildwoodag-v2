@@ -62,6 +62,13 @@ function showContent() {
 
 showContent();
 </script>
+
+## Community Concert - Sat Sept 30th
+
+<img alt="Community Concert" src="/img/Community-Concert.jpg" style="width: 100%;">
+
+<hr>
+
 <img alt="Cross" src="/img/cross.jpg" style="width: 40%; float: right; border-radius: 10px;">
 
 ## Location

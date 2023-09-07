@@ -1,7 +1,7 @@
 ---
 title: Pray for America
 date: 2023-06-11
-image: /pimg/2023-06-11-pray-for-america.jpg
+image: https://www.wildwoodag.church/pimg/2023-06-11-pray-for-america.jpg
 categories:
   - Prayer
 tags:

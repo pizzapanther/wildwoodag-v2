@@ -1,7 +1,7 @@
 ---
 title: Faith By My Works
 date: 2022-02-27
-image: /pimg/2022-02-27-faith-by-my-works.jpg
+image: https://www.wildwoodag.church/pimg/2022-02-27-faith-by-my-works.jpg
 categories:
   - Faith
 tags:

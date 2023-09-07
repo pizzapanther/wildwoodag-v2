@@ -1,7 +1,7 @@
 ---
 title: Beauty for Ashes
 date: 2022-04-03
-image: /pimg/2022-04-03-beauty-for-ashes.jpg
+image: https://www.wildwoodag.church/pimg/2022-04-03-beauty-for-ashes.jpg
 categories:
   - Christ
 tags:

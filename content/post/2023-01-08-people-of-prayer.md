@@ -1,7 +1,7 @@
 ---
 title: People of Prayer
 date: 2023-01-08
-image: /pimg/2023-01-08-people-of-prayer.jpg
+image: https://www.wildwoodag.church/pimg/2023-01-08-people-of-prayer.jpg
 categories:
   - Prayer
 tags:

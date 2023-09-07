@@ -1,7 +1,7 @@
 ---
 title: Praise the Lord
 date: 2022-09-26
-image: /pimg/2022-09-26-praise-the-lord.jpg
+image: https://www.wildwoodag.church/pimg/2022-09-26-praise-the-lord.jpg
 categories:
   - Praise
 tags:

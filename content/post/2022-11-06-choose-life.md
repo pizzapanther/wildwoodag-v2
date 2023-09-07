@@ -1,7 +1,7 @@
 ---
 title: Choose Life
 date: 2022-11-06
-image: /pimg/2022-11-06-choose-life.jpg
+image: https://www.wildwoodag.church/pimg/2022-11-06-choose-life.jpg
 categories:
   - New Life
 tags:

@@ -1,7 +1,7 @@
 ---
 title: Glorify the Lord with Service
 date: 2022-06-26
-image: /pimg/2022-06-26-glorify-the-lord-with-service.jpg
+image: https://www.wildwoodag.church/pimg/2022-06-26-glorify-the-lord-with-service.jpg
 categories:
   - Service
 tags:

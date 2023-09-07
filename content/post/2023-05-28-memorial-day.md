@@ -1,7 +1,7 @@
 ---
 title: Memorial Day
 date: 2023-05-28
-image: /pimg/2023-05-28-memorial-day.png
+image: https://www.wildwoodag.church/pimg/2023-05-28-memorial-day.png
 categories:
   - Memorial Day
 tags:

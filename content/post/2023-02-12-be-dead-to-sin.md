@@ -1,7 +1,7 @@
 ---
 title: Be Dead to Sin
 date: 2023-02-12
-image: /pimg/2023-02-12-be-dead-to-sin.jpg
+image: https://www.wildwoodag.church/pimg/2023-02-12-be-dead-to-sin.jpg
 categories:
   - Sin
 tags:
