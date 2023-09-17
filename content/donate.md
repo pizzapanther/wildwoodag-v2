@@ -20,7 +20,12 @@ menu:
 - One time and recurring giving
 - Directed giving
 
-**[Donate on Tithe.ly](https://tithe.ly/give?c=5830091)**
+<br>
+<div class="article-category" style="display: block">
+  <a href="https://tithe.ly/give?c=5830091" target="_blank" style="font-weight: bold;">
+    Donate on Tithe.ly
+  </a>
+</div>
 
 <hr style="clear: both;">
 
