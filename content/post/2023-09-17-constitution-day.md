@@ -1,7 +1,7 @@
 ---
 title: Constitution Day
 date: 2023-09-17
-image: https://www.wildwoodag.church/pimg/2023-09-10-keyhole.jpg
+image: https://www.wildwoodag.church/pimg/us-constitution.jpg
 categories:
   - History
 tags:
