@@ -20,6 +20,5 @@ function fetch_status() {
     })
     .catch(e => alert('Error fetching stream status; refresh page.'));
 }
-
 fetch_status();
 </script>
