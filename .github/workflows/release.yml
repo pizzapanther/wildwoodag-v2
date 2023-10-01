@@ -24,7 +24,7 @@ jobs:
         with:
           submodules: recursive
       - name: Install Node.js dependencies
-        run: "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
+        run: npm install
       - name: Build Zip
         run: "./build-zip.sh ${{github.ref_name}}"
       - name: Upload zip
