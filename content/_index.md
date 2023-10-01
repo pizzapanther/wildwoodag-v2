@@ -73,7 +73,7 @@ showContent();
   </a>
 </div>
 
-<hr>
+<br>
 
 <img alt="Cross" src="/img/cross.jpg" style="width: 40%; float: right; border-radius: 10px;">
 
