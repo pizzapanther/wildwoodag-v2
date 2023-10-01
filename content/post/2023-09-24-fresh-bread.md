@@ -3,12 +3,11 @@ title: Fresh Bread
 date: 2023-09-24
 image: https://www.wildwoodag.church/pimg/fresh-bread.jpg
 categories:
-  - History
+  - New Life
 tags:
-  - Constitution
-  - family
-  - church
-  - government
+  - bread
+  - fresh
+  - life
 ---
 
 Matthew 5:6 says, “Blessed are those who hunger and thirst for righteousness, for they shall be filled.
