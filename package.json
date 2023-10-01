@@ -7,11 +7,10 @@
     "@capacitor/ios": "^5.3.0",
     "@capgo/capacitor-updater": "^5.3.9",
     "@capgo/cli": "^3.13.16",
-    "parcel": "^2.9.3"
-  },
-  "devDependencies": {
+    "parcel": "^2.9.3",
     "@capacitor/cli": "^5.3.0"
   },
+  "devDependencies": {},
   "targets": {
     "wild": {
       "source": "src/app.js",
