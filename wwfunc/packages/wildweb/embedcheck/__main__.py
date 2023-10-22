@@ -72,6 +72,6 @@ def main(event):
   return {
     'body': {'status': status, 'embed': embed},
     'headers': {
-      'Access-Control-Allow-Origin': '*'
+      # 'Access-Control-Allow-Origin': '*'
     }
   }
