@@ -3,7 +3,9 @@ PODS:
   - Capacitor (5.3.0):
     - CapacitorCordova
   - CapacitorCordova (5.3.0)
-  - CapgoCapacitorUpdater (5.2.32):
+  - CapacitorDialog (5.0.6):
+    - Capacitor
+  - CapgoCapacitorUpdater (5.3.9):
     - Alamofire
     - Capacitor
     - SSZipArchive
@@ -14,6 +16,7 @@ PODS:
 DEPENDENCIES:
   - "Capacitor (from `../../node_modules/@capacitor/ios`)"
   - "CapacitorCordova (from `../../node_modules/@capacitor/ios`)"
+  - "CapacitorDialog (from `../../node_modules/@capacitor/dialog`)"
   - "CapgoCapacitorUpdater (from `../../node_modules/@capgo/capacitor-updater`)"
 
 SPEC REPOS:
@@ -27,6 +30,8 @@ EXTERNAL SOURCES:
     :path: "../../node_modules/@capacitor/ios"
   CapacitorCordova:
     :path: "../../node_modules/@capacitor/ios"
+  CapacitorDialog:
+    :path: "../../node_modules/@capacitor/dialog"
   CapgoCapacitorUpdater:
     :path: "../../node_modules/@capgo/capacitor-updater"
 
@@ -34,10 +39,11 @@ SPEC CHECKSUMS:
   Alamofire: 0e92e751b3e9e66d7982db43919d01f313b8eb91
   Capacitor: 1ac9165943bc4f2137642d218c5ba05df811de69
   CapacitorCordova: b9374d68e63ce29e96ab5db994cf14fbefd722c9
-  CapgoCapacitorUpdater: befd2d743b160c70b4a6aac6dd6ad360ac9d040e
+  CapacitorDialog: 0f3c15dfe9414b83bc64aef4078f1b92bcfead26
+  CapgoCapacitorUpdater: 399a4f3b10e9e732da6df768d8450d92967c7ace
   SSZipArchive: fe6a26b2a54d5a0890f2567b5cc6de5caa600aef
   Version: de5907f2c5d0f3cf21708db7801d1d5401139486
 
-PODFILE CHECKSUM: e94eabb7b1c611ef74f7afd1153658a61f85181b
+PODFILE CHECKSUM: 75d5a5e0b51204ba17b6d697673f341de6b4aab8
 
 COCOAPODS: 1.12.1
