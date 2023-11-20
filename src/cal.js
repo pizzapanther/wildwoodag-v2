@@ -10,7 +10,7 @@ const calendar = new Calendar(calendarEl, {
     dayGridPlugin,
     listPlugin
   ],
-  initialView: 'listMonth',
+  initialView: 'listWeek',
   events: {
     url: '/basic.ics',
     format: 'ics' // important!
@@ -18,7 +18,7 @@ const calendar = new Calendar(calendarEl, {
   headerToolbar: {
     left: 'prev,next today',
     center: 'title',
-    right: 'listYear,dayGridMonth'
+    right: 'listWeek,dayGridMonth'
   }
 });
 
