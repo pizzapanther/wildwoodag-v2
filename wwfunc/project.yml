@@ -29,3 +29,13 @@ packages:
             OAUTH_SECRET: '${OAUTH_SECRET}'
           annotations: {}
           limits: {}
+        - name: calcache
+          binary: false
+          main: ""
+          runtime: python:3.11
+          web: true
+          webSecure: false
+          parameters: {}
+          environment: {}
+          annotations: {}
+          limits: {}

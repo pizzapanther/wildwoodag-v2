@@ -12,7 +12,7 @@ const calendar = new Calendar(calendarEl, {
   ],
   initialView: 'listWeek',
   events: {
-    url: '/basic.ics',
+    url: 'https://faas-sfo3-7872a1dd.doserverless.co/api/v1/web/fn-67f34cf4-c3ed-479c-839e-2f7206029fcb/wildweb/calcache',
     format: 'ics' // important!
   },
   headerToolbar: {
