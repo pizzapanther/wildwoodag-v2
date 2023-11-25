@@ -19,6 +19,19 @@ const calendar = new Calendar(calendarEl, {
     left: 'prev,next today',
     center: 'title',
     right: 'listWeek,dayGridMonth'
+  },
+  eventClick: (info) => {
+    var e = info.event;
+    var title = e.title + '<br>' + e.start.toLocaleDateString() + ' ' + e.start.toLocaleTimeString();
+    title = title.replace(":00 ", " ");
+    document.querySelector('#dialog h3').innerHTML = title;
+    document.querySelector('#dialog section p').innerHTML = info.event.extendedProps.description || "<strong>no details found</strong>";
+    document.querySelector('#dialog').showModal();
+    setTimeout(() => {
+      document.querySelectorAll('#dialog section a').forEach((item) => {
+        item.target = '_blank';
+      });
+    }, 0);
   }
 });
 

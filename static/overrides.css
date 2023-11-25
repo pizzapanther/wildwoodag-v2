@@ -48,3 +48,7 @@ p.j {
 .columns > div:last-child {
   margin-right: 0;
 }
+
+.article-content p a {
+  text-decoration: underline;
+}
