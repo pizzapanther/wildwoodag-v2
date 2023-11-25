@@ -97,7 +97,7 @@ menu:
 
 </div>
 
-<dialog id="dialog" class="main-article">
+<dialog id="dialog" class="main-article text">
   <div class="article-category" style="float: right; display: block">
     <a href="javascript:void(0);" onclick="document.querySelector('#dialog').close();" style="font-weight: bold; border-radius: 30px; font-size: 12px;">X</a>
   </div>
