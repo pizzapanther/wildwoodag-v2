@@ -17,6 +17,10 @@
     "ical.js": "^1.5.0",
     "parcel": "^2.9.3"
   },
+  "overrides": {
+    "sharp": ">=0.32.6",
+    "semver": ">=7.5.2"
+  },
   "targets": {
     "wild": {
       "source": "src/app.js",
