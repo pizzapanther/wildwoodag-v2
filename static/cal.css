@@ -75,9 +75,11 @@ because the nesting selector cannot represent pseudo-elements. */
   }
 }
 
-#calendar-js {
-  min-height: calc(100vh - 100px);
-  max-height: calc(100vh - 100px);
+@media (max-width: 440px) {
+  #calendar-js {
+    min-height: calc(100vh - 100px);
+    max-height: calc(100vh - 100px);
+  }
 }
 
 .float-butt {
