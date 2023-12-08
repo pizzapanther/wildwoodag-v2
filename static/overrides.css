@@ -55,7 +55,7 @@ p.j {
 
 @media (max-width: 440px) {
   .main-container {
-    padding: 0;
+    padding: 12px 3px;
   }
 
   .article-content {
