@@ -18,6 +18,10 @@ a.fc-list-day-text {
   background-color: rgba(55, 136, 216, 0.5);
 }
 
+.article-content tr:nth-child(even) {
+  background-color: transparent;
+}
+
 dialog[open] {
   opacity: 1;
   transform: scaleY(1);
@@ -75,11 +79,8 @@ because the nesting selector cannot represent pseudo-elements. */
   }
 }
 
-@media (max-width: 440px) {
-  #calendar-js {
-    min-height: calc(100vh - 100px);
-    max-height: calc(100vh - 100px);
-  }
+.fc-dayGridMonth-view th {
+  background-color: transparent !important;
 }
 
 .float-butt {

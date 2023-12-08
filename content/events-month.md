@@ -1,11 +1,5 @@
 ---
-title: "Calendar of Events"
-menu:
-  main:
-    name: Events
-    weight: -80
-    params:
-      icon: calendar-event
+title: "Monthly Calendar"
 ---
 
 <div class="article-category float-butt">
