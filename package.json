@@ -13,6 +13,7 @@
     "@fullcalendar/daygrid": "^6.1.9",
     "@fullcalendar/icalendar": "^6.1.9",
     "@fullcalendar/list": "^6.1.9",
+    "@fullcalendar/moment": "^6.1.10",
     "ical.js": "^1.5.0",
     "parcel": "^2.9.3"
   },

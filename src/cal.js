@@ -2,6 +2,7 @@ import { Calendar } from '@fullcalendar/core';
 import iCalendarPlugin from '@fullcalendar/icalendar';
 import dayGridPlugin from '@fullcalendar/daygrid';
 import listPlugin from '@fullcalendar/list';
+import momentPlugin from '@fullcalendar/moment';
 
 function load_calendar(view) {
   var header = {left: '', right: ''};
@@ -17,7 +18,8 @@ function load_calendar(view) {
     plugins: [
       iCalendarPlugin,
       dayGridPlugin,
-      listPlugin
+      listPlugin,
+      momentPlugin
     ],
     initialView: view,
     events: {
@@ -27,6 +29,7 @@ function load_calendar(view) {
     contentHeight: 'auto',
     height: 'auto',
     headerToolbar: header,
+    listDayFormat: 'ddd, MMM Do',
     visibleRange: function(currentDate) {
       var startDate = new Date(currentDate.valueOf());
       var endDate = new Date(currentDate.valueOf());
