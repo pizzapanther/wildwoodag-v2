@@ -4,6 +4,7 @@ if (window.Capacitor) {
     const script = document.createElement('script');
     script.src = '/app.js';
     document.head.appendChild(script);
+    document.querySelector('.main-container').classList.add(Capacitor.getPlatform());
   }
 }
 </script>

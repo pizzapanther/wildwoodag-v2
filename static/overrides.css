@@ -55,10 +55,17 @@ p.j {
 
 @media (max-width: 440px) {
   .main-container {
-    padding: 12px 3px;
+    padding: 10px 3px;
   }
 
   .article-content {
     padding: 0 7px;
   }
+}
+
+.main-container.ios {
+  margin-top: env(safe-area-inset-top) !important;
+  margin-left: env(safe-area-inset-left) !important;
+  margin-right: env(safe-area-inset-right) !important;
+  margin-bottom: env(safe-area-inset-bottom) !important;
 }
