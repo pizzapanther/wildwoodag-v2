@@ -9,14 +9,14 @@ menu:
 ---
 
 <div class="article-category float-butt">
-  <a href="/events-month/">View Month</a>
+  <a href="/events/">View List</a>
 </div>
 
 <link rel="stylesheet" href="/cal.css" />
 <div id="calendar-js" style="clear: both;"></div>
 <script src='/cal.js'></script>
 <script>
-  load_calendar('list');
+  load_calendar('dayGridMonth');
 </script>
 
 <div class="article-category">
