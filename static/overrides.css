@@ -63,7 +63,7 @@ p.j {
   }
 }
 
-.main-container.ios {
+body.ios .main-container {
   margin-top: env(safe-area-inset-top) !important;
   margin-left: env(safe-area-inset-left) !important;
   margin-right: env(safe-area-inset-right) !important;

@@ -18,8 +18,24 @@ function move_social() {
   document.querySelector(".site-footer").prepend(clon);
 }
 
+function load_platform() {
+  if (window.Capacitor) {
+    if (window.Capacitor) {
+      var ele = document.querySelector('body');
+      console.log(Capacitor.getPlatform());
+      if (ele) {
+        ele.classList.add(Capacitor.getPlatform());
+      } else {
+        setTimeout(10, load_platform);
+      }
+    }
+  }
+}
+
 window.addEventListener("load", (event) => {
   move_social();
+
+  load_platform();
 });
 
 if (window.Capacitor) {
