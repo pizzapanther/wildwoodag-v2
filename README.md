@@ -24,8 +24,10 @@ Hugo Theme: [Stack](https://github.com/CaiJimmy/hugo-theme-stack)
 
 ## App Zip Update
 
+```
 git tag v1.X.X
 git push --tags
+```
 
 **Manually**:
 
