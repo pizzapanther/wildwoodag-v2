@@ -68,7 +68,9 @@ doctl auth init --context wildwood
 doctl auth switch --context wildwood
 ```
 
-Deploy: `doctl serverless deploy wwfunc --remote-build`
+Deploy: `pdm run doctl serverless deploy wwfunc --remote-build`
+
+use `pdm run to get the .env loaded`
 
 ## Palette
 
