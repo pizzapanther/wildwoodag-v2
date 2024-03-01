@@ -4,7 +4,7 @@ import httpx
 from filecache import filecache
 from user_agent import generate_user_agent
 
-IFRAME = '<iframe class="rumble" width="640" height="360" src="https://rumble.com/embed/v{}/?pub=j5e6b" frameborder="0" allowfullscreen></iframe>'
+IFRAME = '<iframe class="rumble" width="640" height="360" src="https://rumble.com/embed/v{}/" frameborder="0" allowfullscreen></iframe>'
 
 @filecache(3 * 60)
 def main():
