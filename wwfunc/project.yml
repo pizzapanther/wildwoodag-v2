@@ -29,6 +29,17 @@ packages:
             OAUTH_SECRET: '${OAUTH_SECRET}'
           annotations: {}
           limits: {}
+        - name: rumblelive
+          binary: false
+          main: ""
+          runtime: python:3.11
+          web: true
+          webSecure: false
+          parameters: {}
+          environment:
+            RUMBLE_URL: '${RUMBLE_URL}'
+          annotations: {}
+          limits: {}
         - name: calcache
           binary: false
           main: ""

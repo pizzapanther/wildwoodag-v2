@@ -3,10 +3,25 @@
 
 [metadata]
 groups = ["default"]
-cross_platform = true
-static_urls = false
-lock_version = "4.3"
-content_hash = "sha256:a525eaf3727f0d6b410ff303609a97efa70d575336e1ec354e4b03992895970e"
+strategy = ["cross_platform"]
+lock_version = "4.4.1"
+content_hash = "sha256:ef2888a3b29df394405de950fcde1e79f8e8246932fc1b7b01100acb05d604ef"
+
+[[package]]
+name = "anyio"
+version = "4.3.0"
+requires_python = ">=3.8"
+summary = "High level compatibility layer for multiple asynchronous event loop implementations"
+dependencies = [
+    "exceptiongroup>=1.0.2; python_version < \"3.11\"",
+    "idna>=2.8",
+    "sniffio>=1.1",
+    "typing-extensions>=4.1; python_version < \"3.11\"",
+]
+files = [
+    {file = "anyio-4.3.0-py3-none-any.whl", hash = "sha256:048e05d0f6caeed70d731f3db756d35dcc1f35747c8c403364a8332c630441b8"},
+    {file = "anyio-4.3.0.tar.gz", hash = "sha256:f75253795a87df48568485fd18cdd2a3fa5c4f7c5be8e5e36637733fce06fed6"},
+]
 
 [[package]]
 name = "cachetools"
@@ -66,6 +81,25 @@ files = [
     {file = "charset_normalizer-3.2.0-cp311-cp311-win32.whl", hash = "sha256:f2a1d0fd4242bd8643ce6f98927cf9c04540af6efa92323e9d3124f57727bfc1"},
     {file = "charset_normalizer-3.2.0-cp311-cp311-win_amd64.whl", hash = "sha256:681eb3d7e02e3c3655d1b16059fbfb605ac464c834a0c629048a30fad2b27489"},
     {file = "charset_normalizer-3.2.0-py3-none-any.whl", hash = "sha256:8e098148dd37b4ce3baca71fb394c81dc5d9c7728c95df695d2dca218edf40e6"},
+]
+
+[[package]]
+name = "exceptiongroup"
+version = "1.2.0"
+requires_python = ">=3.7"
+summary = "Backport of PEP 654 (exception groups)"
+files = [
+    {file = "exceptiongroup-1.2.0-py3-none-any.whl", hash = "sha256:4bfd3996ac73b41e9b9628b04e079f193850720ea5945fc96a08633c66912f14"},
+    {file = "exceptiongroup-1.2.0.tar.gz", hash = "sha256:91f5c769735f051a4290d52edd0858999b57e5876e9f85937691bd4c9fa3ed68"},
+]
+
+[[package]]
+name = "filecache"
+version = "0.81"
+summary = "Persistent caching decorator"
+files = [
+    {file = "filecache-0.81-py3-none-any.whl", hash = "sha256:91ce1a42b532d0e9ad75364c13159bafc3015973d4a5a0dbf37e4b4feb194055"},
+    {file = "filecache-0.81.tar.gz", hash = "sha256:be071ad64937b51f38b03ecd82b9b68c08d0f570cdddb30aa8f90150fe54b30a"},
 ]
 
 [[package]]
@@ -160,6 +194,30 @@ files = [
 ]
 
 [[package]]
+name = "h11"
+version = "0.14.0"
+requires_python = ">=3.7"
+summary = "A pure-Python, bring-your-own-I/O implementation of HTTP/1.1"
+files = [
+    {file = "h11-0.14.0-py3-none-any.whl", hash = "sha256:e3fe4ac4b851c468cc8363d500db52c2ead036020723024a109d37346efaa761"},
+    {file = "h11-0.14.0.tar.gz", hash = "sha256:8f19fbbe99e72420ff35c00b27a34cb9937e902a8b810e2c88300c6f0a3b699d"},
+]
+
+[[package]]
+name = "httpcore"
+version = "1.0.4"
+requires_python = ">=3.8"
+summary = "A minimal low-level HTTP client."
+dependencies = [
+    "certifi",
+    "h11<0.15,>=0.13",
+]
+files = [
+    {file = "httpcore-1.0.4-py3-none-any.whl", hash = "sha256:ac418c1db41bade2ad53ae2f3834a3a0f5ae76b56cf5aa497d2d033384fc7d73"},
+    {file = "httpcore-1.0.4.tar.gz", hash = "sha256:cb2839ccfcba0d2d3c1131d3c3e26dfc327326fbe7a5dc0dbfe9f6c9151bb022"},
+]
+
+[[package]]
 name = "httplib2"
 version = "0.22.0"
 requires_python = ">=2.7, !=3.0.*, !=3.1.*, !=3.2.*, !=3.3.*"
@@ -170,6 +228,23 @@ dependencies = [
 files = [
     {file = "httplib2-0.22.0-py3-none-any.whl", hash = "sha256:14ae0a53c1ba8f3d37e9e27cf37eabb0fb9980f435ba405d546948b009dd64dc"},
     {file = "httplib2-0.22.0.tar.gz", hash = "sha256:d7a10bc5ef5ab08322488bde8c726eeee5c8618723fdb399597ec58f3d82df81"},
+]
+
+[[package]]
+name = "httpx"
+version = "0.27.0"
+requires_python = ">=3.8"
+summary = "The next generation HTTP client."
+dependencies = [
+    "anyio",
+    "certifi",
+    "httpcore==1.*",
+    "idna",
+    "sniffio",
+]
+files = [
+    {file = "httpx-0.27.0-py3-none-any.whl", hash = "sha256:71d5465162c13681bff01ad59b2cc68dd838ea1f10e51574bac27103f00c91a5"},
+    {file = "httpx-0.27.0.tar.gz", hash = "sha256:a0cb88a46f32dc874e04ee956e4c2764aba2aa228f650b06788ba6bda2962ab5"},
 ]
 
 [[package]]
@@ -294,6 +369,26 @@ files = [
 ]
 
 [[package]]
+name = "sniffio"
+version = "1.3.1"
+requires_python = ">=3.7"
+summary = "Sniff out which async library your code is running under"
+files = [
+    {file = "sniffio-1.3.1-py3-none-any.whl", hash = "sha256:2f6da418d1f1e0fddd844478f41680e794e6051915791a034ff65e5f100525a2"},
+    {file = "sniffio-1.3.1.tar.gz", hash = "sha256:f4324edc670a0f49750a81b895f35c3adb843cca46f0530f79fc1babb23789dc"},
+]
+
+[[package]]
+name = "typing-extensions"
+version = "4.10.0"
+requires_python = ">=3.8"
+summary = "Backported and Experimental Type Hints for Python 3.8+"
+files = [
+    {file = "typing_extensions-4.10.0-py3-none-any.whl", hash = "sha256:69b1a937c3a517342112fb4c6df7e72fc39a38e7891a5730ed4985b5214b5475"},
+    {file = "typing_extensions-4.10.0.tar.gz", hash = "sha256:b0abd7c89e8fb96f98db18d86106ff1d90ab692004eb746cf6eda2682f91b3cb"},
+]
+
+[[package]]
 name = "uritemplate"
 version = "4.1.1"
 requires_python = ">=3.6"
@@ -311,4 +406,15 @@ summary = "HTTP library with thread-safe connection pooling, file post, and more
 files = [
     {file = "urllib3-1.26.16-py2.py3-none-any.whl", hash = "sha256:8d36afa7616d8ab714608411b4a3b13e58f463aee519024578e062e141dce20f"},
     {file = "urllib3-1.26.16.tar.gz", hash = "sha256:8f135f6502756bde6b2a9b28989df5fbe87c9970cecaa69041edcce7f0589b14"},
+]
+
+[[package]]
+name = "user-agent"
+version = "0.1.10"
+summary = "User-Agent generator"
+dependencies = [
+    "six",
+]
+files = [
+    {file = "user_agent-0.1.10.tar.gz", hash = "sha256:b86537cb2a9d3bda0e2afcc654ec15b383502836877a67520654acadf73f1723"},
 ]

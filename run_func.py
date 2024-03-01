@@ -14,7 +14,7 @@ def run():
       ret = fmain.main(event)
 
   else:
-    ret = fmain.main(event)
+    ret = fmain.main()
 
   print(ret)
 
