@@ -1,0 +1,34 @@
+editable:
+  - content
+uploads:
+  - dir: static
+    url: "https://www.wildwoodag.church"
+template_field: template
+template_default: post
+templates:
+  page:
+    fields:
+      title:
+        attrs:
+          maxlength: 70
+      draft:
+        type: boolean
+      menu:
+        type: code
+  post:
+    fields:
+      title:
+        attrs:
+          maxlength: 70
+      date:
+        type: datetime
+      image:
+        type: image
+      draft:
+        type: boolean
+      categories:
+        type: list[text]
+      tags:
+        type: list[text]
+
+
