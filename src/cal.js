@@ -4,6 +4,11 @@ import dayGridPlugin from '@fullcalendar/daygrid';
 import listPlugin from '@fullcalendar/list';
 import momentPlugin from '@fullcalendar/moment';
 
+var locale = {
+  code: 'en-us',
+  noEventsText: 'Events Loading ...'
+};
+
 function load_calendar(view) {
   var header = {left: '', right: ''};
   if (view == 'dayGridMonth') {
@@ -15,6 +20,7 @@ function load_calendar(view) {
 
   const calendarEl = document.getElementById('calendar-js');
   const calendar = new Calendar(calendarEl, {
+    locale: locale,
     plugins: [
       iCalendarPlugin,
       dayGridPlugin,
