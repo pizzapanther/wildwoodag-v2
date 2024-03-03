@@ -14,7 +14,7 @@ templates:
       draft:
         type: boolean
       menu:
-        type: code
+        type: yaml
   post:
     fields:
       title:
