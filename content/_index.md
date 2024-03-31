@@ -79,7 +79,7 @@ showContent();
 
 <br>
 
-<div style="text-align: center;">Contact info@wildwoodag.church for times and locations.</div>
+<div style="text-align: center;">Contact <a href="mailto:wildwoodag@yahoo.com">wildwoodag@yahoo.com</a> for times and locations.</div>
 
 <hr>
 
