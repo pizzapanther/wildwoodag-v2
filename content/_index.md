@@ -75,6 +75,16 @@ showContent();
 
 <br>
 
+<img alt="Small Groups" src="/img/small-groups.png" style="width: 70%; border-radius: 10px; display: block; margin: 0 auto;">
+
+<br>
+
+<div style="text-align: center;">Contact info@wildwoodag.church for locations.</div>
+
+<hr>
+
+<br>
+
 <img alt="Cross" src="/img/cross.jpg" style="width: 40%; float: right; border-radius: 10px;">
 
 ## Location
