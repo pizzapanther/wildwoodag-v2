@@ -73,18 +73,15 @@ showContent();
   </a>
 </div>
 
+<!--
 <br>
-
 <img alt="Small Groups" src="/img/small-groups.png" style="width: 70%; border-radius: 10px; display: block; margin: 0 auto;">
-
 <br>
-
 <div style="text-align: center;">Contact <a href="mailto:wildwoodag@yahoo.com">wildwoodag@yahoo.com</a> for times and locations.</div>
-
 <hr>
+-->
 
 <br>
-
 <img alt="Cross" src="/img/cross.jpg" style="width: 40%; float: right; border-radius: 10px;">
 
 ## Location
