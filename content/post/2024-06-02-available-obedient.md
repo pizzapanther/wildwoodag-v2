@@ -12,6 +12,7 @@ tags:
 title: Available and Obedient
 date: 2024-06-02T05:00:00.000Z
 draft: false
+image: https://www.wildwoodag.church/pimg/paul.jpg
 ---
 Now there was a certain disciple at Damascus named Ananias; and to him the Lord said in a vision, “Ananias.”
 
