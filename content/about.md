@@ -1,13 +1,16 @@
 ---
-title: "About Wildwood Assembly"
+title: About Wildwood Assembly
 menu:
   main:
     name: About
     weight: -90
     params:
       icon: question-mark
+template: post
+categories: []
+tags: []
+draft: false
 ---
-
 ## Our Pastors
 
 <img alt="Pastor Mark and Kelly" src="/img/pastors.jpg" style="width: 50%; float: right; margin: 5px 10px;">
