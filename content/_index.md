@@ -79,7 +79,7 @@ showContent();
 <br>
 <div class="article-category" style="text-align: center; width: 100%; display: block;">
 	<a class="btn" href="/chat">
-		Join the Church Group Chat &raquo;
+		Join the Church Group Chat &gt;&gt;
 	</a>
 </div>
 <hr>
