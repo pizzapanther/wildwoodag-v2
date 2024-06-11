@@ -6,6 +6,10 @@ menu:
     weight: -50
     params:
       icon: phone
+template: page
+categories: []
+tags: []
+draft: false
 ---
 <style>
   .article-time {

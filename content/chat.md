@@ -1,9 +1,15 @@
 ---
-template: post
+template: page
 categories: []
 tags: []
 title: Church Online Chat Group
 draft: false
+menu:
+  main:
+    name: Group Chat
+    weight: -50
+    params:
+      icon: messages
 ---
 <style>
   .article-time {

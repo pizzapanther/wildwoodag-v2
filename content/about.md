@@ -6,7 +6,7 @@ menu:
     weight: -90
     params:
       icon: question-mark
-template: post
+template: page
 categories: []
 tags: []
 draft: false
