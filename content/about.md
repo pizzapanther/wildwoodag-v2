@@ -11,6 +11,11 @@ categories: []
 tags: []
 draft: false
 ---
+<style>
+  .article-time {
+    display: none;
+  }
+</style>
 ## Our Pastors
 
 <img alt="Pastor Mark and Kelly" src="/img/pastors.jpg" style="width: 50%; float: right; margin: 5px 10px;">
