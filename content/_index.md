@@ -65,6 +65,33 @@ function showContent() {
 showContent();
 </script>
 
+<img src="/img/couples.jpeg" alt="Dean and Cindy Richey" style="max-width: 180px; width: 33%; float: right; border-radius: 10px;">
+<h2>
+  Join Us for Couple's Weekend @ Wildwood
+</h2>
+
+<p>
+  Special Speakers Dean and Cindy Richey lead pastors at Christian Worship Center, Beeville TX.
+</p>
+<ul>
+  <li>
+    <strong>Saturday July 27<sup>th</sup> @ 9am:</strong>
+    <br>
+    Men's Meeting with Pastor Dean
+  </li>
+  <li>
+    <strong>Sunday July 28<sup>th</sup> @ 10:30am:</strong>
+    <br>
+    Couple's Service with Pastor Dean and Cindy
+  </li>
+  <li>
+    <strong>Monday July 29<sup>th</sup> @ 10am:</strong>
+    <br>
+    Women's Meeting with Pastor Cindy
+  </li>
+</ul>
+<hr>
+
 <div class="app-buttons" style="text-align: center; display: none;">
   <a href="https://apps.apple.com/us/app/wildwood-assembly/id6465793721" target="_blank">
     <img src="/img/apple-store.png" alt="Download on the App Store" style="height: 40px;">
