@@ -8,7 +8,7 @@ tags:
   - God
 title: God is Not Dead
 date: 2024-07-14T06:00:00.000Z
-draft: true
+draft: false
 image: https://www.wildwoodag.church/pimg/54a978972f867.jpg
 ---
 So now present your members as slaves of righteousness for holiness. For when you were slaves of sin, you were free in regard to righteousness. Romans 6:19-20 
