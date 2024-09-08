@@ -142,3 +142,4 @@ static/web.*.js
 static/web.*.js.map
 static/cal.js
 static/cal.js.map
+android/app/release
