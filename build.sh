@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-export CAPACITOR_ANDROID_STUDIO_PATH=/snap/android-studio/157/bin/studio.sh
+export CAPACITOR_ANDROID_STUDIO_PATH=/snap/android-studio/163/bin/studio.sh
 
 rm static/web.*
 parcel build
