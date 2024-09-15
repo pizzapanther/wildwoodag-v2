@@ -1,7 +1,11 @@
 ---
 template: post
-categories: []
-tags: []
+categories:
+  - New Life
+tags:
+  - comfort
+  - hate
+  - love
 title: The Earth is Not Our Home
 draft: false
 date: 2024-09-15T12:00:00.000Z
