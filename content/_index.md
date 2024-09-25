@@ -66,7 +66,7 @@ showContent();
 </script>
 
 <div>
-  <img src="img/bob-bennett-2024.jpg" alt="Bob Bennett - Community Concert">
+  <img src="img/not-bob-bennett-2024.jpg" alt="Claude Butch Morgan - Community Concert">
   <br>
   <br>
 </div>
