@@ -9,6 +9,7 @@ tags:
 title: Wonderfully Made
 draft: false
 date: 2024-10-06T05:00:00.000Z
+image: https://www.wildwoodag.church/pimg/snowflake.jpg
 ---
 The heavens declare the glory of god; and the firmament shows His handiwork. Psalm 19:1
 
