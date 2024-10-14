@@ -1,14 +1,15 @@
 ---
 title: Apocaloptimist
-date: 2023-08-08
-image: https://www.wildwoodag.church/pimg/2023-08-08-apocaloptimist.jpg
+date: 2023-08-08T00:00:00.000Z
+image: https://www.wildwoodag.church/pimg/Gas_mask_img_1619.jpg
 categories:
   - New Life
 tags:
   - heaven
   - optimist
+template: post
+draft: false
 ---
-
 For the Lord Himself will descend from heaven with a shout, with the voice of an archangel, and with the trumpet of God. And the dead in Christ will rise first.
 
 1 Thessalonians 4:16
