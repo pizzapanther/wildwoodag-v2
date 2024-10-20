@@ -22,8 +22,8 @@ menu:
 Join us on the Called.app chat and keep up to date on church news and events. Visit the invite links below to join.
 
 <div style="font-size: 130%;">
-	
-- [General Church Chat](https://invite.called.app/tNNpIs)
+
+- Join here first: [General Church Chat](https://invite.called.app/tNNpIs)
 - [Women's Ministry Chat](https://invite.called.app/cuWGPv)
 - [Men's Ministry Chat](https://invite.called.app/iHV3pl)
 
