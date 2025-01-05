@@ -10,6 +10,7 @@ tags:
 title: Light, Love, Truth
 draft: false
 image: https://www.wildwoodag.church/pimg/love-hd-wallpapers-2013.jpg
+date: 2025-01-05T06:00:00.000Z
 ---
 One of my favorite poets wrote this…
 
