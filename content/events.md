@@ -21,9 +21,9 @@ menu:
 
 <div class="article-category">
 
-[View on Google Calendar](https://calendar.google.com/calendar/embed?src=62da059a43acfa2924e50e6aaa43e3aed3728f7eda51af7d7a43f0313404e09c%40group.calendar.google.com&amp;ctz=America%2FChicago)
-
 [iCal Calendar Subscription Link](webcal://calendar.google.com/calendar/ical/62da059a43acfa2924e50e6aaa43e3aed3728f7eda51af7d7a43f0313404e09c%40group.calendar.google.com/public/basic.ics)
+
+[Special Events iCal Calendar Subscription Link](webcal://api.called.app/rest/calendar/community/998)
 
 </div>
 
