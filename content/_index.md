@@ -46,6 +46,33 @@ tags: []
 .banner > div:first-child {
     font-weight: bold;
 }
+
+
+.nav-btns {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+
+  a {
+    font-size: 1.4rem;
+    margin: 5px;
+    border: 1px solid;
+    border-radius: 5px;
+    display: flex;
+    width: 150px;
+    max-width: 150px;
+    min-width: 150px;
+    align-items: center;
+    justify-content: center;
+    white-space: no-wrap;
+
+    svg {
+      height: 1.8rem;
+    }
+  }
+}
 </style>
 
 <template id="banner-tpl">
@@ -82,10 +109,70 @@ showContent();
 
 
 <br>
-<div class="article-category" style="text-align: center; width: 100%; display: block;">
-	<a class="btn" href="/chat/">
-		Join the Church Group Chat &gt;&gt;
-	</a>
+<div class="nav-btns">
+  <a href="/about/">
+    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-question-mark" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+      <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
+      <path d="M8 8a3.5 3 0 0 1 3.5 -3h1a3.5 3 0 0 1 3.5 3a3 3 0 0 1 -2 3a3 4 0 0 0 -2 4"></path>
+      <path d="M12 19l0 .01"></path>
+    </svg>
+    <span>About</span>
+  </a>
+  <a href="/events/">
+    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-calendar-event" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+       <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
+       <path d="M4 5m0 2a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v12a2 2 0 0 1 -2 2h-12a2 2 0 0 1 -2 -2z"></path>
+       <path d="M16 3l0 4"></path>
+       <path d="M8 3l0 4"></path>
+       <path d="M4 11l16 0"></path>
+       <path d="M8 15h2v2h-2z"></path>
+    </svg>
+    <span>Events</span>
+  </a>
+  <a href="/watch/">
+    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-brand-youtube" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+       <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
+       <path d="M2 8a4 4 0 0 1 4 -4h12a4 4 0 0 1 4 4v8a4 4 0 0 1 -4 4h-12a4 4 0 0 1 -4 -4v-8z"></path>
+       <path d="M10 9l5 3l-5 3z"></path>
+    </svg>
+    <span>Watch</span>
+  </a>
+  <a href="/donate/">
+    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-heart-handshake" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+       <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
+       <path d="M19.5 12.572l-7.5 7.428l-7.5 -7.428a5 5 0 1 1 7.5 -6.566a5 5 0 1 1 7.5 6.572"></path>
+       <path d="M12 6l-3.293 3.293a1 1 0 0 0 0 1.414l.543 .543c.69 .69 1.81 .69 2.5 0l1 -1a3.182 3.182 0 0 1 4.5 0l2.25 2.25"></path>
+       <path d="M12.5 15.5l2 2"></path>
+       <path d="M15 13l2 2"></path>
+    </svg>
+    <span>Donate</span>
+  </a>
+  <a href="/blog/">
+    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-notebook" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+       <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
+       <path d="M6 4h11a2 2 0 0 1 2 2v12a2 2 0 0 1 -2 2h-11a1 1 0 0 1 -1 -1v-14a1 1 0 0 1 1 -1m3 0v18"></path>
+       <path d="M13 8l2 0"></path>
+       <path d="M13 12l2 0"></path>
+    </svg>
+    <span>Pastor's Pen</span>
+  </a>
+  <a href="/contact/">
+    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-phone-call" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+       <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
+       <path d="M5 4h4l2 5l-2.5 1.5a11 11 0 0 0 5 5l1.5 -2.5l5 2v4a2 2 0 0 1 -2 2a16 16 0 0 1 -15 -15a2 2 0 0 1 2 -2"></path>
+       <path d="M15 7a2 2 0 0 1 2 2"></path>
+       <path d="M15 3a6 6 0 0 1 6 6"></path>
+    </svg>
+    <span>Contact</span>
+  </a>
+  <a href="/chat/">
+    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-messages" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+      <path stroke="none" d="M0 0h24v24H0z"></path>
+      <path d="M21 14l-3 -3h-7a1 1 0 0 1 -1 -1v-6a1 1 0 0 1 1 -1h9a1 1 0 0 1 1 1v10"></path>
+      <path d="M14 15v2a1 1 0 0 1 -1 1h-7l-3 3v-10a1 1 0 0 1 1 -1h2"></path>
+    </svg>
+    <span>Group Chat</span>
+  </a>
 </div>
 <hr>
 
