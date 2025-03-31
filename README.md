@@ -22,6 +22,11 @@ Hugo Theme: [Stack](https://github.com/CaiJimmy/hugo-theme-stack)
 - `android/app/build.gradle` under `defaultConfig.versionName`
 - `ios/App/App.xcodeproj/project.pbxproj` under `CURRENT_PROJECT_VERSION`
 
+## FFMPEG
+
+- Cut video: `ffmpeg -ss 01:20:08 -to 01:59:56 -i 2025-03-30_10-01-09.mkv -c copy sun-trim.mp4`
+- Extract audio: `ffmpeg -i sun-trim.mp4 -vn -ac 2 sun-trim.mp3`
+
 ## App Zip Update
 
 ```
