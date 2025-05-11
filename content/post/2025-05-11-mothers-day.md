@@ -8,7 +8,7 @@ tags:
   - honor
 title: Mother's Day
 draft: false
-date: 2025-10-23T06:00:00.000Z
+date: 2025-05-10T06:00:00.000Z
 image: https://www.wildwoodag.church/pimg/mothers-day.jpeg
 ---
 Honor your father and mother which is the first commandment with promise. Ephesians 6:2
