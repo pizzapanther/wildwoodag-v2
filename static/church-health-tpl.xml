@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:podcast="https://github.com/Podcastindex-org/podcast-namespace/blob/main/docs/1.0.md" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+    <channel>
+        <title>Let's Talk Chuch Health</title>
+        <description>STXAGM Church Health providing tools and resources to strengthen the local church.</description>
+        <link>https://stxagchurchhealth.org/podcast</link>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <language>en-US</language>
+        <generator>Podtube CLI</generator>
+        <pubDate>{{ utcnow }}</pubDate>
+        <lastBuildDate>{{ utcnow }}</lastBuildDate>
+        <managingEditor>jkautz@stxag.org (Jim Kautz)</managingEditor>
+        <webMaster>jkautz@stxag.org (Jim Kautz)</webMaster>
+        <image>
+            <url>https://www.wildwoodag.church/church-health/stmn.jpg</url>
+            <title>Let's Talk Chuch Health</title>
+            <link>https://stxagchurchhealth.org/podcast</link>
+        </image>
+
+        <podcast:guid>802cceda-b0ea-5526-ae9b-e3564c93dd39</podcast:guid>
+
+        <podcast:funding url="https://giving.ag.org/donate/700001-276262">Support Our Ministry</podcast:funding>
+
+        <podcast:location geo="geo:29.8805,-98.2365" osm="R113314">Canyon Lake, TX</podcast:location>
+        <podcast:medium>podcast</podcast:medium>
+
+        <itunes:author>Jim Kautz</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:type>episodic</itunes:type>
+        <itunes:category text="Religion &amp; Spirituality"/>
+        <itunes:category text="Education"/>
+
+        <itunes:owner>
+            <itunes:name>Jim Kautz</itunes:name>
+            <itunes:email>jkautz@stxag.org</itunes:email>
+        </itunes:owner>
+
+        <itunes:image href="https://www.wildwoodag.church/church-health/stmn.jpg"/>
+
+        {% for entry in entries %}
+        <item>
+            <title>{{ entry.title | escape }}</title>
+            <description>{{ entry.description | escape }}</description>
+            <link>https://www.wildwoodag.church/church-health/{{ entry.media_path }}</link>
+            <guid isPermaLink="true">https://www.wildwoodag.church/church-health/{{ entry.media_path }}</guid>
+            <pubDate>{{ entry.published }}</pubDate>
+            <author>jkautz@stxag.org (Jim Kautz)</author>
+            <itunes:image href="https://www.wildwoodag.church/church-health/{{ entry.thumb_path }}"/>
+            <itunes:explicit>false</itunes:explicit>
+
+            <enclosure url="https://www.wildwoodag.church/church-health/{{ entry.media_path }}" length="{{ entry.media_size }}" type="audio/mpeg" />
+
+            <podcast:socialInteract priority="1" uri="https://www.instagram.com/stxag_church_health/" protocol="instagram" accountId="@stxag_church_health" accountUrl="https://www.instagram.com/stxag_church_health/" />
+            <podcast:socialInteract priority="2" uri="https://www.facebook.com/STXAGChurchHealth" protocol="facebook" accountId="@STXAGChurchHealth" accountUrl="https://www.facebook.com/STXAGChurchHealth" />
+        </item>
+        {% endfor %}
+    </channel>
+</rss>
