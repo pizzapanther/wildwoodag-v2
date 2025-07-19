@@ -41,14 +41,14 @@
         <item>
             <title>{{ entry.title | escape }}</title>
             <description>{{ entry.description | escape }}</description>
-            <link>https://www.wildwoodag.church/{{ entry.media_path }}</link>
-            <guid isPermaLink="true">https://www.wildwoodag.church/{{ entry.media_path }}</guid>
+            <link>https://www.wildwoodag.church/{{ entry.media_path | remove_first: "static/" }}</link>
+            <guid isPermaLink="true">https://www.wildwoodag.church/{{ entry.media_path | remove_first: "static/" }}</guid>
             <pubDate>{{ entry.published }}</pubDate>
             <author>jkautz@stxag.org (Jim Kautz)</author>
-            <itunes:image href="https://www.wildwoodag.church/{{ entry.thumb_path }}"/>
+            <itunes:image href="https://www.wildwoodag.church/{{ entry.thumb_path | remove_first: 'static/' }}"/>
             <itunes:explicit>false</itunes:explicit>
 
-            <enclosure url="https://www.wildwoodag.church/{{ entry.media_path }}" length="{{ entry.media_size }}" type="audio/mpeg" />
+            <enclosure url="https://www.wildwoodag.church/{{ entry.media_path | remove_first: 'static/' }}" length="{{ entry.media_size }}" type="audio/mpeg" />
 
             <podcast:socialInteract priority="1" uri="https://www.instagram.com/stxag_church_health/" protocol="instagram" accountId="@stxag_church_health" accountUrl="https://www.instagram.com/stxag_church_health/" />
             <podcast:socialInteract priority="2" uri="https://www.facebook.com/STXAGChurchHealth" protocol="facebook" accountId="@STXAGChurchHealth" accountUrl="https://www.facebook.com/STXAGChurchHealth" />
