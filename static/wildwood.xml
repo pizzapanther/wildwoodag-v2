@@ -13,7 +13,7 @@
         <webMaster>podcast@wildwoodag.church (Wildwood)</webMaster>
         <image>
             <url>https://www.wildwoodag.church/icons/android-chrome-512x512.png</url>
-            <title>Wildwood Assembly</title>
+            <title>Wildwood Assembly Podcast</title>
             <link>https://www.wildwoodag.church/</link>
         </image>
 
@@ -32,7 +32,7 @@
 
         <itunes:owner>
             <itunes:name>Wildwood</itunes:name>
-            <itunes:email>Wildwood</itunes:email>
+            <itunes:email>podcast@wildwoodag.church (Wildwood)</itunes:email>
         </itunes:owner>
 
         <itunes:image href="https://www.wildwoodag.church/icons/android-chrome-512x512.png"/>
