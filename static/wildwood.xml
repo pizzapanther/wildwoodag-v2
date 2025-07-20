@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:podcast="https://github.com/Podcastindex-org/podcast-namespace/blob/main/docs/1.0.md" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+    <channel>
+        <title>Wildwood Assembly Podcast</title>
+        <description>Wildwood Assembly sermons and Bible studies.</description>
+        <link>https://www.wildwoodag.church/</link>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <language>en-US</language>
+        <generator>Podtube CLI</generator>
+        <pubDate>Sun, 20 Jul 2025 14:44:02 +0000</pubDate>
+        <lastBuildDate>Sun, 20 Jul 2025 14:44:02 +0000</lastBuildDate>
+        <managingEditor>podcast@wildwoodag.church (Wildwood)</managingEditor>
+        <webMaster>podcast@wildwoodag.church (Wildwood)</webMaster>
+        <image>
+            <url>https://www.wildwoodag.church/icons/android-chrome-512x512.png</url>
+            <title>Wildwood Assembly</title>
+            <link>https://www.wildwoodag.church/</link>
+        </image>
+
+        <podcast:guid>34d91523-0fd1-5061-8782-1f5177480fa9</podcast:guid>
+
+        <podcast:funding url="https://tithe.ly/give?c=5830091">Donate</podcast:funding>
+
+        <podcast:location geo="geo:29.8805,-98.2365" osm="R113314">Canyon Lake, TX</podcast:location>
+        <podcast:medium>podcast</podcast:medium>
+
+        <itunes:author>Wildwood Assembly</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:type>episodic</itunes:type>
+        <itunes:category text="Religion &amp; Spirituality"/>
+        <itunes:category text="Education"/>
+
+        <itunes:owner>
+            <itunes:name>Wildwood</itunes:name>
+            <itunes:email>Wildwood</itunes:email>
+        </itunes:owner>
+
+        <itunes:image href="https://www.wildwoodag.church/icons/android-chrome-512x512.png"/>
+
+        
+        <item>
+            <title>Ten Commandments Series - Part 3</title>
+            <description>Sermon</description>
+            <link>https://www.wildwoodag.church/wildwood-podcast/ten-commandments-series-part-3.mp3</link>
+            <guid isPermaLink="true">https://www.wildwoodag.church/wildwood-podcast/ten-commandments-series-part-3.mp3</guid>
+            <pubDate>Thu, 17 Jul 2025 01:02:03 +0000</pubDate>
+            <author>podcast@wildwoodag.church (Wildwood)</author>
+            <itunes:image href="https://www.wildwoodag.church/wildwood-podcast/ten-commandments-series-part-3.jpg"/>
+            <itunes:explicit>false</itunes:explicit>
+
+            <enclosure url="https://www.wildwoodag.church/wildwood-podcast/ten-commandments-series-part-3.mp3" length="15056996" type="audio/mpeg" />
+
+            <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
+        </item>
+        
+        <item>
+            <title>Christ in the Synoptic Gospels - Part 3</title>
+            <description>Bible study</description>
+            <link>https://www.wildwoodag.church/wildwood-podcast/christ-in-the-synoptic-gospels-part-3.mp3</link>
+            <guid isPermaLink="true">https://www.wildwoodag.church/wildwood-podcast/christ-in-the-synoptic-gospels-part-3.mp3</guid>
+            <pubDate>Thu, 17 Jul 2025 00:59:05 +0000</pubDate>
+            <author>podcast@wildwoodag.church (Wildwood)</author>
+            <itunes:image href="https://www.wildwoodag.church/wildwood-podcast/christ-in-the-synoptic-gospels-part-3.jpg"/>
+            <itunes:explicit>false</itunes:explicit>
+
+            <enclosure url="https://www.wildwoodag.church/wildwood-podcast/christ-in-the-synoptic-gospels-part-3.mp3" length="20448879" type="audio/mpeg" />
+
+            <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
+        </item>
+        
+    </channel>
+</rss>
