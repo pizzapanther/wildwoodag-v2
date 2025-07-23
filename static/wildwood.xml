@@ -7,8 +7,8 @@
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en-US</language>
         <generator>Podtube CLI</generator>
-        <pubDate>Sun, 20 Jul 2025 14:44:02 +0000</pubDate>
-        <lastBuildDate>Sun, 20 Jul 2025 14:44:02 +0000</lastBuildDate>
+        <pubDate>Wed, 23 Jul 2025 13:14:56 +0000</pubDate>
+        <lastBuildDate>Wed, 23 Jul 2025 13:14:56 +0000</lastBuildDate>
         <managingEditor>podcast@wildwoodag.church (Wildwood)</managingEditor>
         <webMaster>podcast@wildwoodag.church (Wildwood)</webMaster>
         <image>
@@ -37,6 +37,36 @@
 
         <itunes:image href="https://www.wildwoodag.church/icons/android-chrome-512x512.png"/>
 
+        
+        <item>
+            <title>Forward - Really?</title>
+            <description>Sermon</description>
+            <link>https://www.wildwoodag.church/wildwood-podcast/forward-really.mp3</link>
+            <guid isPermaLink="true">https://www.wildwoodag.church/wildwood-podcast/forward-really.mp3</guid>
+            <pubDate>Mon, 21 Jul 2025 22:56:27 +0000</pubDate>
+            <author>podcast@wildwoodag.church (Wildwood)</author>
+            <itunes:image href="https://www.wildwoodag.church/wildwood-podcast/forward-really.jpg"/>
+            <itunes:explicit>false</itunes:explicit>
+
+            <enclosure url="https://www.wildwoodag.church/wildwood-podcast/forward-really.mp3" length="26161336" type="audio/mpeg" />
+
+            <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
+        </item>
+        
+        <item>
+            <title>Romans Part 3</title>
+            <description>Bible study on Romans</description>
+            <link>https://www.wildwoodag.church/wildwood-podcast/romans-part-3.mp3</link>
+            <guid isPermaLink="true">https://www.wildwoodag.church/wildwood-podcast/romans-part-3.mp3</guid>
+            <pubDate>Mon, 21 Jul 2025 22:51:48 +0000</pubDate>
+            <author>podcast@wildwoodag.church (Wildwood)</author>
+            <itunes:image href="https://www.wildwoodag.church/wildwood-podcast/romans-part-3.jpg"/>
+            <itunes:explicit>false</itunes:explicit>
+
+            <enclosure url="https://www.wildwoodag.church/wildwood-podcast/romans-part-3.mp3" length="23729022" type="audio/mpeg" />
+
+            <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
+        </item>
         
         <item>
             <title>Ten Commandments Series - Part 3</title>
