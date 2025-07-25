@@ -39,8 +39,10 @@ git push --tags
 
 ```
 podtube UCoashvy-N3SHwntLU2xfkaA static/church-health-tpl.xml -f static/church-health.xml -m static/church-health/
+rclone sync -v static/church-health/ wildwood:wildwood/church-health
 
 podtube wildwoodag static/wildwood-tpl.xml -t rumble -f static/wildwood.xml -m static/wildwood-podcast/
+rclone sync -v static/wildwood-podcast/ wildwood:wildwood/wildwood-podcast
 ```
 
 **Manually**:
