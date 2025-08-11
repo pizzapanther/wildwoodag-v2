@@ -27,6 +27,7 @@ Hugo Theme: [Stack](https://github.com/CaiJimmy/hugo-theme-stack)
 - Cut video: `ffmpeg -ss 01:20:08 -to 01:59:56 -i 2025-03-30_10-01-09.mkv -c copy sun-trim.mp4`
 - Extract audio: `ffmpeg -i sun-trim.mp4 -vn -ac 2 sun-trim.mp3`
 - Clean up audio: `ffmpeg -i wed-trim-vol.mp4 -vcodec copy -af "lowpass=6000,highpass=400,afftdn=nf=-20" wed-trim-ai.mp4`
+- Normalize audio: `ffmpeg-normalize wed-trim.mp4 -o wed-trim-normalize.mp4 -c:a aac -b:a 192k`
 
 ## App Zip Update
 
