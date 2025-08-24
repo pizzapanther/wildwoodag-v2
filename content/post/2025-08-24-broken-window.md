@@ -9,7 +9,7 @@ tags:
 title: Broken Windows
 draft: false
 date: 2025-08-24T00:00:00.000Z
-image: https://www.wildwoodag.church/pimg/window.png
+image: https://www.wildwoodag.church/pimg/window.jpg
 ---
 They have forsaken the right way and gone astray, following the way of Balaam the son of Beor, who loved the wages of unrighteousness. 2 Peter 2:15
 
