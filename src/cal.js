@@ -54,7 +54,13 @@ function load_calendar(view) {
       var title = e.title + '<br>' + e.start.toLocaleDateString() + ' ' + e.start.toLocaleTimeString();
       title = title.replace(":00 ", " ");
       document.querySelector('#dialog h3').innerHTML = title;
-      document.querySelector('#dialog section p').innerHTML = info.event.extendedProps.description || "<strong>no details found</strong>";
+      console.log(info.event.extendedProps.description);
+      let desc = info.event.extendedProps.description || "<strong>no details found</strong>";
+      if (desc.startsWith("[{")) {
+        desc = desc.match(/"insert":"(.*)"/s)[1];
+        desc = desc.replace("\\n", "<br>");
+      }
+      document.querySelector('#dialog section p').innerHTML = desc;
       document.querySelector('#dialog').showModal();
       setTimeout(() => {
         document.querySelectorAll('#dialog section a').forEach((item) => {

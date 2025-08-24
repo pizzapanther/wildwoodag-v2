@@ -33,7 +33,7 @@ menu:
   </div>
   <h3>Narf</h3>
   <hr style="margin: 0; width: 100%;">
-  <section class="article-content">
-    <p>content</p>
+  <section class="article-content" style="margin-top: 0; margin-bottom: 0; overflow: scroll; height: 180px;">
+    <p style="padding-top: 8px; padding-bottom: 0; margin-top: 0; margin-bottom: 0">content</p>
   </section>
 </dialog
