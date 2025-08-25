@@ -7,8 +7,8 @@
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en-US</language>
         <generator>Podtube CLI</generator>
-        <pubDate>Mon, 18 Aug 2025 23:29:40 +0000</pubDate>
-        <lastBuildDate>Mon, 18 Aug 2025 23:29:40 +0000</lastBuildDate>
+        <pubDate>Mon, 25 Aug 2025 21:05:44 +0000</pubDate>
+        <lastBuildDate>Mon, 25 Aug 2025 21:05:44 +0000</lastBuildDate>
         <managingEditor>podcast@wildwoodag.church (Wildwood)</managingEditor>
         <webMaster>podcast@wildwoodag.church (Wildwood)</webMaster>
         <image>
@@ -37,6 +37,36 @@
 
         <itunes:image href="https://www.wildwoodag.church/icons/android-chrome-512x512.png"/>
 
+        
+        <item>
+            <title>You Shall Not Commit Adultery - August 2025</title>
+            <description>Ten commandments sermon series</description>
+            <link>https://media.wildwoodag.xyz/wildwood-podcast/you-shall-not-commit-adultery-august-2025.mp3</link>
+            <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/you-shall-not-commit-adultery-august-2025.mp3</guid>
+            <pubDate>Mon, 25 Aug 2025 16:55:45 -0400</pubDate>
+            <author>podcast@wildwoodag.church (Wildwood)</author>
+            <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/you-shall-not-commit-adultery-august-2025.jpg"/>
+            <itunes:explicit>false</itunes:explicit>
+
+            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/you-shall-not-commit-adultery-august-2025.mp3" length="13193107" type="audio/mpeg" />
+
+            <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
+        </item>
+        
+        <item>
+            <title>Romans Part 5 - August 2025</title>
+            <description>Bible study on Romans</description>
+            <link>https://media.wildwoodag.xyz/wildwood-podcast/romans-part-5-august-2025.mp3</link>
+            <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/romans-part-5-august-2025.mp3</guid>
+            <pubDate>Mon, 25 Aug 2025 16:52:24 -0400</pubDate>
+            <author>podcast@wildwoodag.church (Wildwood)</author>
+            <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/romans-part-5-august-2025.jpg"/>
+            <itunes:explicit>false</itunes:explicit>
+
+            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/romans-part-5-august-2025.mp3" length="23424957" type="audio/mpeg" />
+
+            <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
+        </item>
         
         <item>
             <title>Thou Shalt Not Murder - August 2025</title>
@@ -379,36 +409,6 @@
             <itunes:explicit>false</itunes:explicit>
 
             <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/romans.mp3" length="24801088" type="audio/mpeg" />
-
-            <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
-        </item>
-        
-        <item>
-            <title>Reasons to Celebrate</title>
-            <description>Sermon on reasons to celebrate God</description>
-            <link>https://media.wildwoodag.xyz/wildwood-podcast/reasons-to-celebrate.mp3</link>
-            <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/reasons-to-celebrate.mp3</guid>
-            <pubDate>Mon, 26 May 2025 19:36:04 -0400</pubDate>
-            <author>podcast@wildwoodag.church (Wildwood)</author>
-            <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/reasons-to-celebrate.jpg"/>
-            <itunes:explicit>false</itunes:explicit>
-
-            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/reasons-to-celebrate.mp3" length="16585055" type="audio/mpeg" />
-
-            <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
-        </item>
-        
-        <item>
-            <title>The Choices We Make, The Altars We Build, and the Tents We Pitch</title>
-            <description>Sermon</description>
-            <link>https://media.wildwoodag.xyz/wildwood-podcast/the-choices-we-make-the-altars-we-build-and-the-tents-we-pitch.mp3</link>
-            <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/the-choices-we-make-the-altars-we-build-and-the-tents-we-pitch.mp3</guid>
-            <pubDate>Wed, 21 May 2025 09:39:53 -0400</pubDate>
-            <author>podcast@wildwoodag.church (Wildwood)</author>
-            <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/the-choices-we-make-the-altars-we-build-and-the-tents-we-pitch.jpg"/>
-            <itunes:explicit>false</itunes:explicit>
-
-            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/the-choices-we-make-the-altars-we-build-and-the-tents-we-pitch.mp3" length="15873061" type="audio/mpeg" />
 
             <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
         </item>
