@@ -7,8 +7,8 @@
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en-US</language>
         <generator>Podtube CLI</generator>
-        <pubDate>Fri, 25 Jul 2025 12:32:39 +0000</pubDate>
-        <lastBuildDate>Fri, 25 Jul 2025 12:32:39 +0000</lastBuildDate>
+        <pubDate>Mon, 08 Sep 2025 22:06:10 +0000</pubDate>
+        <lastBuildDate>Mon, 08 Sep 2025 22:06:10 +0000</lastBuildDate>
         <managingEditor>jkautz@stxag.org (Jim Kautz)</managingEditor>
         <webMaster>jkautz@stxag.org (Jim Kautz)</webMaster>
         <image>
@@ -37,6 +37,22 @@
 
         <itunes:image href="https://www.wildwoodag.church/church-health/stmn.jpg"/>
 
+        
+        <item>
+            <title>What does the average family expect when they visit your church?</title>
+            <description>A topical discussion on what an average family is looking for when they attend your church.</description>
+            <link>https://media.wildwoodag.xyz/church-health/what-does-the-average-family-expect-when-they-visit-your-church.mp3</link>
+            <guid isPermaLink="true">https://media.wildwoodag.xyz/church-health/what-does-the-average-family-expect-when-they-visit-your-church.mp3</guid>
+            <pubDate>Mon, 08 Sep 2025 20:06:17 +0000</pubDate>
+            <author>jkautz@stxag.org (Jim Kautz)</author>
+            <itunes:image href="https://media.wildwoodag.xyz/church-health/what-does-the-average-family-expect-when-they-visit-your-church.jpg"/>
+            <itunes:explicit>false</itunes:explicit>
+
+            <enclosure url="https://media.wildwoodag.xyz/church-health/what-does-the-average-family-expect-when-they-visit-your-church.mp3" length="29631571" type="audio/mpeg" />
+
+            <podcast:socialInteract priority="1" uri="https://www.instagram.com/stxag_church_health/" protocol="instagram" accountId="@stxag_church_health" accountUrl="https://www.instagram.com/stxag_church_health/" />
+            <podcast:socialInteract priority="2" uri="https://www.facebook.com/STXAGChurchHealth" protocol="facebook" accountId="@STXAGChurchHealth" accountUrl="https://www.facebook.com/STXAGChurchHealth" />
+        </item>
         
         <item>
             <title>Can the church be to techie?</title>
@@ -257,22 +273,6 @@
             <itunes:explicit>false</itunes:explicit>
 
             <enclosure url="https://media.wildwoodag.xyz/church-health/healthy-lifestyle-emotional-health.mp3" length="40719212" type="audio/mpeg" />
-
-            <podcast:socialInteract priority="1" uri="https://www.instagram.com/stxag_church_health/" protocol="instagram" accountId="@stxag_church_health" accountUrl="https://www.instagram.com/stxag_church_health/" />
-            <podcast:socialInteract priority="2" uri="https://www.facebook.com/STXAGChurchHealth" protocol="facebook" accountId="@STXAGChurchHealth" accountUrl="https://www.facebook.com/STXAGChurchHealth" />
-        </item>
-        
-        <item>
-            <title>Healthy Lifestyle - Mental Health</title>
-            <description>A topical discussion on the importance of personal health while involved in ministry. This segment discusses ways to improve our mental health.</description>
-            <link>https://media.wildwoodag.xyz/church-health/healthy-lifestyle-mental-health.mp3</link>
-            <guid isPermaLink="true">https://media.wildwoodag.xyz/church-health/healthy-lifestyle-mental-health.mp3</guid>
-            <pubDate>Thu, 01 Feb 2024 15:16:02 +0000</pubDate>
-            <author>jkautz@stxag.org (Jim Kautz)</author>
-            <itunes:image href="https://media.wildwoodag.xyz/church-health/healthy-lifestyle-mental-health.jpg"/>
-            <itunes:explicit>false</itunes:explicit>
-
-            <enclosure url="https://media.wildwoodag.xyz/church-health/healthy-lifestyle-mental-health.mp3" length="39260012" type="audio/mpeg" />
 
             <podcast:socialInteract priority="1" uri="https://www.instagram.com/stxag_church_health/" protocol="instagram" accountId="@stxag_church_health" accountUrl="https://www.instagram.com/stxag_church_health/" />
             <podcast:socialInteract priority="2" uri="https://www.facebook.com/STXAGChurchHealth" protocol="facebook" accountId="@STXAGChurchHealth" accountUrl="https://www.facebook.com/STXAGChurchHealth" />
