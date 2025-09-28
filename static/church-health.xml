@@ -7,8 +7,8 @@
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en-US</language>
         <generator>Podtube CLI</generator>
-        <pubDate>Mon, 08 Sep 2025 22:06:10 +0000</pubDate>
-        <lastBuildDate>Mon, 08 Sep 2025 22:06:10 +0000</lastBuildDate>
+        <pubDate>Sun, 28 Sep 2025 11:39:25 +0000</pubDate>
+        <lastBuildDate>Sun, 28 Sep 2025 11:39:25 +0000</lastBuildDate>
         <managingEditor>jkautz@stxag.org (Jim Kautz)</managingEditor>
         <webMaster>jkautz@stxag.org (Jim Kautz)</webMaster>
         <image>
@@ -37,6 +37,22 @@
 
         <itunes:image href="https://www.wildwoodag.church/church-health/stmn.jpg"/>
 
+        
+        <item>
+            <title>Consumer or Producer</title>
+            <description>A topical discussion on two types of personality modes in the local church. Both play a crucial role and both have seasons of impact!</description>
+            <link>https://media.wildwoodag.xyz/church-health/consumer-or-producer.mp3</link>
+            <guid isPermaLink="true">https://media.wildwoodag.xyz/church-health/consumer-or-producer.mp3</guid>
+            <pubDate>Sat, 27 Sep 2025 21:16:10 +0000</pubDate>
+            <author>jkautz@stxag.org (Jim Kautz)</author>
+            <itunes:image href="https://media.wildwoodag.xyz/church-health/consumer-or-producer.jpg"/>
+            <itunes:explicit>false</itunes:explicit>
+
+            <enclosure url="https://media.wildwoodag.xyz/church-health/consumer-or-producer.mp3" length="16794189" type="audio/mpeg" />
+
+            <podcast:socialInteract priority="1" uri="https://www.instagram.com/stxag_church_health/" protocol="instagram" accountId="@stxag_church_health" accountUrl="https://www.instagram.com/stxag_church_health/" />
+            <podcast:socialInteract priority="2" uri="https://www.facebook.com/STXAGChurchHealth" protocol="facebook" accountId="@STXAGChurchHealth" accountUrl="https://www.facebook.com/STXAGChurchHealth" />
+        </item>
         
         <item>
             <title>What does the average family expect when they visit your church?</title>
@@ -257,22 +273,6 @@
             <itunes:explicit>false</itunes:explicit>
 
             <enclosure url="https://media.wildwoodag.xyz/church-health/healthy-lifestyle-physical-health.mp3" length="34238060" type="audio/mpeg" />
-
-            <podcast:socialInteract priority="1" uri="https://www.instagram.com/stxag_church_health/" protocol="instagram" accountId="@stxag_church_health" accountUrl="https://www.instagram.com/stxag_church_health/" />
-            <podcast:socialInteract priority="2" uri="https://www.facebook.com/STXAGChurchHealth" protocol="facebook" accountId="@STXAGChurchHealth" accountUrl="https://www.facebook.com/STXAGChurchHealth" />
-        </item>
-        
-        <item>
-            <title>Healthy Lifestyle - Emotional Health</title>
-            <description>A topical discussion on the importance of emotional health while serving in ministry and ways to get emotionally stronger.</description>
-            <link>https://media.wildwoodag.xyz/church-health/healthy-lifestyle-emotional-health.mp3</link>
-            <guid isPermaLink="true">https://media.wildwoodag.xyz/church-health/healthy-lifestyle-emotional-health.mp3</guid>
-            <pubDate>Thu, 08 Feb 2024 14:56:02 +0000</pubDate>
-            <author>jkautz@stxag.org (Jim Kautz)</author>
-            <itunes:image href="https://media.wildwoodag.xyz/church-health/healthy-lifestyle-emotional-health.jpg"/>
-            <itunes:explicit>false</itunes:explicit>
-
-            <enclosure url="https://media.wildwoodag.xyz/church-health/healthy-lifestyle-emotional-health.mp3" length="40719212" type="audio/mpeg" />
 
             <podcast:socialInteract priority="1" uri="https://www.instagram.com/stxag_church_health/" protocol="instagram" accountId="@stxag_church_health" accountUrl="https://www.instagram.com/stxag_church_health/" />
             <podcast:socialInteract priority="2" uri="https://www.facebook.com/STXAGChurchHealth" protocol="facebook" accountId="@STXAGChurchHealth" accountUrl="https://www.facebook.com/STXAGChurchHealth" />
