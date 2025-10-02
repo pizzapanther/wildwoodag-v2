@@ -7,8 +7,8 @@
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en-US</language>
         <generator>Podtube CLI</generator>
-        <pubDate>Tue, 23 Sep 2025 00:38:34 +0000</pubDate>
-        <lastBuildDate>Tue, 23 Sep 2025 00:38:34 +0000</lastBuildDate>
+        <pubDate>Thu, 02 Oct 2025 00:27:25 +0000</pubDate>
+        <lastBuildDate>Thu, 02 Oct 2025 00:27:25 +0000</lastBuildDate>
         <managingEditor>podcast@wildwoodag.church (Wildwood)</managingEditor>
         <webMaster>podcast@wildwoodag.church (Wildwood)</webMaster>
         <image>
@@ -37,6 +37,36 @@
 
         <itunes:image href="https://www.wildwoodag.church/icons/android-chrome-512x512.png"/>
 
+        
+        <item>
+            <title>A Call to Action - Sept 2025</title>
+            <description>Sermon</description>
+            <link>https://media.wildwoodag.xyz/wildwood-podcast/a-call-to-action-sept-2025.mp3</link>
+            <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/a-call-to-action-sept-2025.mp3</guid>
+            <pubDate>Sun, 28 Sep 2025 20:42:10 -0400</pubDate>
+            <author>podcast@wildwoodag.church (Wildwood)</author>
+            <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/a-call-to-action-sept-2025.jpg"/>
+            <itunes:explicit>false</itunes:explicit>
+
+            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/a-call-to-action-sept-2025.mp3" length="40449164" type="audio/mpeg" />
+
+            <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
+        </item>
+        
+        <item>
+            <title>Living in the Light</title>
+            <description>Bible study by Elder Norman Reed</description>
+            <link>https://media.wildwoodag.xyz/wildwood-podcast/living-in-the-light.mp3</link>
+            <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/living-in-the-light.mp3</guid>
+            <pubDate>Sun, 28 Sep 2025 20:33:18 -0400</pubDate>
+            <author>podcast@wildwoodag.church (Wildwood)</author>
+            <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/living-in-the-light.jpg"/>
+            <itunes:explicit>false</itunes:explicit>
+
+            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/living-in-the-light.mp3" length="21497223" type="audio/mpeg" />
+
+            <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
+        </item>
         
         <item>
             <title>Do Not Covet</title>
@@ -339,21 +369,6 @@
         </item>
         
         <item>
-            <title>Ten Commandments Series - Part 3</title>
-            <description>Sermon</description>
-            <link>https://media.wildwoodag.xyz/wildwood-podcast/ten-commandments-series-part-3.mp3</link>
-            <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/ten-commandments-series-part-3.mp3</guid>
-            <pubDate>Wed, 16 Jul 2025 21:02:03 -0400</pubDate>
-            <author>podcast@wildwoodag.church (Wildwood)</author>
-            <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/ten-commandments-series-part-3.jpg"/>
-            <itunes:explicit>false</itunes:explicit>
-
-            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/ten-commandments-series-part-3.mp3" length="15056996" type="audio/mpeg" />
-
-            <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
-        </item>
-        
-        <item>
             <title>Christ in the Synoptic Gospels - Part 3</title>
             <description>Bible study</description>
             <link>https://media.wildwoodag.xyz/wildwood-podcast/christ-in-the-synoptic-gospels-part-3.mp3</link>
@@ -369,46 +384,16 @@
         </item>
         
         <item>
-            <title>Theology of Suffering Part 2</title>
-            <description>Bible study</description>
-            <link>https://media.wildwoodag.xyz/wildwood-podcast/theology-of-suffering-part-2.mp3</link>
-            <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/theology-of-suffering-part-2.mp3</guid>
-            <pubDate>Wed, 16 Jul 2025 20:47:46 -0400</pubDate>
-            <author>podcast@wildwoodag.church (Wildwood)</author>
-            <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/theology-of-suffering-part-2.jpg"/>
-            <itunes:explicit>false</itunes:explicit>
-
-            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/theology-of-suffering-part-2.mp3" length="21376957" type="audio/mpeg" />
-
-            <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
-        </item>
-        
-        <item>
-            <title>Ten Commandments Series - Part 2</title>
+            <title>Ten Commandments Series - Part 3</title>
             <description>Sermon</description>
-            <link>https://media.wildwoodag.xyz/wildwood-podcast/ten-commandments-series-part-2.mp3</link>
-            <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/ten-commandments-series-part-2.mp3</guid>
-            <pubDate>Wed, 16 Jul 2025 20:52:18 -0400</pubDate>
+            <link>https://media.wildwoodag.xyz/wildwood-podcast/ten-commandments-series-part-3.mp3</link>
+            <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/ten-commandments-series-part-3.mp3</guid>
+            <pubDate>Wed, 16 Jul 2025 21:02:03 -0400</pubDate>
             <author>podcast@wildwoodag.church (Wildwood)</author>
-            <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/ten-commandments-series-part-2.jpg"/>
+            <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/ten-commandments-series-part-3.jpg"/>
             <itunes:explicit>false</itunes:explicit>
 
-            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/ten-commandments-series-part-2.mp3" length="17425153" type="audio/mpeg" />
-
-            <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
-        </item>
-        
-        <item>
-            <title>Ten Commandments Series</title>
-            <description>Part 1</description>
-            <link>https://media.wildwoodag.xyz/wildwood-podcast/ten-commandments-series.mp3</link>
-            <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/ten-commandments-series.mp3</guid>
-            <pubDate>Sun, 29 Jun 2025 19:55:32 -0400</pubDate>
-            <author>podcast@wildwoodag.church (Wildwood)</author>
-            <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/ten-commandments-series.jpg"/>
-            <itunes:explicit>false</itunes:explicit>
-
-            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/ten-commandments-series.mp3" length="16049022" type="audio/mpeg" />
+            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/ten-commandments-series-part-3.mp3" length="15056996" type="audio/mpeg" />
 
             <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
         </item>
