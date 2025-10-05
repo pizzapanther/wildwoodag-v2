@@ -92,11 +92,11 @@ function showContent() {
 showContent();
 </script>
 
-<div>
+<!-- <div>
   <img src="img/concert-2025.jpg" alt="Free Outdoor Concert">
   <br>
   <br>
-</div>
+</div> -->
 <!-- <div class="app-buttons" style="text-align: center; display: none;">
   <a href="https://apps.apple.com/us/app/wildwood-assembly/id6465793721" target="_blank">
     <img src="/img/apple-store.png" alt="Download on the App Store" style="height: 40px;">
