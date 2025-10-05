@@ -6,7 +6,7 @@ tags:
   - university
   - teachings
   - learning
-title: Believer's University
+title: Believer's University Oct 2025
 draft: false
 date: 2025-10-05T00:00:00.000Z
 image: https://www.wildwoodag.church/pimg/classroom.jpg
