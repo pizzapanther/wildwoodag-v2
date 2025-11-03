@@ -7,8 +7,8 @@
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en-US</language>
         <generator>Podtube CLI</generator>
-        <pubDate>Tue, 28 Oct 2025 23:41:50 +0000</pubDate>
-        <lastBuildDate>Tue, 28 Oct 2025 23:41:50 +0000</lastBuildDate>
+        <pubDate>Mon, 03 Nov 2025 01:26:21 +0000</pubDate>
+        <lastBuildDate>Mon, 03 Nov 2025 01:26:21 +0000</lastBuildDate>
         <managingEditor>podcast@wildwoodag.church (Wildwood)</managingEditor>
         <webMaster>podcast@wildwoodag.church (Wildwood)</webMaster>
         <image>
@@ -37,6 +37,36 @@
 
         <itunes:image href="https://www.wildwoodag.church/icons/android-chrome-512x512.png"/>
 
+        
+        <item>
+            <title>Theology of Suffering Part 4 - Oct 2025</title>
+            <description>Bible study</description>
+            <link>https://media.wildwoodag.xyz/wildwood-podcast/theology-of-suffering-part-4-oct-2025.mp3</link>
+            <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/theology-of-suffering-part-4-oct-2025.mp3</guid>
+            <pubDate>Sun, 02 Nov 2025 21:07:21 -0400</pubDate>
+            <author>podcast@wildwoodag.church (Wildwood)</author>
+            <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/theology-of-suffering-part-4-oct-2025.jpg"/>
+            <itunes:explicit>false</itunes:explicit>
+
+            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/theology-of-suffering-part-4-oct-2025.mp3" length="28721021" type="audio/mpeg" />
+
+            <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
+        </item>
+        
+        <item>
+            <title>Law of Kindness - Nov 2025</title>
+            <description>Sermon</description>
+            <link>https://media.wildwoodag.xyz/wildwood-podcast/law-of-kindness-nov-2025.mp3</link>
+            <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/law-of-kindness-nov-2025.mp3</guid>
+            <pubDate>Sun, 02 Nov 2025 21:12:31 -0400</pubDate>
+            <author>podcast@wildwoodag.church (Wildwood)</author>
+            <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/law-of-kindness-nov-2025.jpg"/>
+            <itunes:explicit>false</itunes:explicit>
+
+            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/law-of-kindness-nov-2025.mp3" length="13073256" type="audio/mpeg" />
+
+            <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
+        </item>
         
         <item>
             <title>Trust the Process - Oct 25</title>
@@ -258,7 +288,7 @@
             <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/liar-liar-pants-on-fire.jpg"/>
             <itunes:explicit>false</itunes:explicit>
 
-            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/liar-liar-pants-on-fire.mp3" length="13264996" type="audio/mpeg" />
+            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/liar-liar-pants-on-fire.mp3" length="13265099" type="audio/mpeg" />
 
             <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
         </item>
@@ -273,7 +303,7 @@
             <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/romans-part-6-sept-2025.jpg"/>
             <itunes:explicit>false</itunes:explicit>
 
-            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/romans-part-6-sept-2025.mp3" length="22745146" type="audio/mpeg" />
+            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/romans-part-6-sept-2025.mp3" length="22745249" type="audio/mpeg" />
 
             <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
         </item>
@@ -288,7 +318,7 @@
             <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/the-closet-thief-august-2025.jpg"/>
             <itunes:explicit>false</itunes:explicit>
 
-            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/the-closet-thief-august-2025.mp3" length="20264977" type="audio/mpeg" />
+            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/the-closet-thief-august-2025.mp3" length="20265080" type="audio/mpeg" />
 
             <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
         </item>
@@ -303,7 +333,7 @@
             <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/theology-of-suffering-part-3-august-2025.jpg"/>
             <itunes:explicit>false</itunes:explicit>
 
-            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/theology-of-suffering-part-3-august-2025.mp3" length="26641153" type="audio/mpeg" />
+            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/theology-of-suffering-part-3-august-2025.mp3" length="26641256" type="audio/mpeg" />
 
             <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
         </item>
@@ -318,7 +348,7 @@
             <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/you-shall-not-commit-adultery-august-2025.jpg"/>
             <itunes:explicit>false</itunes:explicit>
 
-            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/you-shall-not-commit-adultery-august-2025.mp3" length="13193107" type="audio/mpeg" />
+            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/you-shall-not-commit-adultery-august-2025.mp3" length="13193210" type="audio/mpeg" />
 
             <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
         </item>
@@ -333,7 +363,7 @@
             <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/romans-part-5-august-2025.jpg"/>
             <itunes:explicit>false</itunes:explicit>
 
-            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/romans-part-5-august-2025.mp3" length="23424957" type="audio/mpeg" />
+            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/romans-part-5-august-2025.mp3" length="23425060" type="audio/mpeg" />
 
             <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
         </item>
@@ -348,7 +378,7 @@
             <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/thou-shalt-not-murder-august-2025.jpg"/>
             <itunes:explicit>false</itunes:explicit>
 
-            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/thou-shalt-not-murder-august-2025.mp3" length="14185133" type="audio/mpeg" />
+            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/thou-shalt-not-murder-august-2025.mp3" length="14185236" type="audio/mpeg" />
 
             <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
         </item>
@@ -363,7 +393,7 @@
             <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/christ-in-the-synoptic-gospels-part-5-august-2025.jpg"/>
             <itunes:explicit>false</itunes:explicit>
 
-            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/christ-in-the-synoptic-gospels-part-5-august-2025.mp3" length="15665127" type="audio/mpeg" />
+            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/christ-in-the-synoptic-gospels-part-5-august-2025.mp3" length="15551545" type="audio/mpeg" />
 
             <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
         </item>
@@ -378,37 +408,7 @@
             <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/parental-honor-august-2025.jpg"/>
             <itunes:explicit>false</itunes:explicit>
 
-            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/parental-honor-august-2025.mp3" length="12896983" type="audio/mpeg" />
-
-            <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
-        </item>
-        
-        <item>
-            <title>Romans Part 4 Bible Study - August 2025</title>
-            <description>Bible study on Romans</description>
-            <link>https://media.wildwoodag.xyz/wildwood-podcast/romans-part-4-bible-study-august-2025.mp3</link>
-            <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/romans-part-4-bible-study-august-2025.mp3</guid>
-            <pubDate>Sun, 10 Aug 2025 20:52:29 -0400</pubDate>
-            <author>podcast@wildwoodag.church (Wildwood)</author>
-            <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/romans-part-4-bible-study-august-2025.jpg"/>
-            <itunes:explicit>false</itunes:explicit>
-
-            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/romans-part-4-bible-study-august-2025.mp3" length="22928684" type="audio/mpeg" />
-
-            <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
-        </item>
-        
-        <item>
-            <title>Faith in the Storm</title>
-            <description>Bible study on Faith</description>
-            <link>https://media.wildwoodag.xyz/wildwood-podcast/faith-in-the-storm.mp3</link>
-            <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/faith-in-the-storm.mp3</guid>
-            <pubDate>Sun, 03 Aug 2025 20:20:01 -0400</pubDate>
-            <author>podcast@wildwoodag.church (Wildwood)</author>
-            <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/faith-in-the-storm.jpg"/>
-            <itunes:explicit>false</itunes:explicit>
-
-            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/faith-in-the-storm.mp3" length="19264748" type="audio/mpeg" />
+            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/parental-honor-august-2025.mp3" length="12897086" type="audio/mpeg" />
 
             <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
         </item>
