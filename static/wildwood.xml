@@ -7,8 +7,8 @@
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en-US</language>
         <generator>Podtube CLI</generator>
-        <pubDate>Mon, 03 Nov 2025 01:26:21 +0000</pubDate>
-        <lastBuildDate>Mon, 03 Nov 2025 01:26:21 +0000</lastBuildDate>
+        <pubDate>Tue, 11 Nov 2025 12:41:42 +0000</pubDate>
+        <lastBuildDate>Tue, 11 Nov 2025 12:41:42 +0000</lastBuildDate>
         <managingEditor>podcast@wildwoodag.church (Wildwood)</managingEditor>
         <webMaster>podcast@wildwoodag.church (Wildwood)</webMaster>
         <image>
@@ -37,6 +37,36 @@
 
         <itunes:image href="https://www.wildwoodag.church/icons/android-chrome-512x512.png"/>
 
+        
+        <item>
+            <title>Finishing Well - Nov 25</title>
+            <description>Sermon for Veteran&#x27;s Day</description>
+            <link>https://media.wildwoodag.xyz/wildwood-podcast/finishing-well-nov-25.mp3</link>
+            <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/finishing-well-nov-25.mp3</guid>
+            <pubDate>Mon, 10 Nov 2025 22:46:04 -0400</pubDate>
+            <author>podcast@wildwoodag.church (Wildwood)</author>
+            <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/finishing-well-nov-25.jpg"/>
+            <itunes:explicit>false</itunes:explicit>
+
+            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/finishing-well-nov-25.mp3" length="18985080" type="audio/mpeg" />
+
+            <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
+        </item>
+        
+        <item>
+            <title>Christ in the Synoptic Gospels - Part 9 - Nov 2025</title>
+            <description>Believer&#x27;s University</description>
+            <link>https://media.wildwoodag.xyz/wildwood-podcast/christ-in-the-synoptic-gospels-part-9-nov-2025.mp3</link>
+            <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/christ-in-the-synoptic-gospels-part-9-nov-2025.mp3</guid>
+            <pubDate>Mon, 10 Nov 2025 22:36:45 -0400</pubDate>
+            <author>podcast@wildwoodag.church (Wildwood)</author>
+            <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/christ-in-the-synoptic-gospels-part-9-nov-2025.jpg"/>
+            <itunes:explicit>false</itunes:explicit>
+
+            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/christ-in-the-synoptic-gospels-part-9-nov-2025.mp3" length="18288969" type="audio/mpeg" />
+
+            <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
+        </item>
         
         <item>
             <title>Theology of Suffering Part 4 - Oct 2025</title>
@@ -379,36 +409,6 @@
             <itunes:explicit>false</itunes:explicit>
 
             <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/thou-shalt-not-murder-august-2025.mp3" length="14185236" type="audio/mpeg" />
-
-            <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
-        </item>
-        
-        <item>
-            <title>Christ in the Synoptic Gospels - Part 5 - August 2025</title>
-            <description>Bible study</description>
-            <link>https://media.wildwoodag.xyz/wildwood-podcast/christ-in-the-synoptic-gospels-part-5-august-2025.mp3</link>
-            <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/christ-in-the-synoptic-gospels-part-5-august-2025.mp3</guid>
-            <pubDate>Mon, 18 Aug 2025 19:13:52 -0400</pubDate>
-            <author>podcast@wildwoodag.church (Wildwood)</author>
-            <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/christ-in-the-synoptic-gospels-part-5-august-2025.jpg"/>
-            <itunes:explicit>false</itunes:explicit>
-
-            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/christ-in-the-synoptic-gospels-part-5-august-2025.mp3" length="15551545" type="audio/mpeg" />
-
-            <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
-        </item>
-        
-        <item>
-            <title>Parental Honor - August 2025</title>
-            <description>Ten Commandments Series</description>
-            <link>https://media.wildwoodag.xyz/wildwood-podcast/parental-honor-august-2025.mp3</link>
-            <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/parental-honor-august-2025.mp3</guid>
-            <pubDate>Sun, 10 Aug 2025 20:57:19 -0400</pubDate>
-            <author>podcast@wildwoodag.church (Wildwood)</author>
-            <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/parental-honor-august-2025.jpg"/>
-            <itunes:explicit>false</itunes:explicit>
-
-            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/parental-honor-august-2025.mp3" length="12897086" type="audio/mpeg" />
 
             <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
         </item>

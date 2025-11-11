@@ -28,6 +28,7 @@ Hugo Theme: [Stack](https://github.com/CaiJimmy/hugo-theme-stack)
 - Extract audio: `ffmpeg -i sun-trim.mp4 -vn -ac 2 sun-trim.mp3`
 - Clean up audio: `ffmpeg -i wed-trim-vol.mp4 -vcodec copy -af "lowpass=6000,highpass=400,afftdn=nf=-20" wed-trim-ai.mp4`
 - Normalize audio: `ffmpeg-normalize wed-trim.mp4 -o wed-trim-normalize.mp4 -c:a aac -b:a 192k`
+- Buzz and louder:  `ffmpeg -i wed-trim.mp4 -vcodec copy -af "asendcmd=0.0 afftdn sn start,asendcmd=0.4 afftdn sn stop,afftdn=nr=20:nf=-40,volume=10dB" wed-trim-ai.mp4`
 
 ## App Zip Update
 
