@@ -7,8 +7,8 @@
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en-US</language>
         <generator>Podtube CLI</generator>
-        <pubDate>Fri, 21 Nov 2025 01:09:34 +0000</pubDate>
-        <lastBuildDate>Fri, 21 Nov 2025 01:09:34 +0000</lastBuildDate>
+        <pubDate>Tue, 25 Nov 2025 21:43:54 +0000</pubDate>
+        <lastBuildDate>Tue, 25 Nov 2025 21:43:54 +0000</lastBuildDate>
         <managingEditor>podcast@wildwoodag.church (Wildwood)</managingEditor>
         <webMaster>podcast@wildwoodag.church (Wildwood)</webMaster>
         <image>
@@ -37,6 +37,51 @@
 
         <itunes:image href="https://www.wildwoodag.church/icons/android-chrome-512x512.png"/>
 
+        
+        <item>
+            <title>The Holy Spirit is not a Bird - Nov 2025</title>
+            <description>Sunday sermon</description>
+            <link>https://media.wildwoodag.xyz/wildwood-podcast/the-holy-spirit-is-not-a-bird-nov-2025.mp3</link>
+            <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/the-holy-spirit-is-not-a-bird-nov-2025.mp3</guid>
+            <pubDate>Tue, 25 Nov 2025 16:29:39 -0400</pubDate>
+            <author>podcast@wildwoodag.church (Wildwood)</author>
+            <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/the-holy-spirit-is-not-a-bird-nov-2025.jpg"/>
+            <itunes:explicit>false</itunes:explicit>
+
+            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/the-holy-spirit-is-not-a-bird-nov-2025.mp3" length="34722387" type="audio/mpeg" />
+
+            <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
+        </item>
+        
+        <item>
+            <title>A Full Plate - Nov 2025</title>
+            <description>Bible study</description>
+            <link>https://media.wildwoodag.xyz/wildwood-podcast/a-full-plate-nov-2025.mp3</link>
+            <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/a-full-plate-nov-2025.mp3</guid>
+            <pubDate>Tue, 25 Nov 2025 16:27:14 -0400</pubDate>
+            <author>podcast@wildwoodag.church (Wildwood)</author>
+            <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/a-full-plate-nov-2025.jpg"/>
+            <itunes:explicit>false</itunes:explicit>
+
+            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/a-full-plate-nov-2025.mp3" length="38018643" type="audio/mpeg" />
+
+            <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
+        </item>
+        
+        <item>
+            <title>Wildwood Assembly Live Stream</title>
+            <description>Service Streams:Sunday: 10:30 AMWednesday: 7:00 PM</description>
+            <link>https://media.wildwoodag.xyz/wildwood-podcast/wildwood-assembly-live-stream.mp3</link>
+            <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/wildwood-assembly-live-stream.mp3</guid>
+            <pubDate>Sun, 23 Nov 2025 12:09:44 -0400</pubDate>
+            <author>podcast@wildwoodag.church (Wildwood)</author>
+            <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/wildwood-assembly-live-stream.jpg"/>
+            <itunes:explicit>false</itunes:explicit>
+
+            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/wildwood-assembly-live-stream.mp3" length="121577811" type="audio/mpeg" />
+
+            <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
+        </item>
         
         <item>
             <title>Timing of God - Nov 2025</title>
@@ -364,51 +409,6 @@
             <itunes:explicit>false</itunes:explicit>
 
             <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/romans-part-6-sept-2025.mp3" length="22745249" type="audio/mpeg" />
-
-            <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
-        </item>
-        
-        <item>
-            <title>The Closet Thief - August 2025</title>
-            <description>Ten commandments sermon series</description>
-            <link>https://media.wildwoodag.xyz/wildwood-podcast/the-closet-thief-august-2025.mp3</link>
-            <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/the-closet-thief-august-2025.mp3</guid>
-            <pubDate>Sun, 31 Aug 2025 18:23:42 -0400</pubDate>
-            <author>podcast@wildwoodag.church (Wildwood)</author>
-            <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/the-closet-thief-august-2025.jpg"/>
-            <itunes:explicit>false</itunes:explicit>
-
-            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/the-closet-thief-august-2025.mp3" length="20265080" type="audio/mpeg" />
-
-            <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
-        </item>
-        
-        <item>
-            <title>Theology of Suffering Part 3 - August 2025</title>
-            <description>Bible study</description>
-            <link>https://media.wildwoodag.xyz/wildwood-podcast/theology-of-suffering-part-3-august-2025.mp3</link>
-            <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/theology-of-suffering-part-3-august-2025.mp3</guid>
-            <pubDate>Sun, 31 Aug 2025 18:18:35 -0400</pubDate>
-            <author>podcast@wildwoodag.church (Wildwood)</author>
-            <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/theology-of-suffering-part-3-august-2025.jpg"/>
-            <itunes:explicit>false</itunes:explicit>
-
-            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/theology-of-suffering-part-3-august-2025.mp3" length="26641256" type="audio/mpeg" />
-
-            <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
-        </item>
-        
-        <item>
-            <title>You Shall Not Commit Adultery - August 2025</title>
-            <description>Ten commandments sermon series</description>
-            <link>https://media.wildwoodag.xyz/wildwood-podcast/you-shall-not-commit-adultery-august-2025.mp3</link>
-            <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/you-shall-not-commit-adultery-august-2025.mp3</guid>
-            <pubDate>Mon, 25 Aug 2025 16:55:45 -0400</pubDate>
-            <author>podcast@wildwoodag.church (Wildwood)</author>
-            <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/you-shall-not-commit-adultery-august-2025.jpg"/>
-            <itunes:explicit>false</itunes:explicit>
-
-            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/you-shall-not-commit-adultery-august-2025.mp3" length="13193210" type="audio/mpeg" />
 
             <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
         </item>
