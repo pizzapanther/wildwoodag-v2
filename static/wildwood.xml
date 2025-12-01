@@ -7,8 +7,8 @@
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en-US</language>
         <generator>Podtube CLI</generator>
-        <pubDate>Tue, 25 Nov 2025 21:43:54 +0000</pubDate>
-        <lastBuildDate>Tue, 25 Nov 2025 21:43:54 +0000</lastBuildDate>
+        <pubDate>Mon, 01 Dec 2025 03:19:07 +0000</pubDate>
+        <lastBuildDate>Mon, 01 Dec 2025 03:19:07 +0000</lastBuildDate>
         <managingEditor>podcast@wildwoodag.church (Wildwood)</managingEditor>
         <webMaster>podcast@wildwoodag.church (Wildwood)</webMaster>
         <image>
@@ -37,6 +37,21 @@
 
         <itunes:image href="https://www.wildwoodag.church/icons/android-chrome-512x512.png"/>
 
+        
+        <item>
+            <title>The Art of Gratefulness - Nov 2025</title>
+            <description>Thanksgiving sermon</description>
+            <link>https://media.wildwoodag.xyz/wildwood-podcast/the-art-of-gratefulness-nov-2025.mp3</link>
+            <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/the-art-of-gratefulness-nov-2025.mp3</guid>
+            <pubDate>Sun, 30 Nov 2025 20:24:27 -0400</pubDate>
+            <author>podcast@wildwoodag.church (Wildwood)</author>
+            <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/the-art-of-gratefulness-nov-2025.jpg"/>
+            <itunes:explicit>false</itunes:explicit>
+
+            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/the-art-of-gratefulness-nov-2025.mp3" length="24834387" type="audio/mpeg" />
+
+            <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
+        </item>
         
         <item>
             <title>The Holy Spirit is not a Bird - Nov 2025</title>
@@ -394,21 +409,6 @@
             <itunes:explicit>false</itunes:explicit>
 
             <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/liar-liar-pants-on-fire.mp3" length="13265099" type="audio/mpeg" />
-
-            <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
-        </item>
-        
-        <item>
-            <title>Romans Part 6 - Sept 2025</title>
-            <description>Bible study on Romans</description>
-            <link>https://media.wildwoodag.xyz/wildwood-podcast/romans-part-6-sept-2025.mp3</link>
-            <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/romans-part-6-sept-2025.mp3</guid>
-            <pubDate>Mon, 08 Sep 2025 08:20:07 -0400</pubDate>
-            <author>podcast@wildwoodag.church (Wildwood)</author>
-            <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/romans-part-6-sept-2025.jpg"/>
-            <itunes:explicit>false</itunes:explicit>
-
-            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/romans-part-6-sept-2025.mp3" length="22745249" type="audio/mpeg" />
 
             <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
         </item>
