@@ -22,7 +22,7 @@ menu:
 
 <br>
 <div class="article-category" style="display: block">
-  <a href="https://tithe.ly/give?c=5830091" target="_blank" style="font-weight: bold;">
+  <a href="https://give.tithe.ly/?formId=8c269fc0-6865-11ee-90fc-1260ab546d11" target="_blank" style="font-weight: bold;">
     Donate on Tithe.ly
   </a>
 </div>
