@@ -10,7 +10,7 @@ tags:
 draft: false
 date: 2024-12-29T06:00:00.000Z
 title: Loaves and Hardened Hearts
-image: https://www.wildwoodag.church/pimg/loaves-and-fishes.jpeg
+image: https://www.wildwoodag.church/pimg/loaves-and-fishes2.jpeg
 ---
 For they had not understood about the loaves, because their heart was hardened. Mark 6:52
 
