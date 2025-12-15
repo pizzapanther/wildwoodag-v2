@@ -7,8 +7,8 @@
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en-US</language>
         <generator>Podtube CLI</generator>
-        <pubDate>Mon, 08 Dec 2025 16:07:27 +0000</pubDate>
-        <lastBuildDate>Mon, 08 Dec 2025 16:07:27 +0000</lastBuildDate>
+        <pubDate>Mon, 15 Dec 2025 00:28:58 +0000</pubDate>
+        <lastBuildDate>Mon, 15 Dec 2025 00:28:58 +0000</lastBuildDate>
         <managingEditor>podcast@wildwoodag.church (Wildwood)</managingEditor>
         <webMaster>podcast@wildwoodag.church (Wildwood)</webMaster>
         <image>
@@ -37,6 +37,36 @@
 
         <itunes:image href="https://www.wildwoodag.church/icons/android-chrome-512x512.png"/>
 
+        
+        <item>
+            <title>Romans Part 8 - Dec 2025</title>
+            <description>Romans Bible study course</description>
+            <link>https://media.wildwoodag.xyz/wildwood-podcast/romans-part-8-dec-2025.mp3</link>
+            <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/romans-part-8-dec-2025.mp3</guid>
+            <pubDate>Sun, 14 Dec 2025 19:55:32 -0400</pubDate>
+            <author>podcast@wildwoodag.church (Wildwood)</author>
+            <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/romans-part-8-dec-2025.jpg"/>
+            <itunes:explicit>false</itunes:explicit>
+
+            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/romans-part-8-dec-2025.mp3" length="50002899" type="audio/mpeg" />
+
+            <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
+        </item>
+        
+        <item>
+            <title>A Memorable, Musical Christmas - Dec 2025</title>
+            <description>Sermon on Christmas and the music of Christmas</description>
+            <link>https://media.wildwoodag.xyz/wildwood-podcast/a-memorable-musical-christmas-dec-2025.mp3</link>
+            <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/a-memorable-musical-christmas-dec-2025.mp3</guid>
+            <pubDate>Sun, 14 Dec 2025 20:01:44 -0400</pubDate>
+            <author>podcast@wildwoodag.church (Wildwood)</author>
+            <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/a-memorable-musical-christmas-dec-2025.jpg"/>
+            <itunes:explicit>false</itunes:explicit>
+
+            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/a-memorable-musical-christmas-dec-2025.mp3" length="33938643" type="audio/mpeg" />
+
+            <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
+        </item>
         
         <item>
             <title>The Christmas Story - Dec 2025</title>
@@ -379,36 +409,6 @@
             <itunes:explicit>false</itunes:explicit>
 
             <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/christ-in-the-synoptic-gospels-part-7-sept-2025.mp3" length="23457034" type="audio/mpeg" />
-
-            <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
-        </item>
-        
-        <item>
-            <title>Who are You?</title>
-            <description>Sermon from Pastor Kelly</description>
-            <link>https://media.wildwoodag.xyz/wildwood-podcast/who-are-you.mp3</link>
-            <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/who-are-you.mp3</guid>
-            <pubDate>Sun, 14 Sep 2025 19:11:16 -0400</pubDate>
-            <author>podcast@wildwoodag.church (Wildwood)</author>
-            <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/who-are-you.jpg"/>
-            <itunes:explicit>false</itunes:explicit>
-
-            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/who-are-you.mp3" length="21321262" type="audio/mpeg" />
-
-            <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
-        </item>
-        
-        <item>
-            <title>Christ in the Synoptic Gospels - Part 6 - Sept 2025</title>
-            <description>Bible study</description>
-            <link>https://media.wildwoodag.xyz/wildwood-podcast/christ-in-the-synoptic-gospels-part-6-sept-2025.mp3</link>
-            <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/christ-in-the-synoptic-gospels-part-6-sept-2025.mp3</guid>
-            <pubDate>Sun, 14 Sep 2025 19:05:34 -0400</pubDate>
-            <author>podcast@wildwoodag.church (Wildwood)</author>
-            <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/christ-in-the-synoptic-gospels-part-6-sept-2025.jpg"/>
-            <itunes:explicit>false</itunes:explicit>
-
-            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/christ-in-the-synoptic-gospels-part-6-sept-2025.mp3" length="24945177" type="audio/mpeg" />
 
             <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
         </item>
