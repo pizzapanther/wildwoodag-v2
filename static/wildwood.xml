@@ -7,8 +7,8 @@
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en-US</language>
         <generator>Podtube CLI</generator>
-        <pubDate>Mon, 15 Dec 2025 00:28:58 +0000</pubDate>
-        <lastBuildDate>Mon, 15 Dec 2025 00:28:58 +0000</lastBuildDate>
+        <pubDate>Mon, 22 Dec 2025 04:11:21 +0000</pubDate>
+        <lastBuildDate>Mon, 22 Dec 2025 04:11:21 +0000</lastBuildDate>
         <managingEditor>podcast@wildwoodag.church (Wildwood)</managingEditor>
         <webMaster>podcast@wildwoodag.church (Wildwood)</webMaster>
         <image>
@@ -37,6 +37,21 @@
 
         <itunes:image href="https://www.wildwoodag.church/icons/android-chrome-512x512.png"/>
 
+        
+        <item>
+            <title>Packages or Baggage</title>
+            <description>Practical lesson about holiday expectations</description>
+            <link>https://media.wildwoodag.xyz/wildwood-podcast/packages-or-baggage.mp3</link>
+            <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/packages-or-baggage.mp3</guid>
+            <pubDate>Mon, 22 Dec 2025 00:00:25 -0400</pubDate>
+            <author>podcast@wildwoodag.church (Wildwood)</author>
+            <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/packages-or-baggage.jpg"/>
+            <itunes:explicit>false</itunes:explicit>
+
+            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/packages-or-baggage.mp3" length="46083027" type="audio/mpeg" />
+
+            <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
+        </item>
         
         <item>
             <title>Romans Part 8 - Dec 2025</title>
@@ -394,21 +409,6 @@
             <itunes:explicit>false</itunes:explicit>
 
             <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/do-not-covet.mp3" length="12201184" type="audio/mpeg" />
-
-            <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
-        </item>
-        
-        <item>
-            <title>Christ in the Synoptic Gospels - Part 7 - Sept 2025</title>
-            <description>Bible study and course study</description>
-            <link>https://media.wildwoodag.xyz/wildwood-podcast/christ-in-the-synoptic-gospels-part-7-sept-2025.mp3</link>
-            <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/christ-in-the-synoptic-gospels-part-7-sept-2025.mp3</guid>
-            <pubDate>Sun, 21 Sep 2025 21:11:26 -0400</pubDate>
-            <author>podcast@wildwoodag.church (Wildwood)</author>
-            <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/christ-in-the-synoptic-gospels-part-7-sept-2025.jpg"/>
-            <itunes:explicit>false</itunes:explicit>
-
-            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/christ-in-the-synoptic-gospels-part-7-sept-2025.mp3" length="23457034" type="audio/mpeg" />
 
             <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
         </item>
