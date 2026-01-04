@@ -1,11 +1,12 @@
 ---
 template: post
 categories:
-  - Christmas
+  - Christian Living
 tags:
-  - Christmas
-  - wise men
-  - three kings
+  - Job
+  - Jesus
+  - design
+  - desire
 title: His Design and Desire
 draft: false
 date: 2026-01-04T00:00:00.000Z
