@@ -7,8 +7,8 @@
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en-US</language>
         <generator>Podtube CLI</generator>
-        <pubDate>Mon, 05 Jan 2026 02:02:30 +0000</pubDate>
-        <lastBuildDate>Mon, 05 Jan 2026 02:02:30 +0000</lastBuildDate>
+        <pubDate>Thu, 15 Jan 2026 03:10:56 +0000</pubDate>
+        <lastBuildDate>Thu, 15 Jan 2026 03:10:56 +0000</lastBuildDate>
         <managingEditor>podcast@wildwoodag.church (Wildwood)</managingEditor>
         <webMaster>podcast@wildwoodag.church (Wildwood)</webMaster>
         <image>
@@ -37,6 +37,51 @@
 
         <itunes:image href="https://www.wildwoodag.church/icons/android-chrome-512x512.png"/>
 
+        
+        <item>
+            <title>New Testament Survey - Part 1 - Jan 2026</title>
+            <description>Believer&#x27;s University</description>
+            <link>https://media.wildwoodag.xyz/wildwood-podcast/new-testament-survey-part-1-jan-2026.mp3</link>
+            <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/new-testament-survey-part-1-jan-2026.mp3</guid>
+            <pubDate>Wed, 14 Jan 2026 22:35:11 -0400</pubDate>
+            <author>podcast@wildwoodag.church (Wildwood)</author>
+            <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/new-testament-survey-part-1-jan-2026.jpg"/>
+            <itunes:explicit>false</itunes:explicit>
+
+            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/new-testament-survey-part-1-jan-2026.mp3" length="45074643" type="audio/mpeg" />
+
+            <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
+        </item>
+        
+        <item>
+            <title>Romans Part 9 - Jan 2026</title>
+            <description>Bible study on Romans</description>
+            <link>https://media.wildwoodag.xyz/wildwood-podcast/romans-part-9-jan-2026.mp3</link>
+            <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/romans-part-9-jan-2026.mp3</guid>
+            <pubDate>Wed, 14 Jan 2026 21:26:46 -0400</pubDate>
+            <author>podcast@wildwoodag.church (Wildwood)</author>
+            <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/romans-part-9-jan-2026.jpg"/>
+            <itunes:explicit>false</itunes:explicit>
+
+            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/romans-part-9-jan-2026.mp3" length="55522899" type="audio/mpeg" />
+
+            <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
+        </item>
+        
+        <item>
+            <title>Our Assignment is Spiritual Maturity - Jan 2026</title>
+            <description>Sunday sermon</description>
+            <link>https://media.wildwoodag.xyz/wildwood-podcast/our-assignment-is-spiritual-maturity-jan-2026.mp3</link>
+            <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/our-assignment-is-spiritual-maturity-jan-2026.mp3</guid>
+            <pubDate>Wed, 14 Jan 2026 21:39:31 -0400</pubDate>
+            <author>podcast@wildwoodag.church (Wildwood)</author>
+            <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/our-assignment-is-spiritual-maturity-jan-2026.jpg"/>
+            <itunes:explicit>false</itunes:explicit>
+
+            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/our-assignment-is-spiritual-maturity-jan-2026.mp3" length="33474387" type="audio/mpeg" />
+
+            <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
+        </item>
         
         <item>
             <title>Send Praise First</title>
@@ -364,51 +409,6 @@
             <itunes:explicit>false</itunes:explicit>
 
             <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/romans-part-7-oct-2025.mp3" length="22169093" type="audio/mpeg" />
-
-            <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
-        </item>
-        
-        <item>
-            <title>Know the Times - Oct 2025</title>
-            <description>Sunday sermon</description>
-            <link>https://media.wildwoodag.xyz/wildwood-podcast/know-the-times-oct-2025.mp3</link>
-            <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/know-the-times-oct-2025.mp3</guid>
-            <pubDate>Sun, 05 Oct 2025 20:09:24 -0400</pubDate>
-            <author>podcast@wildwoodag.church (Wildwood)</author>
-            <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/know-the-times-oct-2025.jpg"/>
-            <itunes:explicit>false</itunes:explicit>
-
-            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/know-the-times-oct-2025.mp3" length="15881315" type="audio/mpeg" />
-
-            <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
-        </item>
-        
-        <item>
-            <title>Christ in the Synoptic Gospels - Part 8 - Oct 2025</title>
-            <description>Course and Bible study</description>
-            <link>https://media.wildwoodag.xyz/wildwood-podcast/christ-in-the-synoptic-gospels-part-8-oct-2025.mp3</link>
-            <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/christ-in-the-synoptic-gospels-part-8-oct-2025.mp3</guid>
-            <pubDate>Sun, 05 Oct 2025 20:02:16 -0400</pubDate>
-            <author>podcast@wildwoodag.church (Wildwood)</author>
-            <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/christ-in-the-synoptic-gospels-part-8-oct-2025.jpg"/>
-            <itunes:explicit>false</itunes:explicit>
-
-            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/christ-in-the-synoptic-gospels-part-8-oct-2025.mp3" length="24225243" type="audio/mpeg" />
-
-            <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
-        </item>
-        
-        <item>
-            <title>A Call to Action - Sept 2025</title>
-            <description>Sermon</description>
-            <link>https://media.wildwoodag.xyz/wildwood-podcast/a-call-to-action-sept-2025.mp3</link>
-            <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/a-call-to-action-sept-2025.mp3</guid>
-            <pubDate>Sun, 28 Sep 2025 20:42:10 -0400</pubDate>
-            <author>podcast@wildwoodag.church (Wildwood)</author>
-            <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/a-call-to-action-sept-2025.jpg"/>
-            <itunes:explicit>false</itunes:explicit>
-
-            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/a-call-to-action-sept-2025.mp3" length="40449164" type="audio/mpeg" />
 
             <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
         </item>
