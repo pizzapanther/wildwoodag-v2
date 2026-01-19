@@ -12,7 +12,7 @@
         <managingEditor>jkautz@stxag.org (Jim Kautz)</managingEditor>
         <webMaster>jkautz@stxag.org (Jim Kautz)</webMaster>
         <image>
-            <url>https://www.wildwoodag.church/church-health/stmn.jpg</url>
+            <url>https://www.wildwoodag.church/stmn.jpg</url>
             <title>Let's Talk Church Health</title>
             <link>https://stxagchurchhealth.org/podcast</link>
         </image>
@@ -35,7 +35,7 @@
             <itunes:email>jkautz@stxag.org</itunes:email>
         </itunes:owner>
 
-        <itunes:image href="https://www.wildwoodag.church/church-health/stmn.jpg"/>
+        <itunes:image href="https://www.wildwoodag.church/stmn.jpg"/>
 
         
         <item>
