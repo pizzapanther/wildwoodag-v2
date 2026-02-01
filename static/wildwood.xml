@@ -7,8 +7,8 @@
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en-US</language>
         <generator>Podtube CLI</generator>
-        <pubDate>Mon, 19 Jan 2026 12:31:44 +0000</pubDate>
-        <lastBuildDate>Mon, 19 Jan 2026 12:31:44 +0000</lastBuildDate>
+        <pubDate>Sun, 01 Feb 2026 16:09:41 +0000</pubDate>
+        <lastBuildDate>Sun, 01 Feb 2026 16:09:41 +0000</lastBuildDate>
         <managingEditor>podcast@wildwoodag.church (Wildwood)</managingEditor>
         <webMaster>podcast@wildwoodag.church (Wildwood)</webMaster>
         <image>
@@ -37,6 +37,36 @@
 
         <itunes:image href="https://www.wildwoodag.church/icons/android-chrome-512x512.png"/>
 
+        
+        <item>
+            <title>The Plumb Line of God - Jan 2026</title>
+            <description>Bible study on God&#x27;s plumb line</description>
+            <link>https://media.wildwoodag.xyz/wildwood-podcast/the-plumb-line-of-god-jan-2026.mp3</link>
+            <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/the-plumb-line-of-god-jan-2026.mp3</guid>
+            <pubDate>Sun, 01 Feb 2026 11:34:48 -0400</pubDate>
+            <author>podcast@wildwoodag.church (Wildwood)</author>
+            <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/the-plumb-line-of-god-jan-2026.jpg"/>
+            <itunes:explicit>false</itunes:explicit>
+
+            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/the-plumb-line-of-god-jan-2026.mp3" length="50370771" type="audio/mpeg" />
+
+            <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
+        </item>
+        
+        <item>
+            <title>Romans Part 10 - Jan 2026</title>
+            <description>Bible study on Romans</description>
+            <link>https://media.wildwoodag.xyz/wildwood-podcast/romans-part-10-jan-2026.mp3</link>
+            <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/romans-part-10-jan-2026.mp3</guid>
+            <pubDate>Sun, 01 Feb 2026 11:25:04 -0400</pubDate>
+            <author>podcast@wildwoodag.church (Wildwood)</author>
+            <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/romans-part-10-jan-2026.jpg"/>
+            <itunes:explicit>false</itunes:explicit>
+
+            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/romans-part-10-jan-2026.mp3" length="51538515" type="audio/mpeg" />
+
+            <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
+        </item>
         
         <item>
             <title>In Your Light - Jan 2026</title>
@@ -379,36 +409,6 @@
             <itunes:explicit>false</itunes:explicit>
 
             <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/this-changes-everything-oct-2025.mp3" length="17009177" type="audio/mpeg" />
-
-            <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
-        </item>
-        
-        <item>
-            <title>Return to the Garden - Oct 2025</title>
-            <description>Wednesday night Bible study</description>
-            <link>https://media.wildwoodag.xyz/wildwood-podcast/return-to-the-garden-oct-2025.mp3</link>
-            <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/return-to-the-garden-oct-2025.mp3</guid>
-            <pubDate>Sun, 19 Oct 2025 22:31:52 -0400</pubDate>
-            <author>podcast@wildwoodag.church (Wildwood)</author>
-            <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/return-to-the-garden-oct-2025.jpg"/>
-            <itunes:explicit>false</itunes:explicit>
-
-            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/return-to-the-garden-oct-2025.mp3" length="27105191" type="audio/mpeg" />
-
-            <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
-        </item>
-        
-        <item>
-            <title>Mose&#x27;s Story Oct 2025</title>
-            <description>Sermon</description>
-            <link>https://media.wildwoodag.xyz/wildwood-podcast/mose-s-story-oct-2025.mp3</link>
-            <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/mose-s-story-oct-2025.mp3</guid>
-            <pubDate>Mon, 13 Oct 2025 16:45:20 -0400</pubDate>
-            <author>podcast@wildwoodag.church (Wildwood)</author>
-            <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/mose-s-story-oct-2025.jpg"/>
-            <itunes:explicit>false</itunes:explicit>
-
-            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/mose-s-story-oct-2025.mp3" length="18353125" type="audio/mpeg" />
 
             <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
         </item>
