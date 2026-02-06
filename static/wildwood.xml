@@ -7,8 +7,8 @@
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en-US</language>
         <generator>Podtube CLI</generator>
-        <pubDate>Sun, 01 Feb 2026 16:09:41 +0000</pubDate>
-        <lastBuildDate>Sun, 01 Feb 2026 16:09:41 +0000</lastBuildDate>
+        <pubDate>Fri, 06 Feb 2026 14:40:02 +0000</pubDate>
+        <lastBuildDate>Fri, 06 Feb 2026 14:40:02 +0000</lastBuildDate>
         <managingEditor>podcast@wildwoodag.church (Wildwood)</managingEditor>
         <webMaster>podcast@wildwoodag.church (Wildwood)</webMaster>
         <image>
@@ -37,6 +37,36 @@
 
         <itunes:image href="https://www.wildwoodag.church/icons/android-chrome-512x512.png"/>
 
+        
+        <item>
+            <title>Wildwood Assembly Live Stream</title>
+            <description>Service Streams:Sunday: 10:30 AMWednesday: 7:00 PM</description>
+            <link>https://media.wildwoodag.xyz/wildwood-podcast/wildwood-assembly-live-stream.mp3</link>
+            <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/wildwood-assembly-live-stream.mp3</guid>
+            <pubDate>Wed, 04 Feb 2026 21:00:30 -0400</pubDate>
+            <author>podcast@wildwoodag.church (Wildwood)</author>
+            <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/wildwood-assembly-live-stream.jpg"/>
+            <itunes:explicit>false</itunes:explicit>
+
+            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/wildwood-assembly-live-stream.mp3" length="121577811" type="audio/mpeg" />
+
+            <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
+        </item>
+        
+        <item>
+            <title>Original Relationship - Feb 2026</title>
+            <description>Sunday sermon</description>
+            <link>https://media.wildwoodag.xyz/wildwood-podcast/original-relationship-feb-2026.mp3</link>
+            <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/original-relationship-feb-2026.mp3</guid>
+            <pubDate>Wed, 04 Feb 2026 18:42:00 -0400</pubDate>
+            <author>podcast@wildwoodag.church (Wildwood)</author>
+            <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/original-relationship-feb-2026.jpg"/>
+            <itunes:explicit>false</itunes:explicit>
+
+            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/original-relationship-feb-2026.mp3" length="33874515" type="audio/mpeg" />
+
+            <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
+        </item>
         
         <item>
             <title>The Plumb Line of God - Jan 2026</title>
@@ -379,36 +409,6 @@
             <itunes:explicit>false</itunes:explicit>
 
             <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/trust-the-process-oct-25.mp3" length="19761230" type="audio/mpeg" />
-
-            <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
-        </item>
-        
-        <item>
-            <title>Trailblazers - Oct 25</title>
-            <description>Sunday Sermon</description>
-            <link>https://media.wildwoodag.xyz/wildwood-podcast/trailblazers-oct-25.mp3</link>
-            <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/trailblazers-oct-25.mp3</guid>
-            <pubDate>Tue, 28 Oct 2025 19:05:36 -0400</pubDate>
-            <author>podcast@wildwoodag.church (Wildwood)</author>
-            <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/trailblazers-oct-25.jpg"/>
-            <itunes:explicit>false</itunes:explicit>
-
-            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/trailblazers-oct-25.mp3" length="18065151" type="audio/mpeg" />
-
-            <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
-        </item>
-        
-        <item>
-            <title>This Changes Everything - Oct 2025</title>
-            <description>Sunday Sermon</description>
-            <link>https://media.wildwoodag.xyz/wildwood-podcast/this-changes-everything-oct-2025.mp3</link>
-            <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/this-changes-everything-oct-2025.mp3</guid>
-            <pubDate>Sun, 19 Oct 2025 22:45:46 -0400</pubDate>
-            <author>podcast@wildwoodag.church (Wildwood)</author>
-            <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/this-changes-everything-oct-2025.jpg"/>
-            <itunes:explicit>false</itunes:explicit>
-
-            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/this-changes-everything-oct-2025.mp3" length="17009177" type="audio/mpeg" />
 
             <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
         </item>
