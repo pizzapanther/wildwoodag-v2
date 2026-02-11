@@ -7,8 +7,8 @@
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en-US</language>
         <generator>Podtube CLI</generator>
-        <pubDate>Fri, 06 Feb 2026 14:40:02 +0000</pubDate>
-        <lastBuildDate>Fri, 06 Feb 2026 14:40:02 +0000</lastBuildDate>
+        <pubDate>Wed, 11 Feb 2026 18:35:54 +0000</pubDate>
+        <lastBuildDate>Wed, 11 Feb 2026 18:35:54 +0000</lastBuildDate>
         <managingEditor>podcast@wildwoodag.church (Wildwood)</managingEditor>
         <webMaster>podcast@wildwoodag.church (Wildwood)</webMaster>
         <image>
@@ -39,16 +39,31 @@
 
         
         <item>
-            <title>Wildwood Assembly Live Stream</title>
-            <description>Service Streams:Sunday: 10:30 AMWednesday: 7:00 PM</description>
-            <link>https://media.wildwoodag.xyz/wildwood-podcast/wildwood-assembly-live-stream.mp3</link>
-            <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/wildwood-assembly-live-stream.mp3</guid>
-            <pubDate>Wed, 04 Feb 2026 21:00:30 -0400</pubDate>
+            <title>New Testament Survey - Part 2 - Feb 2026</title>
+            <description>Bible study and Believer&#x27;s University course</description>
+            <link>https://media.wildwoodag.xyz/wildwood-podcast/new-testament-survey-part-2-feb-2026.mp3</link>
+            <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/new-testament-survey-part-2-feb-2026.mp3</guid>
+            <pubDate>Wed, 11 Feb 2026 09:33:48 -0400</pubDate>
             <author>podcast@wildwoodag.church (Wildwood)</author>
-            <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/wildwood-assembly-live-stream.jpg"/>
+            <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/new-testament-survey-part-2-feb-2026.jpg"/>
             <itunes:explicit>false</itunes:explicit>
 
-            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/wildwood-assembly-live-stream.mp3" length="121577811" type="audio/mpeg" />
+            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/new-testament-survey-part-2-feb-2026.mp3" length="37442259" type="audio/mpeg" />
+
+            <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
+        </item>
+        
+        <item>
+            <title>Faith to Run into Battle - Fab 2026</title>
+            <description>sermon on Faith</description>
+            <link>https://media.wildwoodag.xyz/wildwood-podcast/faith-to-run-into-battle-fab-2026.mp3</link>
+            <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/faith-to-run-into-battle-fab-2026.mp3</guid>
+            <pubDate>Wed, 11 Feb 2026 09:38:40 -0400</pubDate>
+            <author>podcast@wildwoodag.church (Wildwood)</author>
+            <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/faith-to-run-into-battle-fab-2026.jpg"/>
+            <itunes:explicit>false</itunes:explicit>
+
+            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/faith-to-run-into-battle-fab-2026.mp3" length="41250771" type="audio/mpeg" />
 
             <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
         </item>
@@ -394,21 +409,6 @@
             <itunes:explicit>false</itunes:explicit>
 
             <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/law-of-kindness-nov-2025.mp3" length="13073256" type="audio/mpeg" />
-
-            <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
-        </item>
-        
-        <item>
-            <title>Trust the Process - Oct 25</title>
-            <description>Bible study</description>
-            <link>https://media.wildwoodag.xyz/wildwood-podcast/trust-the-process-oct-25.mp3</link>
-            <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/trust-the-process-oct-25.mp3</guid>
-            <pubDate>Tue, 28 Oct 2025 19:00:18 -0400</pubDate>
-            <author>podcast@wildwoodag.church (Wildwood)</author>
-            <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/trust-the-process-oct-25.jpg"/>
-            <itunes:explicit>false</itunes:explicit>
-
-            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/trust-the-process-oct-25.mp3" length="19761230" type="audio/mpeg" />
 
             <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
         </item>
