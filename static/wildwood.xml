@@ -7,8 +7,8 @@
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en-US</language>
         <generator>Podtube CLI</generator>
-        <pubDate>Wed, 11 Feb 2026 18:35:54 +0000</pubDate>
-        <lastBuildDate>Wed, 11 Feb 2026 18:35:54 +0000</lastBuildDate>
+        <pubDate>Tue, 24 Feb 2026 00:59:35 +0000</pubDate>
+        <lastBuildDate>Tue, 24 Feb 2026 00:59:35 +0000</lastBuildDate>
         <managingEditor>podcast@wildwoodag.church (Wildwood)</managingEditor>
         <webMaster>podcast@wildwoodag.church (Wildwood)</webMaster>
         <image>
@@ -37,6 +37,66 @@
 
         <itunes:image href="https://www.wildwoodag.church/icons/android-chrome-512x512.png"/>
 
+        
+        <item>
+            <title>Sanctity of Life Service 2026</title>
+            <description>Guest speaker Susan from https://www.sharecentertx.org/</description>
+            <link>https://media.wildwoodag.xyz/wildwood-podcast/sanctity-of-life-service-2026.mp3</link>
+            <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/sanctity-of-life-service-2026.mp3</guid>
+            <pubDate>Mon, 23 Feb 2026 20:05:48 -0400</pubDate>
+            <author>podcast@wildwoodag.church (Wildwood)</author>
+            <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/sanctity-of-life-service-2026.jpg"/>
+            <itunes:explicit>false</itunes:explicit>
+
+            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/sanctity-of-life-service-2026.mp3" length="63987027" type="audio/mpeg" />
+
+            <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
+        </item>
+        
+        <item>
+            <title>Walking in Faith - Feb 2026</title>
+            <description>Women&#x27;s Ministry Day</description>
+            <link>https://media.wildwoodag.xyz/wildwood-podcast/walking-in-faith-feb-2026.mp3</link>
+            <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/walking-in-faith-feb-2026.mp3</guid>
+            <pubDate>Mon, 23 Feb 2026 20:16:52 -0400</pubDate>
+            <author>podcast@wildwoodag.church (Wildwood)</author>
+            <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/walking-in-faith-feb-2026.jpg"/>
+            <itunes:explicit>false</itunes:explicit>
+
+            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/walking-in-faith-feb-2026.mp3" length="47458515" type="audio/mpeg" />
+
+            <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
+        </item>
+        
+        <item>
+            <title>Romans Part 11 - Feb 2026</title>
+            <description>Roman&#x27;s Bible Study</description>
+            <link>https://media.wildwoodag.xyz/wildwood-podcast/romans-part-11-feb-2026.mp3</link>
+            <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/romans-part-11-feb-2026.mp3</guid>
+            <pubDate>Mon, 23 Feb 2026 20:11:07 -0400</pubDate>
+            <author>podcast@wildwoodag.church (Wildwood)</author>
+            <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/romans-part-11-feb-2026.jpg"/>
+            <itunes:explicit>false</itunes:explicit>
+
+            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/romans-part-11-feb-2026.mp3" length="44610771" type="audio/mpeg" />
+
+            <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
+        </item>
+        
+        <item>
+            <title>New Testament Survey - Part 3 - Feb 2026</title>
+            <description>Believer&#x27;s University</description>
+            <link>https://media.wildwoodag.xyz/wildwood-podcast/new-testament-survey-part-3-feb-2026.mp3</link>
+            <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/new-testament-survey-part-3-feb-2026.mp3</guid>
+            <pubDate>Mon, 23 Feb 2026 20:03:11 -0400</pubDate>
+            <author>podcast@wildwoodag.church (Wildwood)</author>
+            <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/new-testament-survey-part-3-feb-2026.jpg"/>
+            <itunes:explicit>false</itunes:explicit>
+
+            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/new-testament-survey-part-3-feb-2026.mp3" length="51170643" type="audio/mpeg" />
+
+            <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
+        </item>
         
         <item>
             <title>New Testament Survey - Part 2 - Feb 2026</title>
@@ -349,66 +409,6 @@
             <itunes:explicit>false</itunes:explicit>
 
             <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/christ-in-the-synoptic-gospels-part-10-nov-2025.mp3" length="22977008" type="audio/mpeg" />
-
-            <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
-        </item>
-        
-        <item>
-            <title>Finishing Well - Nov 25</title>
-            <description>Sermon for Veteran&#x27;s Day</description>
-            <link>https://media.wildwoodag.xyz/wildwood-podcast/finishing-well-nov-25.mp3</link>
-            <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/finishing-well-nov-25.mp3</guid>
-            <pubDate>Mon, 10 Nov 2025 22:46:04 -0400</pubDate>
-            <author>podcast@wildwoodag.church (Wildwood)</author>
-            <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/finishing-well-nov-25.jpg"/>
-            <itunes:explicit>false</itunes:explicit>
-
-            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/finishing-well-nov-25.mp3" length="18985080" type="audio/mpeg" />
-
-            <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
-        </item>
-        
-        <item>
-            <title>Christ in the Synoptic Gospels - Part 9 - Nov 2025</title>
-            <description>Believer&#x27;s University</description>
-            <link>https://media.wildwoodag.xyz/wildwood-podcast/christ-in-the-synoptic-gospels-part-9-nov-2025.mp3</link>
-            <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/christ-in-the-synoptic-gospels-part-9-nov-2025.mp3</guid>
-            <pubDate>Mon, 10 Nov 2025 22:36:45 -0400</pubDate>
-            <author>podcast@wildwoodag.church (Wildwood)</author>
-            <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/christ-in-the-synoptic-gospels-part-9-nov-2025.jpg"/>
-            <itunes:explicit>false</itunes:explicit>
-
-            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/christ-in-the-synoptic-gospels-part-9-nov-2025.mp3" length="18288969" type="audio/mpeg" />
-
-            <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
-        </item>
-        
-        <item>
-            <title>Theology of Suffering Part 4 - Oct 2025</title>
-            <description>Bible study</description>
-            <link>https://media.wildwoodag.xyz/wildwood-podcast/theology-of-suffering-part-4-oct-2025.mp3</link>
-            <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/theology-of-suffering-part-4-oct-2025.mp3</guid>
-            <pubDate>Sun, 02 Nov 2025 21:07:21 -0400</pubDate>
-            <author>podcast@wildwoodag.church (Wildwood)</author>
-            <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/theology-of-suffering-part-4-oct-2025.jpg"/>
-            <itunes:explicit>false</itunes:explicit>
-
-            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/theology-of-suffering-part-4-oct-2025.mp3" length="28721021" type="audio/mpeg" />
-
-            <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
-        </item>
-        
-        <item>
-            <title>Law of Kindness - Nov 2025</title>
-            <description>Sermon</description>
-            <link>https://media.wildwoodag.xyz/wildwood-podcast/law-of-kindness-nov-2025.mp3</link>
-            <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/law-of-kindness-nov-2025.mp3</guid>
-            <pubDate>Sun, 02 Nov 2025 21:12:31 -0400</pubDate>
-            <author>podcast@wildwoodag.church (Wildwood)</author>
-            <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/law-of-kindness-nov-2025.jpg"/>
-            <itunes:explicit>false</itunes:explicit>
-
-            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/law-of-kindness-nov-2025.mp3" length="13073256" type="audio/mpeg" />
 
             <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
         </item>
