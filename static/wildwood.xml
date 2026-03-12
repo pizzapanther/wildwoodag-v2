@@ -7,8 +7,8 @@
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en-US</language>
         <generator>Podtube CLI</generator>
-        <pubDate>Mon, 09 Mar 2026 01:59:44 +0000</pubDate>
-        <lastBuildDate>Mon, 09 Mar 2026 01:59:44 +0000</lastBuildDate>
+        <pubDate>Thu, 12 Mar 2026 11:30:38 +0000</pubDate>
+        <lastBuildDate>Thu, 12 Mar 2026 11:30:38 +0000</lastBuildDate>
         <managingEditor>podcast@wildwoodag.church (Wildwood)</managingEditor>
         <webMaster>podcast@wildwoodag.church (Wildwood)</webMaster>
         <image>
@@ -37,6 +37,21 @@
 
         <itunes:image href="https://www.wildwoodag.church/icons/android-chrome-512x512.png"/>
 
+        
+        <item>
+            <title>New Testament Survey - Part 4 - Mar 2026</title>
+            <description>Believer&#x27;s University</description>
+            <link>https://media.wildwoodag.xyz/wildwood-podcast/new-testament-survey-part-4-mar-2026.mp3</link>
+            <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/new-testament-survey-part-4-mar-2026.mp3</guid>
+            <pubDate>Wed, 11 Mar 2026 21:21:40 -0400</pubDate>
+            <author>podcast@wildwoodag.church (Wildwood)</author>
+            <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/new-testament-survey-part-4-mar-2026.jpg"/>
+            <itunes:explicit>false</itunes:explicit>
+
+            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/new-testament-survey-part-4-mar-2026.mp3" length="41186643" type="audio/mpeg" />
+
+            <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
+        </item>
         
         <item>
             <title>Romans Part 12 - Feb 2026</title>
@@ -394,21 +409,6 @@
             <itunes:explicit>false</itunes:explicit>
 
             <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/christ-in-the-synoptic-gospels-part-11-dec-2025.mp3" length="45554643" type="audio/mpeg" />
-
-            <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
-        </item>
-        
-        <item>
-            <title>The Art of Gratefulness - Nov 2025</title>
-            <description>Thanksgiving sermon</description>
-            <link>https://media.wildwoodag.xyz/wildwood-podcast/the-art-of-gratefulness-nov-2025.mp3</link>
-            <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/the-art-of-gratefulness-nov-2025.mp3</guid>
-            <pubDate>Sun, 30 Nov 2025 20:24:27 -0400</pubDate>
-            <author>podcast@wildwoodag.church (Wildwood)</author>
-            <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/the-art-of-gratefulness-nov-2025.jpg"/>
-            <itunes:explicit>false</itunes:explicit>
-
-            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/the-art-of-gratefulness-nov-2025.mp3" length="24834387" type="audio/mpeg" />
 
             <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
         </item>
