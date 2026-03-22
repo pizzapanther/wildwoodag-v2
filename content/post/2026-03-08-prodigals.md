@@ -9,7 +9,7 @@ tags:
   - home
 title: Bring Home the Prodigals
 draft: false
-date: 2026-03-22T00:00:00.000Z
+date: 2026-03-08T00:00:00.000Z
 image: https://www.wildwoodag.church/pimg/prodigal.jpg
 ---
 Then He said: "A certain man had two sons. 12 And the younger of them said to his father, ‘Father, give me the portion of goods that falls to me.’ So he divided to them his livelihood. 13 And not many days after, the younger son gathered all together, journeyed to a far country, and there wasted his possessions with prodigal living." Luke 15:11-13
