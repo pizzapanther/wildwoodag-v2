@@ -7,8 +7,8 @@
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en-US</language>
         <generator>Podtube CLI</generator>
-        <pubDate>Fri, 27 Mar 2026 00:30:36 +0000</pubDate>
-        <lastBuildDate>Fri, 27 Mar 2026 00:30:36 +0000</lastBuildDate>
+        <pubDate>Mon, 30 Mar 2026 22:59:58 +0000</pubDate>
+        <lastBuildDate>Mon, 30 Mar 2026 22:59:58 +0000</lastBuildDate>
         <managingEditor>podcast@wildwoodag.church (Wildwood)</managingEditor>
         <webMaster>podcast@wildwoodag.church (Wildwood)</webMaster>
         <image>
@@ -37,6 +37,21 @@
 
         <itunes:image href="https://www.wildwoodag.church/icons/android-chrome-512x512.png"/>
 
+        
+        <item>
+            <title>Building Altars to God - Part 3 - Mar 2026</title>
+            <description>Sermon series on Altars to God</description>
+            <link>https://media.wildwoodag.xyz/wildwood-podcast/building-altars-to-god-part-3-mar-2026.mp3</link>
+            <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/building-altars-to-god-part-3-mar-2026.mp3</guid>
+            <pubDate>Mon, 30 Mar 2026 18:19:11 -0400</pubDate>
+            <author>podcast@wildwoodag.church (Wildwood)</author>
+            <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/building-altars-to-god-part-3-mar-2026.jpg"/>
+            <itunes:explicit>false</itunes:explicit>
+
+            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/building-altars-to-god-part-3-mar-2026.mp3" length="31986388" type="audio/mpeg" />
+
+            <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
+        </item>
         
         <item>
             <title>A Mindset By Faith</title>
@@ -394,21 +409,6 @@
             <itunes:explicit>false</itunes:explicit>
 
             <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/community-dec-2025.mp3" length="49794771" type="audio/mpeg" />
-
-            <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
-        </item>
-        
-        <item>
-            <title>Packages or Baggage</title>
-            <description>Practical lesson about holiday expectations</description>
-            <link>https://media.wildwoodag.xyz/wildwood-podcast/packages-or-baggage.mp3</link>
-            <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/packages-or-baggage.mp3</guid>
-            <pubDate>Mon, 22 Dec 2025 00:00:25 -0400</pubDate>
-            <author>podcast@wildwoodag.church (Wildwood)</author>
-            <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/packages-or-baggage.jpg"/>
-            <itunes:explicit>false</itunes:explicit>
-
-            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/packages-or-baggage.mp3" length="46083027" type="audio/mpeg" />
 
             <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
         </item>
