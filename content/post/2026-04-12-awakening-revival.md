@@ -9,7 +9,7 @@ tags:
   - Holy Spirit
 title: Awakening and Revival
 draft: false
-date: 2026-03-08T00:00:00.000Z
+date: 2026-04-12T00:00:00.000Z
 image: https://www.wildwoodag.church/pimg/awake.jpg
 ---
 Behold, I send the Promise of My Father upon you; but tarry in the city of Jerusalem until you are endued with power from on high. Luke 24:49
