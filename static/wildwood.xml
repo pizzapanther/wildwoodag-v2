@@ -7,8 +7,8 @@
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en-US</language>
         <generator>Podtube CLI</generator>
-        <pubDate>Sat, 11 Apr 2026 01:10:25 +0000</pubDate>
-        <lastBuildDate>Sat, 11 Apr 2026 01:10:25 +0000</lastBuildDate>
+        <pubDate>Sun, 12 Apr 2026 23:08:21 +0000</pubDate>
+        <lastBuildDate>Sun, 12 Apr 2026 23:08:21 +0000</lastBuildDate>
         <managingEditor>podcast@wildwoodag.church (Wildwood)</managingEditor>
         <webMaster>podcast@wildwoodag.church (Wildwood)</webMaster>
         <image>
@@ -37,6 +37,21 @@
 
         <itunes:image href="https://www.wildwoodag.church/icons/android-chrome-512x512.png"/>
 
+        
+        <item>
+            <title>Building Altars to God - Part 4 - Apr 2026</title>
+            <description>Series Building Altars to God</description>
+            <link>https://media.wildwoodag.xyz/wildwood-podcast/building-altars-to-god-part-4-apr-2026.mp3</link>
+            <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/building-altars-to-god-part-4-apr-2026.mp3</guid>
+            <pubDate>Sun, 12 Apr 2026 18:56:21 -0400</pubDate>
+            <author>podcast@wildwoodag.church (Wildwood)</author>
+            <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/building-altars-to-god-part-4-apr-2026.jpg"/>
+            <itunes:explicit>false</itunes:explicit>
+
+            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/building-altars-to-god-part-4-apr-2026.mp3" length="41202388" type="audio/mpeg" />
+
+            <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
+        </item>
         
         <item>
             <title>New Testament Survey - Part 6 - Apr 2026</title>
@@ -394,21 +409,6 @@
             <itunes:explicit>false</itunes:explicit>
 
             <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/romans-part-9-jan-2026.mp3" length="55522899" type="audio/mpeg" />
-
-            <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
-        </item>
-        
-        <item>
-            <title>Our Assignment is Spiritual Maturity - Jan 2026</title>
-            <description>Sunday sermon</description>
-            <link>https://media.wildwoodag.xyz/wildwood-podcast/our-assignment-is-spiritual-maturity-jan-2026.mp3</link>
-            <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/our-assignment-is-spiritual-maturity-jan-2026.mp3</guid>
-            <pubDate>Wed, 14 Jan 2026 21:39:31 -0400</pubDate>
-            <author>podcast@wildwoodag.church (Wildwood)</author>
-            <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/our-assignment-is-spiritual-maturity-jan-2026.jpg"/>
-            <itunes:explicit>false</itunes:explicit>
-
-            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/our-assignment-is-spiritual-maturity-jan-2026.mp3" length="33474387" type="audio/mpeg" />
 
             <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
         </item>
