@@ -7,8 +7,8 @@
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en-US</language>
         <generator>Podtube CLI</generator>
-        <pubDate>Mon, 20 Apr 2026 23:47:28 +0000</pubDate>
-        <lastBuildDate>Mon, 20 Apr 2026 23:47:28 +0000</lastBuildDate>
+        <pubDate>Mon, 27 Apr 2026 15:43:28 +0000</pubDate>
+        <lastBuildDate>Mon, 27 Apr 2026 15:43:28 +0000</lastBuildDate>
         <managingEditor>podcast@wildwoodag.church (Wildwood)</managingEditor>
         <webMaster>podcast@wildwoodag.church (Wildwood)</webMaster>
         <image>
@@ -37,6 +37,36 @@
 
         <itunes:image href="https://www.wildwoodag.church/icons/android-chrome-512x512.png"/>
 
+        
+        <item>
+            <title>History and Expansion of the Faith - Apr 2026</title>
+            <description>Sunday Sermon</description>
+            <link>https://media.wildwoodag.xyz/wildwood-podcast/history-and-expansion-of-the-faith-apr-2026.mp3</link>
+            <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/history-and-expansion-of-the-faith-apr-2026.mp3</guid>
+            <pubDate>Mon, 27 Apr 2026 10:08:05 -0400</pubDate>
+            <author>podcast@wildwoodag.church (Wildwood)</author>
+            <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/history-and-expansion-of-the-faith-apr-2026.jpg"/>
+            <itunes:explicit>false</itunes:explicit>
+
+            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/history-and-expansion-of-the-faith-apr-2026.mp3" length="50754772" type="audio/mpeg" />
+
+            <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
+        </item>
+        
+        <item>
+            <title>New Testament Survey - Part 7 - Apr 2026</title>
+            <description>Believer&#x27;s University</description>
+            <link>https://media.wildwoodag.xyz/wildwood-podcast/new-testament-survey-part-7-apr-2026.mp3</link>
+            <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/new-testament-survey-part-7-apr-2026.mp3</guid>
+            <pubDate>Mon, 27 Apr 2026 10:01:13 -0400</pubDate>
+            <author>podcast@wildwoodag.church (Wildwood)</author>
+            <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/new-testament-survey-part-7-apr-2026.jpg"/>
+            <itunes:explicit>false</itunes:explicit>
+
+            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/new-testament-survey-part-7-apr-2026.mp3" length="32642644" type="audio/mpeg" />
+
+            <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
+        </item>
         
         <item>
             <title>Mercy - Apr 2026</title>
@@ -379,36 +409,6 @@
             <itunes:explicit>false</itunes:explicit>
 
             <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/the-plumb-line-of-god-jan-2026.mp3" length="50370771" type="audio/mpeg" />
-
-            <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
-        </item>
-        
-        <item>
-            <title>Romans Part 10 - Jan 2026</title>
-            <description>Bible study on Romans</description>
-            <link>https://media.wildwoodag.xyz/wildwood-podcast/romans-part-10-jan-2026.mp3</link>
-            <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/romans-part-10-jan-2026.mp3</guid>
-            <pubDate>Sun, 01 Feb 2026 11:25:04 -0400</pubDate>
-            <author>podcast@wildwoodag.church (Wildwood)</author>
-            <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/romans-part-10-jan-2026.jpg"/>
-            <itunes:explicit>false</itunes:explicit>
-
-            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/romans-part-10-jan-2026.mp3" length="51538515" type="audio/mpeg" />
-
-            <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
-        </item>
-        
-        <item>
-            <title>In Your Light - Jan 2026</title>
-            <description>Sunday Sermon</description>
-            <link>https://media.wildwoodag.xyz/wildwood-podcast/in-your-light-jan-2026.mp3</link>
-            <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/in-your-light-jan-2026.mp3</guid>
-            <pubDate>Mon, 19 Jan 2026 08:14:44 -0400</pubDate>
-            <author>podcast@wildwoodag.church (Wildwood)</author>
-            <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/in-your-light-jan-2026.jpg"/>
-            <itunes:explicit>false</itunes:explicit>
-
-            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/in-your-light-jan-2026.mp3" length="23810259" type="audio/mpeg" />
 
             <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
         </item>
