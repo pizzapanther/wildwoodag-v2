@@ -6,7 +6,7 @@ tags:
   - persecution
   - church
   - saints
-title: Lesson of Love
+title: Persecution
 draft: false
 date: 2026-05-03T00:00:00.000Z
 image: https://www.wildwoodag.church/pimg/persecution.jpg
