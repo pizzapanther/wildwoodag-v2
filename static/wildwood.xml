@@ -7,8 +7,8 @@
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en-US</language>
         <generator>Podtube CLI</generator>
-        <pubDate>Mon, 27 Apr 2026 15:43:28 +0000</pubDate>
-        <lastBuildDate>Mon, 27 Apr 2026 15:43:28 +0000</lastBuildDate>
+        <pubDate>Tue, 05 May 2026 00:12:35 +0000</pubDate>
+        <lastBuildDate>Tue, 05 May 2026 00:12:35 +0000</lastBuildDate>
         <managingEditor>podcast@wildwoodag.church (Wildwood)</managingEditor>
         <webMaster>podcast@wildwoodag.church (Wildwood)</webMaster>
         <image>
@@ -37,6 +37,36 @@
 
         <itunes:image href="https://www.wildwoodag.church/icons/android-chrome-512x512.png"/>
 
+        
+        <item>
+            <title>Culture Wars</title>
+            <description>Bible study</description>
+            <link>https://media.wildwoodag.xyz/wildwood-podcast/culture-wars.mp3</link>
+            <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/culture-wars.mp3</guid>
+            <pubDate>Mon, 04 May 2026 19:49:20 -0400</pubDate>
+            <author>podcast@wildwoodag.church (Wildwood)</author>
+            <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/culture-wars.jpg"/>
+            <itunes:explicit>false</itunes:explicit>
+
+            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/culture-wars.mp3" length="52126420" type="audio/mpeg" />
+
+            <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
+        </item>
+        
+        <item>
+            <title>Children of the Dust - May 2026</title>
+            <description>sermon for Sunday May 3rd</description>
+            <link>https://media.wildwoodag.xyz/wildwood-podcast/children-of-the-dust-may-2026.mp3</link>
+            <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/children-of-the-dust-may-2026.mp3</guid>
+            <pubDate>Sun, 03 May 2026 19:34:16 -0400</pubDate>
+            <author>podcast@wildwoodag.church (Wildwood)</author>
+            <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/children-of-the-dust-may-2026.jpg"/>
+            <itunes:explicit>false</itunes:explicit>
+
+            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/children-of-the-dust-may-2026.mp3" length="32674516" type="audio/mpeg" />
+
+            <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
+        </item>
         
         <item>
             <title>History and Expansion of the Faith - Apr 2026</title>
@@ -379,36 +409,6 @@
             <itunes:explicit>false</itunes:explicit>
 
             <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/faith-to-run-into-battle-fab-2026.mp3" length="41250771" type="audio/mpeg" />
-
-            <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
-        </item>
-        
-        <item>
-            <title>Original Relationship - Feb 2026</title>
-            <description>Sunday sermon</description>
-            <link>https://media.wildwoodag.xyz/wildwood-podcast/original-relationship-feb-2026.mp3</link>
-            <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/original-relationship-feb-2026.mp3</guid>
-            <pubDate>Wed, 04 Feb 2026 18:42:00 -0400</pubDate>
-            <author>podcast@wildwoodag.church (Wildwood)</author>
-            <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/original-relationship-feb-2026.jpg"/>
-            <itunes:explicit>false</itunes:explicit>
-
-            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/original-relationship-feb-2026.mp3" length="33874515" type="audio/mpeg" />
-
-            <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
-        </item>
-        
-        <item>
-            <title>The Plumb Line of God - Jan 2026</title>
-            <description>Bible study on God&#x27;s plumb line</description>
-            <link>https://media.wildwoodag.xyz/wildwood-podcast/the-plumb-line-of-god-jan-2026.mp3</link>
-            <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/the-plumb-line-of-god-jan-2026.mp3</guid>
-            <pubDate>Sun, 01 Feb 2026 11:34:48 -0400</pubDate>
-            <author>podcast@wildwoodag.church (Wildwood)</author>
-            <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/the-plumb-line-of-god-jan-2026.jpg"/>
-            <itunes:explicit>false</itunes:explicit>
-
-            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/the-plumb-line-of-god-jan-2026.mp3" length="50370771" type="audio/mpeg" />
 
             <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
         </item>
