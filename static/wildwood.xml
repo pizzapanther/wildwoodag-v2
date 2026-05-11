@@ -7,8 +7,8 @@
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en-US</language>
         <generator>Podtube CLI</generator>
-        <pubDate>Thu, 07 May 2026 10:46:39 +0000</pubDate>
-        <lastBuildDate>Thu, 07 May 2026 10:46:39 +0000</lastBuildDate>
+        <pubDate>Mon, 11 May 2026 18:34:04 +0000</pubDate>
+        <lastBuildDate>Mon, 11 May 2026 18:34:04 +0000</lastBuildDate>
         <managingEditor>podcast@wildwoodag.church (Wildwood)</managingEditor>
         <webMaster>podcast@wildwoodag.church (Wildwood)</webMaster>
         <image>
@@ -37,6 +37,21 @@
 
         <itunes:image href="https://www.wildwoodag.church/icons/android-chrome-512x512.png"/>
 
+        
+        <item>
+            <title>Mother&#x27;s Day - May 2026</title>
+            <description>Sermon for Mother&#x27;s Day</description>
+            <link>https://media.wildwoodag.xyz/wildwood-podcast/mother-s-day-may-2026.mp3</link>
+            <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/mother-s-day-may-2026.mp3</guid>
+            <pubDate>Mon, 11 May 2026 12:27:57 -0400</pubDate>
+            <author>podcast@wildwoodag.church (Wildwood)</author>
+            <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/mother-s-day-may-2026.jpg"/>
+            <itunes:explicit>false</itunes:explicit>
+
+            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/mother-s-day-may-2026.mp3" length="55874644" type="audio/mpeg" />
+
+            <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
+        </item>
         
         <item>
             <title>The Road Not Taken - May 2026</title>
@@ -394,21 +409,6 @@
             <itunes:explicit>false</itunes:explicit>
 
             <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/new-testament-survey-part-3-feb-2026.mp3" length="51170643" type="audio/mpeg" />
-
-            <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
-        </item>
-        
-        <item>
-            <title>New Testament Survey - Part 2 - Feb 2026</title>
-            <description>Bible study and Believer&#x27;s University course</description>
-            <link>https://media.wildwoodag.xyz/wildwood-podcast/new-testament-survey-part-2-feb-2026.mp3</link>
-            <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/new-testament-survey-part-2-feb-2026.mp3</guid>
-            <pubDate>Wed, 11 Feb 2026 09:33:48 -0400</pubDate>
-            <author>podcast@wildwoodag.church (Wildwood)</author>
-            <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/new-testament-survey-part-2-feb-2026.jpg"/>
-            <itunes:explicit>false</itunes:explicit>
-
-            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/new-testament-survey-part-2-feb-2026.mp3" length="37442259" type="audio/mpeg" />
 
             <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
         </item>
