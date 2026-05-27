@@ -7,8 +7,8 @@
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en-US</language>
         <generator>Podtube CLI</generator>
-        <pubDate>Thu, 21 May 2026 11:42:37 +0000</pubDate>
-        <lastBuildDate>Thu, 21 May 2026 11:42:37 +0000</lastBuildDate>
+        <pubDate>Wed, 27 May 2026 13:10:12 +0000</pubDate>
+        <lastBuildDate>Wed, 27 May 2026 13:10:12 +0000</lastBuildDate>
         <managingEditor>podcast@wildwoodag.church (Wildwood)</managingEditor>
         <webMaster>podcast@wildwoodag.church (Wildwood)</webMaster>
         <image>
@@ -37,6 +37,21 @@
 
         <itunes:image href="https://www.wildwoodag.church/icons/android-chrome-512x512.png"/>
 
+        
+        <item>
+            <title>Faith vs Fear - May 2026</title>
+            <description>Sermon</description>
+            <link>https://media.wildwoodag.xyz/wildwood-podcast/faith-vs-fear-may-2026.mp3</link>
+            <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/faith-vs-fear-may-2026.mp3</guid>
+            <pubDate>Tue, 26 May 2026 22:42:19 -0400</pubDate>
+            <author>podcast@wildwoodag.church (Wildwood)</author>
+            <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/faith-vs-fear-may-2026.jpg"/>
+            <itunes:explicit>false</itunes:explicit>
+
+            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/faith-vs-fear-may-2026.mp3" length="33234004" type="audio/mpeg" />
+
+            <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
+        </item>
         
         <item>
             <title>New Testament Survey - Part 8 - May 2026</title>
@@ -394,21 +409,6 @@
             <itunes:explicit>false</itunes:explicit>
 
             <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/the-intersection-of-sorrow-and-joy-feb-2026.mp3" length="48322899" type="audio/mpeg" />
-
-            <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
-        </item>
-        
-        <item>
-            <title>Sanctity of Life Service 2026</title>
-            <description>Guest speaker Susan from https://www.sharecentertx.org/</description>
-            <link>https://media.wildwoodag.xyz/wildwood-podcast/sanctity-of-life-service-2026.mp3</link>
-            <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/sanctity-of-life-service-2026.mp3</guid>
-            <pubDate>Mon, 23 Feb 2026 20:05:48 -0400</pubDate>
-            <author>podcast@wildwoodag.church (Wildwood)</author>
-            <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/sanctity-of-life-service-2026.jpg"/>
-            <itunes:explicit>false</itunes:explicit>
-
-            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/sanctity-of-life-service-2026.mp3" length="63987027" type="audio/mpeg" />
 
             <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
         </item>
