@@ -7,8 +7,8 @@
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en-US</language>
         <generator>Podtube CLI</generator>
-        <pubDate>Wed, 27 May 2026 13:10:12 +0000</pubDate>
-        <lastBuildDate>Wed, 27 May 2026 13:10:12 +0000</lastBuildDate>
+        <pubDate>Thu, 28 May 2026 23:32:23 +0000</pubDate>
+        <lastBuildDate>Thu, 28 May 2026 23:32:23 +0000</lastBuildDate>
         <managingEditor>podcast@wildwoodag.church (Wildwood)</managingEditor>
         <webMaster>podcast@wildwoodag.church (Wildwood)</webMaster>
         <image>
@@ -37,6 +37,21 @@
 
         <itunes:image href="https://www.wildwoodag.church/icons/android-chrome-512x512.png"/>
 
+        
+        <item>
+            <title>That Which is Above - May 2026</title>
+            <description>Bible study on looking up to God</description>
+            <link>https://media.wildwoodag.xyz/wildwood-podcast/that-which-is-above-may-2026.mp3</link>
+            <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/that-which-is-above-may-2026.mp3</guid>
+            <pubDate>Thu, 28 May 2026 19:11:04 -0400</pubDate>
+            <author>podcast@wildwoodag.church (Wildwood)</author>
+            <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/that-which-is-above-may-2026.jpg"/>
+            <itunes:explicit>false</itunes:explicit>
+
+            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/that-which-is-above-may-2026.mp3" length="45122260" type="audio/mpeg" />
+
+            <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
+        </item>
         
         <item>
             <title>Faith vs Fear - May 2026</title>
@@ -394,21 +409,6 @@
             <itunes:explicit>false</itunes:explicit>
 
             <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/freedom-sunday.mp3" length="36642771" type="audio/mpeg" />
-
-            <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
-        </item>
-        
-        <item>
-            <title>The Intersection of Sorrow and Joy - Feb 2026</title>
-            <description>Bible study by Dr Jack</description>
-            <link>https://media.wildwoodag.xyz/wildwood-podcast/the-intersection-of-sorrow-and-joy-feb-2026.mp3</link>
-            <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/the-intersection-of-sorrow-and-joy-feb-2026.mp3</guid>
-            <pubDate>Wed, 04 Mar 2026 18:59:59 -0400</pubDate>
-            <author>podcast@wildwoodag.church (Wildwood)</author>
-            <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/the-intersection-of-sorrow-and-joy-feb-2026.jpg"/>
-            <itunes:explicit>false</itunes:explicit>
-
-            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/the-intersection-of-sorrow-and-joy-feb-2026.mp3" length="48322899" type="audio/mpeg" />
 
             <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
         </item>
