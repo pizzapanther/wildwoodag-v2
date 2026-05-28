@@ -37,7 +37,22 @@
 
         <itunes:image href="https://www.wildwoodag.church/stmn.jpg"/>
 
-        
+        <item>
+            <title>Unmet Expectations</title>
+            <description>A topical discussion on how to handle when plans and goals to go the way we hoped.</description>
+            <link>https://media.wildwoodag.xyz/church-health/unmet-expectations.mp3</link>
+            <guid isPermaLink="true">https://media.wildwoodag.xyz/church-health/unmet-expectations.mp3</guid>
+            <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
+            <author>jkautz@stxag.org (Jim Kautz)</author>
+            <itunes:image href="https://media.wildwoodag.xyz/church-health/unmet-expectations.jpg"/>
+            <itunes:explicit>false</itunes:explicit>
+
+            <enclosure url="https://media.wildwoodag.xyz/church-health/unmet-expectations.mp3" length="13352397" type="audio/mpeg" />
+
+            <podcast:socialInteract priority="1" uri="https://www.instagram.com/stxag_church_health/" protocol="instagram" accountId="@stxag_church_health" accountUrl="https://www.instagram.com/stxag_church_health/" />
+            <podcast:socialInteract priority="2" uri="https://www.facebook.com/STXAGChurchHealth" protocol="facebook" accountId="@STXAGChurchHealth" accountUrl="https://www.facebook.com/STXAGChurchHealth" />
+        </item>
+
         <item>
             <title>Stop &amp; Look at the Lights</title>
             <description>A topical discussion on the busyness of the season and the benefits of taking time to enjoy it.</description>
@@ -257,22 +272,6 @@
             <itunes:explicit>false</itunes:explicit>
 
             <enclosure url="https://media.wildwoodag.xyz/church-health/healthy-lifestyle-spiritual-health.mp3" length="35990349" type="audio/mpeg" />
-
-            <podcast:socialInteract priority="1" uri="https://www.instagram.com/stxag_church_health/" protocol="instagram" accountId="@stxag_church_health" accountUrl="https://www.instagram.com/stxag_church_health/" />
-            <podcast:socialInteract priority="2" uri="https://www.facebook.com/STXAGChurchHealth" protocol="facebook" accountId="@STXAGChurchHealth" accountUrl="https://www.facebook.com/STXAGChurchHealth" />
-        </item>
-        
-        <item>
-            <title>Healthy Lifestyle - Joey’s Story</title>
-            <description>Special guest Pastor Joey shares his physical health journey while serving in ministry.</description>
-            <link>https://media.wildwoodag.xyz/church-health/healthy-lifestyle-joeys-story.mp3</link>
-            <guid isPermaLink="true">https://media.wildwoodag.xyz/church-health/healthy-lifestyle-joeys-story.mp3</guid>
-            <pubDate>Tue, 27 Feb 2024 14:00:08 +0000</pubDate>
-            <author>jkautz@stxag.org (Jim Kautz)</author>
-            <itunes:image href="https://media.wildwoodag.xyz/church-health/healthy-lifestyle-joeys-story.jpg"/>
-            <itunes:explicit>false</itunes:explicit>
-
-            <enclosure url="https://media.wildwoodag.xyz/church-health/healthy-lifestyle-joeys-story.mp3" length="27285837" type="audio/mpeg" />
 
             <podcast:socialInteract priority="1" uri="https://www.instagram.com/stxag_church_health/" protocol="instagram" accountId="@stxag_church_health" accountUrl="https://www.instagram.com/stxag_church_health/" />
             <podcast:socialInteract priority="2" uri="https://www.facebook.com/STXAGChurchHealth" protocol="facebook" accountId="@STXAGChurchHealth" accountUrl="https://www.facebook.com/STXAGChurchHealth" />
